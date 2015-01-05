@@ -5,15 +5,15 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
-/apertium-fra-ron.fra-ron.dix -text svneol=unset#application/xml
-/apertium-fra-ron.fra-ron.lrx -text
-/apertium-fra-ron.fra-ron.t1x -text svneol=unset#application/xml
-/apertium-fra-ron.fra-ron.t2x -text svneol=unset#application/xml
-/apertium-fra-ron.fra-ron.t3x -text svneol=unset#application/xml
+/apertium-fra-ron.fra-ron.dix -text svneol=unset#text/plain
+/apertium-fra-ron.fra-ron.lrx -text svneol=unset#text/plain
+/apertium-fra-ron.fra-ron.t1x -text svneol=unset#text/plain
+/apertium-fra-ron.fra-ron.t2x -text svneol=unset#text/plain
+/apertium-fra-ron.fra-ron.t3x -text svneol=unset#text/plain
 /apertium-fra-ron.ron-fra.lrx -text
-/apertium-fra-ron.ron-fra.t1x -text svneol=unset#application/xml
-/apertium-fra-ron.ron-fra.t2x -text svneol=unset#application/xml
-/apertium-fra-ron.ron-fra.t3x -text svneol=unset#application/xml
+/apertium-fra-ron.ron-fra.t1x -text svneol=unset#text/plain
+/apertium-fra-ron.ron-fra.t2x -text svneol=unset#text/plain
+/apertium-fra-ron.ron-fra.t3x -text svneol=unset#text/plain
 /autogen.sh -text
 /configure.ac -text
-/modes.xml -text svneol=unset#application/xml
+/modes.xml -text svneol=unset#text/plain
