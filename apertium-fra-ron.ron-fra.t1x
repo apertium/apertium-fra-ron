@@ -856,6 +856,7 @@
             </not>
           </test>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <mlu>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
@@ -873,10 +874,12 @@
                 <clip pos="1" side="tl" part="lemq"/>
               </lu>
             </mlu>
+  </chunk>
           </out>
         </when>
         <otherwise>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
@@ -885,6 +888,7 @@
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
+  </chunk>
           </out>
         </otherwise>
       </choose>
@@ -912,6 +916,7 @@
                 </not>
               </test>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <mlu>
                   <lu>
                     <clip pos="1" side="tl" part="lemh"/>
@@ -936,10 +941,12 @@
                     <clip pos="1" side="tl" part="lemq"/>
                   </lu>
                 </mlu>
+  </chunk>
               </out>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <mlu>
                   <lu>
                     <clip pos="1" side="tl" part="lemh"/>
@@ -957,12 +964,14 @@
                     <clip pos="1" side="tl" part="lemq"/>
                   </lu>
                 </mlu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
         </when>
         <otherwise>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
               <clip pos="1" side="tl" part="a_verb"/>
@@ -971,6 +980,7 @@
               <clip pos="1" side="tl" part="nbr"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
+  </chunk>
           </out>
         </otherwise>
       </choose>
@@ -1012,22 +1022,26 @@
                 </equal>
               </test>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="me"/>
                   </get-case-from>
                   <lit-tag v="prn.pro.p1.mf.sg"/>
                 </lu>
+  </chunk>
               </out>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="nos"/>
                   </get-case-from>
                   <lit-tag v="prn.pro.p1.mf.pl"/>
                 </lu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
@@ -1050,34 +1064,40 @@
                     </equal>
                   </test>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                     <lu>
                       <get-case-from pos="1">
                         <lit v="te"/>
                       </get-case-from>
                       <lit-tag v="prn.pro.p2.mf.sg"/>
                     </lu>
+  </chunk>
                   </out>
                 </when>
                 <otherwise>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                     <lu>
                       <get-case-from pos="1">
                         <lit v="os"/>
                       </get-case-from>
                       <lit-tag v="prn.pro.p2.mf.pl"/>
                     </lu>
+  </chunk>
                   </out>
                 </otherwise>
               </choose>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="se"/>
                   </get-case-from>
                   <lit-tag v="prn.pro.ref.p3.mf.sp"/>
                 </lu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
@@ -1104,22 +1124,26 @@
                 </equal>
               </test>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="me"/>
                   </get-case-from>
                   <lit-tag v="prn.enc.p1.mf.sg"/>
                 </lu>
+  </chunk>
               </out>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="nos"/>
                   </get-case-from>
                   <lit-tag v="prn.enc.p1.mf.pl"/>
                 </lu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
@@ -1142,34 +1166,40 @@
                     </equal>
                   </test>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                     <lu>
                       <get-case-from pos="1">
                         <lit v="te"/>
                       </get-case-from>
                       <lit-tag v="prn.enc.p2.mf.sg"/>
                     </lu>
+  </chunk>
                   </out>
                 </when>
                 <otherwise>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                     <lu>
                       <get-case-from pos="1">
                         <lit v="os"/>
                       </get-case-from>
                       <lit-tag v="prn.enc.p2.mf.pl"/>
                     </lu>
+  </chunk>
                   </out>
                 </otherwise>
               </choose>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <get-case-from pos="1">
                     <lit v="se"/>
                   </get-case-from>
                   <lit-tag v="prn.enc.ref.p3.mf.sp"/>
                 </lu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
@@ -1228,9 +1258,11 @@
                 </or>
               </test>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <clip pos="1" side="tl" part="whole"/>
                 </lu>
+  </chunk>
               </out>
             </when>
             <otherwise>
@@ -1267,6 +1299,7 @@
                         </equal>
                       </test>
                       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                         <mlu>
                           <lu>
                             <clip pos="1" side="tl" part="lemh"/>
@@ -1280,10 +1313,12 @@
                             <lit-tag v="prn.enc.p1.mf.sg"/>
                           </lu>
                         </mlu>
+  </chunk>
                       </out>
                     </when>
                     <otherwise>
                       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                         <mlu>
                           <lu>
                             <clip pos="1" side="tl" part="lemh"/>
@@ -1297,6 +1332,7 @@
                             <lit-tag v="prn.enc.p1.mf.pl"/>
                           </lu>
                         </mlu>
+  </chunk>
                       </out>
                     </otherwise>
                   </choose>
@@ -1319,6 +1355,7 @@
                             </equal>
                           </test>
                           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                             <mlu>
                               <lu>
                                 <clip pos="1" side="tl" part="lemh"/>
@@ -1332,10 +1369,12 @@
                                 <lit-tag v="prn.enc.p2.mf.sg"/>
                               </lu>
                             </mlu>
+  </chunk>
                           </out>
                         </when>
                         <otherwise>
                           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                             <mlu>
                               <lu>
                                 <clip pos="1" side="tl" part="lemh"/>
@@ -1349,12 +1388,14 @@
                                 <lit-tag v="prn.enc.p2.mf.pl"/>
                               </lu>
                             </mlu>
+  </chunk>
                           </out>
                         </otherwise>
                       </choose>
                     </when>
                     <otherwise>
                       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                         <mlu>
                           <lu>
                             <clip pos="1" side="tl" part="lemh"/>
@@ -1369,6 +1410,7 @@
                             <clip pos="1" side="tl" part="nbr"/>
                           </lu>
                         </mlu>
+  </chunk>
                       </out>
                     </otherwise>
                   </choose>
@@ -3680,7 +3722,8 @@
         <call-macro n="f_concord1">
           <with-param pos="1"/>
         </call-macro>
-            <out> 
+            <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	     <lu>
 	       <get-case-from pos="1">
 	         <clip pos="1" side="tl" part="whole"/>
@@ -3693,6 +3736,7 @@
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
       </action>
     </rule> 
@@ -3716,6 +3760,7 @@
           <with-param pos="3"/> 
 	</call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
 	        <get-case-from pos="1">
 	        <lit v="le"/>
@@ -3747,6 +3792,7 @@
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="3" side="tl" part="nbr"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -3774,6 +3820,7 @@
                <with-param pos="1"/>
             </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
                <get-case-from pos="1">
 	        <lit v="le"/>
@@ -3806,6 +3853,7 @@
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="3" side="tl" part="nbr"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -3821,6 +3869,7 @@
           <with-param pos="2"/>
         </call-macro>
                  <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		    <lit v="de"/>  
 		    <lit-tag v="pr"/>
@@ -3839,7 +3888,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+                 </out>
          </action>
     </rule> 
 
@@ -3862,6 +3912,7 @@
           <with-param pos="3"/> 
 	</call-macro>
                  <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		    <lit v="de"/>  
 		    <lit-tag v="pr"/>
@@ -3887,7 +3938,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+                 </out>
          </action>
     </rule> 
 
@@ -3915,6 +3967,7 @@
           <with-param pos="4"/> 
 	</call-macro>
                  <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		    <lit v="de"/>  
 		    <lit-tag v="pr"/>
@@ -3947,7 +4000,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+                 </out>
          </action>
     </rule> 
 
@@ -3974,6 +4028,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -3993,10 +4048,12 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -4016,7 +4073,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4053,6 +4111,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
@@ -4074,10 +4133,12 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>                    
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -4098,7 +4159,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>  
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4131,6 +4193,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
@@ -4145,10 +4208,12 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>                  
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -4162,7 +4227,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4199,6 +4265,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <lit v="le"/>
                     <lit-tag v="det.def"/>
@@ -4231,10 +4298,12 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <lit v="le"/>
                     <lit-tag v="det.def"/>
@@ -4267,7 +4336,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4304,6 +4374,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <lit v="le"/>
                     <lit-tag v="det.def"/>
@@ -4331,10 +4402,12 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <lit v="le"/>
                     <lit-tag v="det.def"/>
@@ -4362,7 +4435,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4389,7 +4463,8 @@
         <call-macro n="f_concord1">
           <with-param pos="3"/>
         </call-macro>
-            <out> 
+            <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	     <lu>
 	       <get-case-from pos="1">
 	         <clip pos="1" side="tl" part="whole"/>
@@ -4417,6 +4492,7 @@
                 <clip pos="3" side="tl" part="whole"/>
               </lu>
               <b/>
+  </chunk>
             </out>
       </action>
     </rule>
@@ -4454,6 +4530,7 @@
                  </and>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4482,10 +4559,12 @@
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
                   <b/>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4513,7 +4592,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4557,6 +4637,7 @@
                  </and>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4591,10 +4672,12 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4629,7 +4712,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4669,6 +4753,7 @@
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4722,10 +4807,12 @@
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4779,7 +4866,8 @@
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -4824,6 +4912,7 @@
               </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -4853,10 +4942,12 @@
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
            </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -4879,6 +4970,7 @@
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -4928,6 +5020,7 @@
                  </and>
                 </test> 
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -4971,11 +5064,13 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
              
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -5019,7 +5114,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
            </choose>
          </action>
@@ -5043,6 +5139,7 @@
                 </equal>
               </test>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -5051,7 +5148,8 @@
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+              </out>
 	      </when>
 	    </choose>
            <choose>
@@ -5069,6 +5167,7 @@
               </and>
             </test>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		    <lit v="a"/>
                     <lit-tag v="pr"/>
@@ -5080,7 +5179,8 @@
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
 		</when>
                <otherwise>
 	       <choose>
@@ -5098,12 +5198,14 @@
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nploc"/>
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -5120,6 +5222,7 @@
       </pattern>
        <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
            <lu>
 	     <get-case-from pos="1">
 	      <lit v="a"/> 
@@ -5132,7 +5235,8 @@
               <clip pos="2" side="tl" part="a_npant"/>  
 	      <clip pos="2" side="tl" part="gen"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
       </action>
     </rule>
 
@@ -5146,6 +5250,7 @@
       </pattern>
       <action>
          <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <clip pos="3" side="tl" part="lemh"/>
@@ -5156,7 +5261,8 @@
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
-        </out>
+  </chunk>
+         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
         </call-macro>
@@ -5172,6 +5278,7 @@
       </pattern>
       <action>
          <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <clip pos="3" side="tl" part="lemh"/>
@@ -5182,7 +5289,8 @@
             <clip pos="3" side="tl" part="nbr"/>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
-        </out>
+  </chunk>
+         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
         </call-macro>
@@ -5255,6 +5363,7 @@
                 </equal>
                 </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -5282,10 +5391,12 @@
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
            </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -5308,6 +5419,7 @@
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -5383,6 +5495,7 @@
                 </equal>
              </test> -->
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	          <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5403,6 +5516,7 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
              </out>    
        </action>
     </rule>
@@ -5424,6 +5538,7 @@
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
            <lu>
 	     <get-case-from pos="1">
 	      <lit v="a"/> 
@@ -5437,10 +5552,12 @@
 	      <clip pos="2" side="tl" part="gen"/>
               <clip pos="2" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		<lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5454,7 +5571,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
       </action>
@@ -5476,6 +5594,7 @@
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
            <lu>
 	     <get-case-from pos="1">
 	      <lit v="a"/> 
@@ -5489,10 +5608,12 @@
 	      <clip pos="2" side="tl" part="gen"/>
               <clip pos="2" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		<lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5506,7 +5627,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
       </action>
@@ -5553,6 +5675,7 @@
               </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                  <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5601,10 +5724,12 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu> 
-                </out>
+  </chunk>
+           </out>
               </when>
 		<otherwise>
 		<out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                  <lu>
 		    <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_verb"/>
@@ -5639,6 +5764,7 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu> 
+  </chunk>
                 </out>
               </otherwise>
              </choose>
@@ -5682,6 +5808,7 @@
               </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5721,7 +5848,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu> 
-                </out>
+  </chunk>
+           </out>
               </when>
              </choose>
            </action>
@@ -5754,6 +5882,7 @@
 		</not>              
 	     </test> 
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5774,10 +5903,12 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
 </when>
 <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		<lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5791,7 +5922,8 @@
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
          </choose>
          
@@ -5829,6 +5961,7 @@
                 </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5856,7 +5989,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu> 
-                </out>
+  </chunk>
+           </out>
               </when>
              <when>
              <test>
@@ -5872,6 +6006,7 @@
                </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5904,7 +6039,8 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu> 
-                </out>
+  </chunk>
+           </out>
               </when>           
              <otherwise>
             <choose>
@@ -5916,6 +6052,7 @@
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -5936,6 +6073,7 @@
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu> 
+  </chunk>
                 </out>                
               </when>
               </choose>            
@@ -5988,6 +6126,7 @@
               </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -6022,7 +6161,8 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+           </out>
               </when>                         
              <otherwise>
             <choose>
@@ -6034,6 +6174,7 @@
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -6061,6 +6202,7 @@
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>                   
+  </chunk>
                 </out>                
               </when>
               </choose>            
@@ -6117,6 +6259,7 @@
               </and>
             </test>
 	   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -6158,7 +6301,8 @@
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>  
-                </out>
+  </chunk>
+           </out>
               </when>                         
              <otherwise>
             <choose>
@@ -6170,6 +6314,7 @@
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
 		  <get-case-from pos="1">
 		    <clip pos="1" side="tl" part="lem"/>
@@ -6204,6 +6349,7 @@
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu> 
+  </chunk>
                 </out>                
               </when>
               </choose>            
@@ -6434,6 +6580,7 @@
                <with-param pos="1"/>
               </call-macro>   
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      <lu>
 	       <get-case-from pos="1">
 	       <lit v="de"/>
@@ -6447,6 +6594,7 @@
                 <clip pos="1" side="tl" part="gen"/>
                 <clip pos="1" side="tl" part="nbr"/>
               </lu>
+  </chunk>
              </out>
 	    </when> 
 	   <otherwise>
@@ -6459,12 +6607,14 @@
 	       </equal>
 	     </test>  
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
                 <clip pos="1" side="tl" part="gen"/>
                 <clip pos="1" side="tl" part="nbr"/>
               </lu>
+  </chunk>
              </out>
 	    </when>
 	   </choose> 
@@ -6488,12 +6638,14 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="1"/>
         </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_prn"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -6511,12 +6663,14 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="1"/>
         </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_num"/>
             <clip pos="1" side="tl" part="gen"/>
             <clip pos="1" side="tl" part="nbr"/>          
           </lu>
+  </chunk>
         </out>
       </action>
     </rule> 
@@ -6556,6 +6710,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		  <get-case-from pos="1">
                     <lit v="le"/>
@@ -6571,10 +6726,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/>  
@@ -6592,6 +6749,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -6612,12 +6770,14 @@ is not applicable because gender and number can not be taken from previous rules
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -6649,6 +6809,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>
@@ -6671,10 +6832,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		  <get-case-from pos="1">
                     <lit v="a"/>
@@ -6695,6 +6858,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -6714,13 +6878,15 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </and>
                 </test>
-                <out>  
+                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
 	    </choose>  
@@ -6744,6 +6910,7 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="1"/> 
 	</call-macro>  	
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu> 		 
                     <clip pos="1" side="tl" part="lem"/> 
                     <clip pos="1" side="tl" part="a_adj"/>
@@ -6766,7 +6933,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               
       </action>
     </rule>
@@ -6782,6 +6950,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                 <clip pos="1" side="tl" part="lem"/>	     
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -6802,7 +6971,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="sl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                 </lu> 
-                </out>
+  </chunk>
+               </out>
        </action>
     </rule>
 
@@ -6817,6 +6987,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
 		    <clip pos="1" side="tl" part="a_nom"/>
@@ -6835,7 +7006,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="sl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                 </lu> 
-                </out>
+  </chunk>
+               </out>
        </action>
     </rule>
   
@@ -6871,6 +7043,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>		  
 		    <lit v="le"/>
                     <lit-tag v="det.def"/>
@@ -6896,10 +7069,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
 		</when>
                <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -6913,6 +7088,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
 	    </choose> 
@@ -6930,6 +7106,7 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="1"/>
         </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
 	    <clip pos="1" side="tl" part="a_relat"/>
@@ -6937,6 +7114,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>        
             
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -6954,12 +7132,14 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="1"/>
 	</call-macro>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_adjpos"/>
               <clip pos="1" side="tl" part="gen"/>
               <clip pos="1" side="tl" part="nbr"/>
             </lu>
+  </chunk>
           </out>
         </action>
       </rule>
@@ -7002,6 +7182,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7019,10 +7200,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/>
@@ -7040,6 +7223,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -7060,12 +7244,14 @@ is not applicable because gender and number can not be taken from previous rules
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_adj"/>
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -7097,6 +7283,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/> 
@@ -7119,10 +7306,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -7145,6 +7334,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -7164,13 +7354,15 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </and>
                 </test>
-                <out>  
+                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_adj"/>
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
 	    </choose>  
@@ -7221,6 +7413,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	      <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lem"/>
@@ -7264,10 +7457,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -7290,6 +7485,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -7339,6 +7535,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7363,10 +7560,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
               <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7391,7 +7590,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
           </when>
@@ -7411,6 +7611,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_adj"/>
@@ -7424,6 +7625,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -7455,6 +7657,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -7484,10 +7687,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -7517,6 +7722,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -7536,7 +7742,8 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </and>
                 </test>
-                <out>  
+                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		  <lu>
                     <lit v="a"/>
                     <lit-tag v="pr"/>
@@ -7557,6 +7764,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
 	    </choose>  
@@ -7593,6 +7801,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7634,10 +7843,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7681,7 +7892,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -7715,6 +7927,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7756,10 +7969,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -7801,7 +8016,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -7834,6 +8050,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -7873,10 +8090,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -7916,7 +8135,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -7955,6 +8175,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -8001,10 +8222,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -8051,7 +8274,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8090,6 +8314,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -8140,10 +8365,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -8194,7 +8421,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8217,6 +8445,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -8242,10 +8471,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -8271,7 +8502,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8295,6 +8527,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -8329,10 +8562,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -8367,7 +8602,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8396,6 +8632,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -8421,10 +8658,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -8450,7 +8689,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8486,6 +8726,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>  
 		    <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_det"/>
@@ -8518,10 +8759,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>  
 		    <clip pos="1" side="tl" part="lem"/> 
                     <clip pos="1" side="tl" part="a_det"/>
@@ -8554,7 +8797,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8596,6 +8840,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>  
 		    <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_det"/>
@@ -8635,10 +8880,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>  
 		    <clip pos="1" side="tl" part="lem"/> 
                     <clip pos="1" side="tl" part="a_det"/>
@@ -8678,7 +8925,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="5" side="tl" part="gen"/>
                     <clip pos="5" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
          </action>
@@ -8844,6 +9092,7 @@ is not applicable because gender and number can not be taken from previous rules
 
 
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_num"/>
@@ -8857,6 +9106,7 @@ is not applicable because gender and number can not be taken from previous rules
               <clip pos="2" side="tl" part="gen"/>
               <clip pos="2" side="tl" part="nbr"/> 
            </lu>
+  </chunk>
           </out>
     </action>
   </rule>
@@ -8887,6 +9137,7 @@ is not applicable because gender and number can not be taken from previous rules
 	      </equal>
 	    </test>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
               <clip pos="1" side="tl" part="lem"/>
               <clip pos="1" side="tl" part="a_num"/>
@@ -8900,10 +9151,12 @@ is not applicable because gender and number can not be taken from previous rules
               <clip pos="3" side="tl" part="gen"/>             
               <lit-tag v="pl"/>
             </lu>
+  </chunk>
           </out>
         </when>
          <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>  
 		    <clip pos="1" side="tl" part="lem"/> 
                     <clip pos="1" side="tl" part="a_num"/>
@@ -8922,7 +9175,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>	        
-                </out>
+  </chunk>
+               </out>
               </otherwise>        
       </choose>
     </action>
@@ -8996,6 +9250,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </equal>
              </test>
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      
                   <lu>
 		  <get-case-from pos="1">
@@ -9012,6 +9267,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
              </out>
           </when>
           <when>
@@ -9022,6 +9278,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </equal>
              </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9042,7 +9299,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="1" side="tl" part="gen"/>
                     <clip pos="1" side="tl" part="nbr"/>
                   </lu>
-	        </out>
+  </chunk>
+                </out>
               </when>            
            </choose>    
        </action>
@@ -9089,6 +9347,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9113,10 +9372,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
               <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9141,7 +9402,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
           </when>
@@ -9161,6 +9423,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -9174,6 +9437,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -9205,6 +9469,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9234,10 +9499,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9267,6 +9534,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -9289,7 +9557,8 @@ is not applicable because gender and number can not be taken from previous rules
 		<call-macro n="modcase">
                   <with-param pos="1"/>
                 </call-macro>
-                <out>  
+                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		  <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>
@@ -9312,6 +9581,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
 	    </choose>  
@@ -9364,6 +9634,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9393,10 +9664,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
               <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9426,7 +9699,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
           </when>
@@ -9446,6 +9720,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </and>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -9464,6 +9739,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
             </choose>
@@ -9495,6 +9771,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9529,10 +9806,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9567,6 +9846,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -9589,7 +9869,8 @@ is not applicable because gender and number can not be taken from previous rules
 		<call-macro n="modcase">
                   <with-param pos="1"/>
                 </call-macro>
-                <out>  
+                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		  <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>
@@ -9617,6 +9898,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
 	    </choose>  
@@ -9665,6 +9947,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9685,10 +9968,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </when>
               <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="le"/> 
@@ -9709,7 +9994,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
               </otherwise>
             </choose>
           </when>
@@ -9731,6 +10017,7 @@ is not applicable because gender and number can not be taken from previous rules
                   </equal>
                 </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <lit v="a"/>  
@@ -9756,10 +10043,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="sl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
                 <otherwise>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                     <lu> 
 		    <get-case-from pos="1">
                       <lit v="a"/>
@@ -9785,7 +10074,8 @@ is not applicable because gender and number can not be taken from previous rules
                         <clip pos="3" side="tl" part="gen"/>
                         <clip pos="3" side="tl" part="nbr"/>
                       </lu>
-                    </out>
+  </chunk>
+                  </out>
               </otherwise>
             </choose>
 	  </when>    
@@ -9819,6 +10109,7 @@ is not applicable because gender and number can not be taken from previous rules
               </equal>
              </test>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
 		   <get-case-from pos="1">
                     <clip pos="3" side="tl" part="lem"/>
@@ -9828,10 +10119,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </when>
               <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="3" side="tl" part="lem"/>
                     <clip pos="3" side="tl" part="a_adj"/>
@@ -9839,6 +10132,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
             </choose>
@@ -9855,6 +10149,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action> 
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                <lu>
 	          <get-case-from pos="1">
                   <clip pos="1" side="tl" part="lem"/>
@@ -9877,7 +10172,8 @@ is not applicable because gender and number can not be taken from previous rules
                    <clip pos="4" side="tl" part="lemq"/>
                 </lu>
                </mlu>
-                </out>
+  </chunk>
+          </out>
       </action>
     </rule>
     
@@ -9892,6 +10188,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>  
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                <lu>
 	          <get-case-from pos="1">
                   <clip pos="1" side="tl" part="lem"/>
@@ -9904,7 +10201,8 @@ is not applicable because gender and number can not be taken from previous rules
 		  <clip pos="3" side="tl" part="a_verb"/>
 		  <lit-tag v="inf"/>
                  </lu>
-                </out>
+  </chunk>
+          </out>
       </action>
     </rule>
     
@@ -9946,6 +10244,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	       <get-case-from pos="1">
                 <lit v="le"/>
@@ -9968,6 +10267,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -9987,6 +10287,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	      <get-case-from pos="1">
                 <lit v="a"/>
@@ -10014,10 +10315,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="1" side="tl" part="gen"/>
                 <clip pos="1" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_nom"/>
@@ -10031,6 +10334,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -10068,6 +10372,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	       <get-case-from pos="1">
                 <lit v="a"/> 
@@ -10095,10 +10400,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
 	<otherwise>
 	<out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -10119,7 +10426,8 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
-            </out>
+  </chunk>
+        </out>
 	</otherwise>
         </choose>
       </action>
@@ -10157,6 +10465,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	       <get-case-from pos="1">
                 <lit v="a"/> 
@@ -10184,10 +10493,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
 	<otherwise>
 	<out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -10208,7 +10519,8 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
-            </out>
+  </chunk>
+        </out>
 	</otherwise>
         </choose>
       </action>
@@ -10243,6 +10555,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
              <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	      <get-case-from pos="1">
                 <lit v="a"/> 
@@ -10263,10 +10576,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
-              </out>
+  </chunk>
+             </out>
           </when>
 	<otherwise>
 	<out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -10280,7 +10595,8 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
-              </out>
+  </chunk>
+        </out>
 	</otherwise>
         </choose>
       </action>
@@ -10326,6 +10642,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	      <get-case-from pos="1">
                 <lit v="le"/>
@@ -10360,10 +10677,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_nom"/>
@@ -10377,6 +10696,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -10404,6 +10724,7 @@ is not applicable because gender and number can not be taken from previous rules
 	    </equal>
 	  </test>
 	  <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
@@ -10422,10 +10743,12 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="inf"/>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
-        </out> 
+  </chunk>
+          </out> 
 	</when>
 	<otherwise>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
@@ -10447,6 +10770,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="inf"/>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
        </otherwise>
       </choose>
@@ -10462,6 +10786,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="ya"/>
             <lit-tag v="adv"/>
@@ -10480,7 +10805,8 @@ is not applicable because gender and number can not be taken from previous rules
 	    <clip pos="3" side="tl" part="persona"/>
             <clip pos="3" side="tl" part="nbr"/>
           </lu>                                
-        </out>	
+  </chunk>
+      </out>	
     </action>
 </rule> 
     
@@ -10493,6 +10819,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
 	  <get-case-from pos="1">
             <clip pos="2" side="tl" part="lemh"/>
@@ -10516,6 +10843,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="inf"/>
             <clip pos="4" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
     </action>
 </rule> 
@@ -10528,6 +10856,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="ni"/>
             <lit-tag v="cnjcoo"/>
@@ -10541,7 +10870,8 @@ is not applicable because gender and number can not be taken from previous rules
 	    <clip pos="3" side="tl" part="persona"/>
             <clip pos="3" side="tl" part="nbr"/>
            </lu>                                
-        </out>	
+  </chunk>
+      </out>	
     </action>
 </rule> 
 
@@ -10553,6 +10883,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_adv"/>            
@@ -10566,7 +10897,8 @@ is not applicable because gender and number can not be taken from previous rules
 	    <clip pos="3" side="tl" part="persona"/>
             <clip pos="3" side="tl" part="nbr"/>
            </lu>                                
-        </out>	
+  </chunk>
+      </out>	
     </action>
 </rule> 
 
@@ -10582,6 +10914,7 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="2"/>
         </call-macro>
       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_adv"/>            
@@ -10601,7 +10934,8 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="adv"/>
           </lu> 
           <b/>                                               
-        </out>	
+  </chunk>
+      </out>	
     </action>
 </rule>        
 
@@ -10627,6 +10961,7 @@ is not applicable because gender and number can not be taken from previous rules
                 </equal>                
             </test>
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_adv"/>            
@@ -10664,10 +10999,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="4" side="tl" part="gen"/>
                 <clip pos="4" side="tl" part="nbr"/>
           </lu>                                     
-        </out>
+  </chunk>
+          </out>
         </when>
         <otherwise>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lem"/>
             <clip pos="1" side="tl" part="a_adv"/>            
@@ -10705,6 +11042,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="4" side="tl" part="gen"/>
                 <clip pos="4" side="tl" part="nbr"/>
           </lu>                                     
+  </chunk>
         </out>
       </otherwise>
      </choose>	
@@ -10721,6 +11059,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
 	  <get-case-from pos="1">
             <clip pos="2" side="tl" part="lemh"/>
@@ -10744,6 +11083,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="inf"/>
             <clip pos="4" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
     </action>
 </rule> 
@@ -10757,6 +11097,7 @@ is not applicable because gender and number can not be taken from previous rules
     </pattern>
     <action> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
 	  <get-case-from pos="1">
             <clip pos="2" side="tl" part="lemh"/>
@@ -10780,6 +11121,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="inf"/>
             <clip pos="4" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
     </action>
 </rule>     
@@ -10810,6 +11152,7 @@ is not applicable because gender and number can not be taken from previous rules
               </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -10837,6 +11180,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -10853,6 +11197,7 @@ is not applicable because gender and number can not be taken from previous rules
               </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -10875,10 +11220,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
             </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -10894,6 +11241,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -10936,6 +11284,7 @@ is not applicable because gender and number can not be taken from previous rules
               </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -10970,10 +11319,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lemh"/>
                 <clip pos="1" side="tl" part="a_verb"/>
@@ -10996,6 +11347,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -11089,6 +11441,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	      <get-case-from pos="1">
                 <lit v="le"/>
@@ -11123,10 +11476,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_nom"/>
@@ -11147,7 +11502,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
-            </out>
+  </chunk></out>
           </otherwise>
         </choose>
       </action>
@@ -11559,6 +11914,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	      <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lem"/>
@@ -11598,10 +11954,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_prep"/>
@@ -11627,6 +11985,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -11663,6 +12022,7 @@ is not applicable because gender and number can not be taken from previous rules
 		    </and>
                   </test>
 		  <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		       <lu>
 	               <get-case-from pos="1">
 	               <clip pos="1" side="tl" part="lem"/>
@@ -11679,11 +12039,13 @@ is not applicable because gender and number can not be taken from previous rules
                        <clip pos="3" side="tl" part="a_verb"/>
                        <lit-tag v="inf"/>
                        </lu>
-                 </out>
+  </chunk>
+                  </out>
 	      </when>
 		 
 	      <otherwise>
                <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             	  <lu>
                        <clip pos="1" side="tl" part="lemh"/>
                        <clip pos="1" side="tl" part="a_verb"/>
@@ -11706,7 +12068,8 @@ is not applicable because gender and number can not be taken from previous rules
 		       <clip pos="3" side="tl" part="gen"/>
 		       <clip pos="3" side="tl" part="nbr"/>
 		</lu>
-		</out> 	
+  </chunk>
+               </out> 	
              </otherwise>
         </choose>
       </action>
@@ -11740,6 +12103,7 @@ is not applicable because gender and number can not be taken from previous rules
               <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	       <get-case-from pos="1">
                 <lit v="le"/>
@@ -11767,10 +12131,12 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <otherwise>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_adv"/>
@@ -11789,6 +12155,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </otherwise>
         </choose>
@@ -11828,6 +12195,7 @@ is not applicable because gender and number can not be taken from previous rules
      </when>
    </choose>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_num"/>
@@ -11848,6 +12216,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
       </action>
     </rule>
@@ -11885,6 +12254,7 @@ is not applicable because gender and number can not be taken from previous rules
      </when>
    </choose>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
                 <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_num"/>
@@ -11905,6 +12275,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
       </action>
     </rule>
@@ -12074,6 +12445,7 @@ is not applicable because gender and number can not be taken from previous rules
               </equal>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	       <lu>
 	       <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lemh"/>
@@ -12105,6 +12477,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="4" side="tl" part="gen"/>
                 <lit-tag v="pl"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -12118,6 +12491,7 @@ is not applicable because gender and number can not be taken from previous rules
               <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      <lu>
 	       <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lemh"/>
@@ -12154,6 +12528,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="4" side="tl" part="gen"/>
                 <lit-tag v="pl"/>
               </lu>
+  </chunk>
             </out>
           </when>
         </choose> 
@@ -12185,6 +12560,7 @@ is not applicable because gender and number can not be taken from previous rules
               </equal>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	       <get-case-from pos="1">
                 <lit v="le"/>
@@ -12207,6 +12583,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <lit-tag v="pl"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -12220,6 +12597,7 @@ is not applicable because gender and number can not be taken from previous rules
               <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	       <get-case-from pos="1">
                 <lit v="a"/>
@@ -12247,6 +12625,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <lit-tag v="pl"/>
               </lu>
+  </chunk>
             </out>
           </when>
         </choose> 
@@ -12283,6 +12662,7 @@ is not applicable because gender and number can not be taken from previous rules
              </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	        <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -12295,6 +12675,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -12314,6 +12695,7 @@ is not applicable because gender and number can not be taken from previous rules
               <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	       <get-case-from pos="1">
                 <lit v="a"/>
@@ -12333,6 +12715,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           
@@ -12346,6 +12729,7 @@ is not applicable because gender and number can not be taken from previous rules
               </equal>
              </test> -->
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	        <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -12358,6 +12742,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
        
    </otherwise>          
@@ -12410,6 +12795,7 @@ is not applicable because gender and number can not be taken from previous rules
              </and>
             </test>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	        <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -12448,6 +12834,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           <when>
@@ -12467,6 +12854,7 @@ is not applicable because gender and number can not be taken from previous rules
               <with-param pos="1"/>
             </call-macro>
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu> 
 	       <get-case-from pos="1">
                 <lit v="a"/>
@@ -12512,6 +12900,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
           </when>
           
@@ -12525,6 +12914,7 @@ is not applicable because gender and number can not be taken from previous rules
               </equal>
              </test> -->
             <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
 	        <clip pos="1" side="tl" part="lem"/>
                 <clip pos="1" side="tl" part="a_det"/>
@@ -12544,6 +12934,7 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
               </lu>
+  </chunk>
             </out>
        
    </otherwise>          
@@ -12560,6 +12951,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12570,6 +12962,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
@@ -12587,6 +12980,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	  <lu>
 	  <get-case-from pos="1">
 	    <clip pos="3" side="tl" part="lem"/> 
@@ -12605,6 +12999,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
@@ -12631,6 +13026,7 @@ is not applicable because gender and number can not be taken from previous rules
 	   </equal>                    
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <lit v="haber"/>
@@ -12647,6 +13043,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="pp.m.sg"/>
             <clip pos="3" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
        </when>
        </choose>
@@ -12667,6 +13064,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12677,6 +13075,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
@@ -12696,6 +13095,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12706,6 +13106,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
         <call-macro n="f_bcond">
           <with-param pos="1"/>
@@ -12733,6 +13134,7 @@ is not applicable because gender and number can not be taken from previous rules
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      <lu>
 	       <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lem"/>
@@ -12762,10 +13164,12 @@ is not applicable because gender and number can not be taken from previous rules
 	      <clip pos="3" side="tl" part="gen"/>
               <clip pos="3" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
              <lu>
 	       <get-case-from pos="1">
                 <clip pos="1" side="tl" part="lem"/>
@@ -12788,7 +13192,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
         <!--<call-macro n="f_bcond">
@@ -12818,6 +13223,7 @@ is not applicable because gender and number can not be taken from previous rules
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12840,10 +13246,12 @@ is not applicable because gender and number can not be taken from previous rules
 	      <clip pos="4" side="tl" part="gen"/>
               <clip pos="4" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                  <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12866,7 +13274,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
         <call-macro n="f_bcond">
@@ -12894,6 +13303,7 @@ is not applicable because gender and number can not be taken from previous rules
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
             <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12923,10 +13333,12 @@ is not applicable because gender and number can not be taken from previous rules
 	      <clip pos="4" side="tl" part="gen"/>
               <clip pos="4" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                  <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -12949,7 +13361,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
         <call-macro n="f_bcond">
@@ -12977,6 +13390,7 @@ is not applicable because gender and number can not be taken from previous rules
 	   </equal>                        
 	</test> 
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
              <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -13006,10 +13420,12 @@ is not applicable because gender and number can not be taken from previous rules
 	      <clip pos="4" side="tl" part="gen"/>
               <clip pos="4" side="tl" part="nbr"/>
             </lu>
-         </out>
+  </chunk>
+        </out>
          </when>
          <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
               <lu>
             <get-case-from pos="1">
               <clip pos="2" side="tl" part="lemh"/>
@@ -13032,7 +13448,8 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="4" side="tl" part="gen"/>
                     <clip pos="4" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+             </out>
             </otherwise>
           </choose>
         <call-macro n="f_bcond">
@@ -13049,6 +13466,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
            <get-case-from pos="1">
               <lit v="haber"/>
@@ -13065,6 +13483,7 @@ is not applicable because gender and number can not be taken from previous rules
             <lit-tag v="pp.m.sg"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -13077,6 +13496,7 @@ is not applicable because gender and number can not be taken from previous rules
       </pattern>
       <action>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="que"/>
             <lit-tag v="cnjsub"/>
@@ -13087,6 +13507,7 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="2" side="sl" part="a_verb"/>
             <lit-tag v="inf"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -13102,6 +13523,7 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="2"/>
         </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <mlu>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
@@ -13119,6 +13541,7 @@ is not applicable because gender and number can not be taken from previous rules
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </mlu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -13139,6 +13562,7 @@ is not applicable because gender and number can not be taken from previous rules
           <with-param pos="3"/>
         </call-macro>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <mlu>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
@@ -13163,6 +13587,7 @@ is not applicable because gender and number can not be taken from previous rules
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </mlu>
+  </chunk>
         </out>
       </action>
     </rule>
@@ -13214,6 +13639,7 @@ is not applicable because gender and number can not be taken from previous rules
                       </equal>
                      </test>
                       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	               <mlu>
 	                 <lu>
                           <clip pos="1" side="tl" part="lemh"/>
@@ -13231,7 +13657,8 @@ is not applicable because gender and number can not be taken from previous rules
                          <lit-tag v="prn.enc.p1.mf.pl"/>
                        </lu>
 		       </mlu>
-                       </out>
+  </chunk>
+                      </out>
                     </when>
                   </choose>
                 </when>
@@ -13253,6 +13680,7 @@ is not applicable because gender and number can not be taken from previous rules
                     </equal>
                   </test>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		  <mlu>
 		   <lu>
                 <clip pos="1" side="tl" part="lemh"/>
@@ -13270,10 +13698,12 @@ is not applicable because gender and number can not be taken from previous rules
                       <lit-tag v="prn.enc.p2.mf.sg"/>
                     </lu>
 		    </mlu>
+  </chunk>
                   </out>
                 </when>
                 <otherwise>
                   <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 		  <mlu>
 		   <lu>
                 <clip pos="1" side="tl" part="lemh"/>
@@ -13291,12 +13721,14 @@ is not applicable because gender and number can not be taken from previous rules
                       <lit-tag v="prn.enc.p2.mf.pl"/>
                     </lu>
 		    </mlu>
+  </chunk>
                   </out>
                 </otherwise>
               </choose>
             </when>
             <otherwise>
               <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	      <mlu>
 	       <lu>
                 <clip pos="1" side="tl" part="lemh"/>
@@ -13314,6 +13746,7 @@ is not applicable because gender and number can not be taken from previous rules
                   <lit-tag v="prn.enc.ref.p3.mf.sp"/>
                 </lu>
 		</mlu>
+  </chunk>
               </out>
             </otherwise>
           </choose>
@@ -13363,6 +13796,7 @@ is not applicable because gender and number can not be taken from previous rules
 	     </when>
 	     <otherwise>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                 <lu>
                   <clip pos="1" side="tl" part="lemh"/>
                   <clip pos="1" side="tl" part="a_verb"/>
@@ -13372,6 +13806,7 @@ is not applicable because gender and number can not be taken from previous rules
                   <clip pos="1" side="tl" part="nbr"/>
                   <clip pos="1" side="tl" part="lemq"/>
                </lu>
+  </chunk>
                </out>  
 	     </otherwise>
 	   </choose>
@@ -13380,6 +13815,7 @@ is not applicable because gender and number can not be taken from previous rules
 	 </when> 
 	<otherwise>
            <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="lemh"/>
             <clip pos="1" side="tl" part="a_verb"/>
@@ -13389,7 +13825,8 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="1" side="tl" part="nbr"/>
             <clip pos="1" side="tl" part="lemq"/>
           </lu>
-        </out>
+  </chunk>
+           </out>
       </otherwise>
     </choose>  
    </action>
@@ -13417,6 +13854,7 @@ is not applicable because gender and number can not be taken from previous rules
 	    <with-param pos="1"/>
 	  </call-macro>   
            <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
 	   <get-case-from pos="1">
             <clip pos="2" side="tl" part="lemh"/>
@@ -13428,7 +13866,8 @@ is not applicable because gender and number can not be taken from previous rules
             <clip pos="2" side="tl" part="nbr"/>
             <clip pos="2" side="tl" part="lemq"/>
           </lu>
-        </out>
+  </chunk>
+           </out>
 	</when>
       </choose>
     </action>
@@ -13445,6 +13884,7 @@ is not applicable because gender and number can not be taken from previous rules
         <with-param pos="2"/>
       </call-macro> 
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="como"/>
             <lit-tag v="adv"/>
@@ -13463,7 +13903,8 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="2" side="tl" part="gen"/>
                 <clip pos="2" side="tl" part="nbr"/>
           </lu>                                     
-        </out>
+  </chunk>
+          </out>
     </action>
 </rule>    
 
@@ -13485,6 +13926,7 @@ is not applicable because gender and number can not be taken from previous rules
            <with-param pos="2"/>
 	</call-macro> 
           <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="como"/>
             <lit-tag v="adv"/>
@@ -13503,7 +13945,8 @@ is not applicable because gender and number can not be taken from previous rules
                 <clip pos="3" side="tl" part="gen"/>
                 <clip pos="3" side="tl" part="nbr"/>
           </lu>                                     
-        </out>
+  </chunk>
+          </out>
     </action>
 </rule>     
 
@@ -13530,6 +13973,7 @@ is not applicable because gender and number can not be taken from previous rules
 	      </equal>
 	     </test>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	     <lu>
 	       <lit v="más"/>
 	       <lit-tag v="adv"/>
@@ -13546,10 +13990,12 @@ is not applicable because gender and number can not be taken from previous rules
 	         <lit v="que"/>
 		 <lit-tag v="adv"/>
 	       </lu>
-	     </out>
+  </chunk>
+             </out>
 	   </when>
 	   <otherwise>
 	     <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
 	       <lu>
 	         <clip pos="1" side="tl" part="whole"/>
 	       </lu>
@@ -13564,7 +14010,8 @@ is not applicable because gender and number can not be taken from previous rules
 	       <lu>
 	         <clip pos="3" side="tl" part="whole"/>
 		</lu>
-	      </out>
+  </chunk>
+             </out>
 	    </otherwise>
 	   </choose>
 	  </action>
@@ -13748,6 +14195,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="1"/>
             </call-macro>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>		  
 		<get-case-from pos="1">
                     <lit v="le"/>
@@ -13775,10 +14223,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
 		</when>
                <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_nom"/>
@@ -13792,6 +14242,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="2" side="tl" part="gen"/>
                     <clip pos="2" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
 	    </choose> 
@@ -13838,6 +14289,7 @@ is not applicable because gender and number can not be taken from previous rules
                <with-param pos="2"/>
             </call-macro>
 	       <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <get-case-from pos="1">
                     <clip pos="1" side="tl" part="lem"/>
@@ -13870,10 +14322,12 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
-                </out>
+  </chunk>
+               </out>
 		</when>
                <otherwise>
                 <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
                   <lu>
                     <clip pos="1" side="tl" part="lem"/>
                     <clip pos="1" side="tl" part="a_prep"/>                    
@@ -13892,6 +14346,7 @@ is not applicable because gender and number can not be taken from previous rules
                     <clip pos="3" side="tl" part="gen"/>
                     <clip pos="3" side="tl" part="nbr"/>
                   </lu>
+  </chunk>
                 </out>
               </otherwise>
 	    </choose> 
@@ -13914,6 +14369,7 @@ is not applicable because gender and number can not be taken from previous rules
 	      </equal>
 	    </test>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <lit v="de"/>
             <lit-tag v="pr"/>
@@ -13924,6 +14380,7 @@ is not applicable because gender and number can not be taken from previous rules
                  <clip pos="2" side="tl" part="gen"/>
                  <clip pos="2" side="tl" part="nbr"/>
           </lu>
+  </chunk>
         </out>
        </when>
       </choose>
@@ -13946,9 +14403,11 @@ is not applicable because gender and number can not be taken from previous rules
           <lit-tag v="m"/>
         </let>
         <out>
+  <chunk name="default"><tags><tag><lit-tag v="default"/></tag></tags>
           <lu>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
+  </chunk>
         </out>
       </action>
     </rule>
