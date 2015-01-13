@@ -588,8 +588,140 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>Lituanie<s n="np"/></l>                <r>Lituania<s n="np"/></r></p></e>
+    
     <!-- forced 'null' restriction
       default -->
+<e><p><l>"Abrud<s n = "np"/></l><r>Abrud<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Adjud<s n = "np"/></l><r>Adjud<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Aiud<s n = "np"/></l><r>Aiud<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Aleșd<s n = "np"/></l><r>Aleșd<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Arad<s n = "np"/></l><r>Arad<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Ardud<s n = "np"/></l><r>Ardud<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Avrig<s n = "np"/></l><r>Avrig<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Babadag<s n = "np"/></l><r>Babadag<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Băbeni<s n = "np"/></l><r>Băbeni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bacău<s n = "np"/></l><r>Bacău<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Băicoi<s n = "np"/></l><r>Băicoi<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Băilești<s n = "np"/></l><r>Băilești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bălan<s n = "np"/></l><r>Bălan<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bălcești<s n = "np"/></l><r>Bălcești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Balș<s n = "np"/></l><r>Balș<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Baraolt<s n = "np"/></l><r>Baraolt<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bârlad<s n = "np"/></l><r>Bârlad<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bechet<s n = "np"/></l><r>Bechet<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Beclean<s n = "np"/></l><r>Beclean<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Beiuș<s n = "np"/></l><r>Beiuș<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Berbești<s n = "np"/></l><r>Berbești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Berești<s n = "np"/></l><r>Berești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bicaz<s n = "np"/></l><r>Bicaz<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Blaj<s n = "np"/></l><r>Blaj<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Boldești-Scăeni<s n = "np"/></l><r>Boldești-Scăeni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Borsec<s n = "np"/></l><r>Borsec<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Botoșani<s n = "np"/></l><r>Botoșani<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Brad<s n = "np"/></l><r>Brad<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bragadiru<s n = "np"/></l><r>Bragadiru<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Brașov<s n = "np"/></l><r>Brașov<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Brezoi<s n = "np"/></l><r>Brezoi<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Broșteni<s n = "np"/></l><r>Broșteni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"București<s n = "np"/></l><r>București<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Budești<s n = "np"/></l><r>Budești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Buftea<s n = "np"/></l><r>Buftea<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Buhuși<s n = "np"/></l><r>Buhuși<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bumbești-Jiu<s n = "np"/></l><r>Bumbești-Jiu<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Bușteni<s n = "np"/></l><r>Bușteni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Buzău<s n = "np"/></l><r>Buzău<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Buziaș<s n = "np"/></l><r>Buziaș<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Calafat<s n = "np"/></l><r>Calafat<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Călan<s n = "np"/></l><r>Călan<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Călărași<s n = "np"/></l><r>Călărași<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Călimănești<s n = "np"/></l><r>Călimănești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Câmpeni<s n = "np"/></l><r>Câmpeni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Câmpulung<s n = "np"/></l><r>Câmpulung<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Caracal<s n = "np"/></l><r>Caracal<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Caransebeș<s n = "np"/></l><r>Caransebeș<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Carei<s n = "np"/></l><r>Carei<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Cavnic<s n = "np"/></l><r>Cavnic<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Căzănești<s n = "np"/></l><r>Căzănești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Chișineu-Criș<s n = "np"/></l><r>Chișineu-Criș<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Comănești<s n = "np"/></l><r>Comănești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Comarnic<s n = "np"/></l><r>Comarnic<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Costești<s n = "np"/></l><r>Costești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Cugir<s n = "np"/></l><r>Cugir<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Curtici<s n = "np"/></l><r>Curtici<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Dăbuleni<s n = "np"/></l><r>Dăbuleni<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Darabani<s n = "np"/></l><r>Darabani<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Dărmănești<s n = "np"/></l><r>Dărmănești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Dej<s n = "np"/></l><r>Dej<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Dorohoi<s n = "np"/></l><r>Dorohoi<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Drăgănești-Olt<s n = "np"/></l><r>Drăgănești-Olt<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Drăgășani<s n = "np"/></l><r>Drăgășani<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+<e><p><l>"Dragomirești<s n = "np"/></l><r>Dragomirești<s n = "np"/></r></p></e>
+<!--forced 'null' restriction default -->
+
 <e>       <p><l>Londres<s n="np"/></l>                 <r>Londra<s n="np"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -2381,6 +2513,9 @@
 <e>       <p><l>algérien<s n="adj"/></l>               <r>algerian<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>breton<s n="adj"/><s n="m"/></l>               <r>britanic<s n="adj"/><s n="mn"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>algue<s n="n"/></l>                    <r>algă<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -3935,6 +4070,9 @@
 <e>       <p><l>artiste<s n="n"/></l>                  <r>artist<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
+	  <e>       <p><l>isolationniste<s n="adj"/></l>                  <r>izolaționist<s n="adj"/></r></p></e>
+    <!-- forced 'RL' restriction
+      defaultRL -->
 <e r="LR"><p><l>artistique<s n="adj"/><s n="mf"/></l>  <r>artistic<s n="adj"/><s n="GD"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -4661,7 +4799,7 @@
 <e r="RL"><p><l>avantage<s n="n"/><s n="m"/></l>       <r>avantaj<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
-<e r="LR" vl="std"><p><l>avantage<s n="n"/><s n="m"/></l><r>avantaj<s n="n"/><s n="f"/></r></p></e>
+<e r="LR" alt="std"><p><l>avantage<s n="n"/><s n="m"/></l><r>avantaj<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>avantageux<s n="adj"/><s n="f"/></l>   <r>avantajos<s n="adj"/><s n="f"/></r></p></e>
@@ -4853,6 +4991,9 @@
 <e>       <p><l>même<s n="adv"/></l>                   <r>ba<b/>chiar<s n="adv"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>bestialité<s n="adj"/><s n="mf"/></l>                   <r>zoofil<s n="adj"/><s n="mn"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>bâbord<s n="n"/></l>                   <r>babor<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -4862,10 +5003,17 @@
 <e>       <p><l>chance<s n="n"/></l>                   <r>baftă<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>confiserie<s n="n"/><s n="f"/></l>                   <r>patiser<s n="n"/><s n="m"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
 <e>       <p><l>bagage<s n="n"/></l>                   <r>bagaj<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>bain<s n="n"/></l>                     <r>baie<s n="n"/></r></p></e>
+    <!-- forced 'RL' restriction
+      defaultRL -->
+<e>       <p><l>zoophilie<s n="n"/></l>                     <r>zoofilie<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>baignade<s n="n"/><s n="f"/></l>       <r>baie<s n="n"/><s n="m"/></r></p></e>
@@ -5192,6 +5340,9 @@
 <e>       <p><l>bestialité<s n="n"/></l>               <r>bestialitate<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>bestialité<s n="n"/></l>               <r>zoofil<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>bête<s n="n"/></l>                     <r>bestie<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -5312,6 +5463,7 @@
 <e>       <p><l>biographie<s n="n"/></l>               <r>biografie<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
+
 <e r="LR"><p><l>biologiste<s n="n"/><s n="mf"/></l>    <r>biolog<s n="n"/><s n="GD"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -5321,6 +5473,27 @@
 <e r="RL"><p><l>biologiste<s n="n"/><s n="mf"/></l>    <r>biolog<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
+
+<e r="LR"><p><l>ophtalmologiste<s n="n"/><s n="mf"/></l>    <r>oftalmolog<s n="n"/><s n="GD"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+<e r="RL"><p><l>ophtalmologiste<s n="n"/><s n="mf"/></l>    <r>oftalmolog<s n="n"/><s n="m"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+<e r="RL"><p><l>ophtalmologiste<s n="n"/><s n="mf"/></l>    <r>oftalmolog<s n="n"/><s n="f"/></r></p></e>
+    <!-- forced 'RL' restriction
+      defaultRL -->
+<e r="LR"><p><l>dermatologiste<s n="n"/><s n="mf"/></l>    <r>dermatolog<s n="n"/><s n="GD"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+<e r="RL"><p><l>dermatologiste<s n="n"/><s n="mf"/></l>    <r>dermatolog<s n="n"/><s n="m"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+<e r="RL"><p><l>dermatologiste<s n="n"/><s n="mf"/></l>    <r>dermatolog<s n="n"/><s n="f"/></r></p></e>
+    <!-- forced 'RL' restriction
+      defaultRL -->
+
+
 <e r="LR"><p><l>biologique<s n="adj"/><s n="mf"/></l>  <r>biologic<s n="adj"/><s n="GD"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -5744,7 +5917,16 @@
 <e>       <p><l>boulanger<s n="n"/></l>                <r>brutar<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>fleuriste<s n="n"/><s n="mf"/></l>                <r>florar<s n="n"/><s n="m"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>fossoyeur<s n="n"/></l>                <r>gropar<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>boulangerie<s n="n"/></l>              <r>brutărie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>pâtisserie<s n="n"/></l>              <r>patiserie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>fromage<s n="n"/></l>                  <r>brânză<s n="n"/></r></p></e>
@@ -5879,10 +6061,10 @@
 <e r="LR"><p><l>bonté<s n="n"/></l>                    <r>bunătate<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>bonté<s n="n"/></l>          <r>bunătate<s n="n"/></r></p></e>
+<e r="RL" alt="std"><p><l>bonté<s n="n"/></l>          <r>bunătate<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e vl="eco"><p><l>avantage<s n="n"/><s n="m"/></l>    <r>bunătate<s n="n"/><s n="f"/></r></p></e>
+<e alt="eco"><p><l>avantage<s n="n"/><s n="m"/></l>    <r>bunătate<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>bourgeoisie<s n="n"/></l>              <r>burghezie<s n="n"/></r></p></e>
@@ -6422,16 +6604,16 @@
 <e>       <p><l>ruban<s n="n"/><s n="m"/></l>          <r>casetă<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>caissier<s n="n"/></l>       <r>casier<s n="n"/></r></p></e>
+<e r="RL" alt="std"><p><l>caissier<s n="n"/></l>       <r>casier<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>caissier<s n="n"/></l>                 <r>casier<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>distributeur<s n="n"/><s n="m"/></l><r>casier<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" alt="eco"><p><l>distributeur<s n="n"/><s n="m"/></l><r>casier<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>caissier<s n="n"/><s n="f"/></l><r>casier<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" alt="eco"><p><l>caissier<s n="n"/><s n="f"/></l><r>casier<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>distributeur<s n="n"/></l>             <r>casier<s n="n"/></r></p></e>
@@ -6827,6 +7009,12 @@
 <e>       <p><l>citoyen<s n="n"/></l>                  <r>cetățean<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>bourgeois<s n="n"/></l>                  <r>burghez<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>célibataire<s n="n"/><s n="mf"/></l>                  <r>burlac<s n="n"/><s n="nt"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>citoyenneté<s n="n"/></l>              <r>cetățenie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -6851,15 +7039,7 @@
 <e r="LR" c="new-category"><p><l>clé<s n="n"/></l>     <r>cheie<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
-<e r="LR"><p><l>chauve<s n="adj"/><s n="mf"/></l>      <r>chel<s n="adj"/><s n="GD"/></r></p></e>
-    <!-- forced 'LR' restriction
-      defaultLR -->
-<e r="RL"><p><l>chauve<s n="adj"/><s n="mf"/></l>      <r>chel<s n="adj"/><s n="m"/></r></p></e>
-    <!-- forced 'LR' restriction
-      defaultLR -->
-<e r="RL"><p><l>chauve<s n="adj"/><s n="mf"/></l>      <r>chel<s n="adj"/><s n="f"/></r></p></e>
-    <!-- forced 'LR' restriction
-      defaultLR -->
+
 <e r="RL"><p><l>garçon<s n="n"/><s n="m"/></l>         <r>chelner<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
@@ -7436,6 +7616,9 @@
 <e>       <p><l>coalition<s n="n"/></l>                <r>coaliție<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>banlieue<s n="n"/></l>                <r>suburbie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>feuille<s n="n"/><s n="f"/></l>        <r>coală<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -7781,6 +7964,9 @@
 <e>       <p><l>comparatif<s n="adj"/></l>             <r>comparativ<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>corporatif<s n="adj"/></l>             <r>corporativ<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>comparaison<s n="n"/></l>              <r>comparație<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -7902,6 +8088,9 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>comportement<s n="n"/></l>             <r>comportament<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>dividende<s n="n"/><s n="m"/></l>             <r>divident<s n="n"/><s n="nt"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>compositeur<s n="n"/></l>              <r>compozitor<s n="n"/></r></p></e>
@@ -10346,6 +10535,9 @@
 <e>       <p><l>décisif<s n="adj"/></l>                <r>decisiv<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>célibataire<s n="adj"/></l>                <r>burlac<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>décision<s n="n"/></l>                 <r>decizie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -10820,10 +11012,10 @@
 <e>       <p><l>déportation<s n="n"/></l>              <r>deportare<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>dépôt<s n="n"/></l>          <r>depozit<s n="n"/></r></p></e>
+<e r="RL" alt="std"><p><l>dépôt<s n="n"/></l>          <r>depozit<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>avoir<s n="n"/></l>          <r>depozit<s n="n"/></r></p></e>
+<e r="RL" alt="eco"><p><l>avoir<s n="n"/></l>          <r>depozit<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>déposer<s n="vblex"/></l>              <r>depozita<s n="vblex"/></r></p></e>
@@ -11603,6 +11795,9 @@
 <e>       <p><l>directeur<s n="n"/></l>                <r>director<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>	  <p><l>adorateur<s n="n"/></l>                <r>adorator<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>gérance<s n="n"/></l>                  <r>directorat<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -11873,6 +12068,7 @@
 <e>       <p><l>divers<s n="adj"/><s n="f"/></l>       <r>divers<s n="adj"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+
 <e>       <p><l>diversifier<s n="vblex"/></l>          <r>diversifica<s n="vblex"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -12113,13 +12309,13 @@
 <e r="RL"><p><l>dossier<s n="n"/></l>                  <r>dosar<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>douer<s n="vblex"/></l>      <r>dota<s n="vblex"/></r></p></e>
+<e r="RL" alt="std"><p><l>douer<s n="vblex"/></l>      <r>dota<s n="vblex"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>douer<s n="vblex"/></l>                <r>dota<s n="vblex"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>doter<s n="vblex"/></l>      <r>dota<s n="vblex"/></r></p></e>
+<e r="RL" alt="eco"><p><l>doter<s n="vblex"/></l>      <r>dota<s n="vblex"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>doter<s n="vblex"/></l>                <r>dota<s n="vblex"/></r></p></e>
@@ -13230,6 +13426,9 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>euphorie<s n="n"/></l>                 <r>euforie<s n="n"/></r></p></e>
+<!-- forced 'null' restriction
+      default -->
+<e>       <p><l>adaptateur<s n="n"/><s n="GD"/></l>                 <r>adaptor<s n="n"/><s n="nt"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>euro<s n="n"/></l>                     <r>euro<s n="n"/></r></p></e>
@@ -14324,7 +14523,16 @@
 <e>       <p><l>ferme<s n="n"/></l>                    <r>fermă<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>ferronnerie<s n="n"/></l>                    <r>fierărie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>calvitie<s n="n"/></l>                    <r>chelie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>féroce<s n="adj"/></l>                 <r>feroce<s n="adj"/></r></p></e>
+    <!-- forced 'RL' restriction
+      defaultRL -->
+<e><p><l>chauve<s n="adj"/><s n="mf"/></l>      <r>chel<s n="adj"/><s n="mn"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>ferroviaire<s n="adj"/><s n="mf"/></l> <r>feroviar<s n="adj"/><s n="GD"/></r></p></e>
@@ -15110,6 +15318,9 @@
 <e>       <p><l>beau<s n="adj"/></l>                   <r>frumos<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+	  <e>       <p><l>adipeux<s n="adj"/></l>                   <r>adipos<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>joli<s n="adj"/></l>                   <r>frumos<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -15284,13 +15495,13 @@
 <e r="LR"><p><l>fourchette<s n="n"/><s n="f"/></l>     <r>furculiță<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>fourchette<s n="n"/><s n="f"/></l><r>furculiță<s n="n"/><s n="m"/></r></p></e>
+<e r="RL" alt="std"><p><l>fourchette<s n="n"/><s n="f"/></l><r>furculiță<s n="n"/><s n="m"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>détenteur<s n="n"/><s n="f"/></l><r>furculiță<s n="n"/><s n="f"/></r></p></e>
+<e r="RL" alt="std"><p><l>détenteur<s n="n"/><s n="f"/></l><r>furculiță<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>détenteur<s n="n"/></l>      <r>furculiță<s n="n"/></r></p></e>
+<e r="RL" alt="eco"><p><l>détenteur<s n="n"/></l>      <r>furculiță<s n="n"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>détenteur<s n="n"/></l>                <r>furculiță<s n="n"/></r></p></e>
@@ -16442,6 +16653,9 @@
 <e>       <p><l>homosexualité<s n="n"/></l>            <r>homosexualitate<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+	  <e>       <p><l>tyrannique<s n="adj"/><s n="mf"/></l>            <r>tiranic<s n="adj"/><s n="mn"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>obstacle<s n="n"/></l>                 <r>hop<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -16944,6 +17158,9 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>impôt<s n="n"/></l>                    <r>impozit<s n="n"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+	  <e>       <p><l>fiscalement<s n="n"/></l>                    <r>impozit<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
 <e r="RL"><p><l>tribut<s n="n"/><s n="m"/></l>         <r>impozitare<s n="n"/><s n="f"/></r></p></e>
@@ -18384,6 +18601,9 @@
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>inverse<s n="adj"/><s n="mf"/></l>     <r>invers<s n="adj"/><s n="GD"/></r></p></e>
+    <!-- forced 'LR' restriction
+      defaultLR -->
+	  <e r="LR"><p><l>inversement<s n="adv"/><s n="mf"/></l>     <r>invers<s n="adv"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
 <e r="RL"><p><l>inverse<s n="adj"/><s n="mf"/></l>     <r>invers<s n="adj"/><s n="m"/></r></p></e>
@@ -22439,6 +22659,9 @@
 <e>       <p><l>indéfini<s n="adj"/></l>               <r>nedefinit<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>célibataire<s n="adj"/><s n="mf"/></l>               <r>burlac<s n="adj"/><s n="mn"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>provisoire<s n="adj"/></l>             <r>nedefinitiv<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -24995,9 +25218,45 @@
 <e>       <p><l>pédagogue<s n="n"/></l>                <r>pedagog<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+
+<e>       <p><l>urologue<s n="n"/></l>                <r>urolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>psychologue<s n="n"/><s n="mf"/></l>                <r>psiholog<s n="n"/><s n="m"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>archéologue<s n="n"/></l>                <r>arheolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>criminologue<s n="n"/></l>                <r>criminolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>allergologue<s n="n"/></l>                <r>alergolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>météorologue<s n="n"/></l>                <r>meteorolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>terminologue<s n="n"/></l>                <r>terminolog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>démagogue<s n="n"/></l>                <r>demagog<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
 <e>       <p><l>pédagogie<s n="n"/></l>                <r>pedagogie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>ophtalmologie<s n="n"/></l>                <r>oftalmologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>dermatologie<s n="n"/></l>                <r>dermatologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>archéologie<s n="n"/></l>                <r>arheologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
 <e>       <p><l>pédalage<s n="n"/></l>                 <r>pedalare<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -27960,6 +28219,9 @@
 <e>       <p><l>chapeau<s n="n"/></l>                  <r>pălărie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>menton<s n="n"/><s n="m"/><s n="sg"/></l>                  <r>bărbie<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>terre<s n="n"/></l>                    <r>pământ<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -28000,6 +28262,9 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>abandon<s n="n"/></l>                  <r>părăsire<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+	  <e>       <p><l>empoisonnement<s n="n"/></l>                  <r>otrăvire<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>berger<s n="n"/></l>                   <r>păstor<s n="n"/></r></p></e>
@@ -28365,7 +28630,33 @@
 <e>       <p><l>réalisme<s n="n"/></l>                 <r>realism<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>idéalisme<s n="n"/><s n="m"/></l>                 <r>idealism<s n="n"/><s n="nt"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
+<e>       <p><l>pédophilie<s n="n"/></l>                 <r>pedofilie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>nécrophilie<s n="n"/></l>                 <r>necrofilie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
+<e>       <p><l>contrebandisme<s n="n"/><s n="m"/></l>                 <r>contrabandism<s n="n"/><s n="nt"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>réaliste<s n="adj"/></l>               <r>realist<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>idéaliste<s n="adj"/><s n="mf"/></l>               <r>idealist<s n="adj"/><s n="mn"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>contrebandier<s n="adj"/></l>               <r>contrabandist<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>pédophile<s n="adj"/></l>               <r>pedofil<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>nécrophile<s n="adj"/></l>               <r>necrofil<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>réalité<s n="n"/></l>                  <r>realitate<s n="n"/></r></p></e>
@@ -28447,6 +28738,9 @@
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>réceptif<s n="adj"/></l>               <r>receptiv<s n="adj"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+	  <e>       <p><l>acquisitif<s n="adj"/></l>               <r>receptiv<s n="adj"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>récepteur<s n="n"/></l>                <r>receptor<s n="n"/></r></p></e>
@@ -29553,10 +29847,10 @@
 <e>       <p><l>réserve<s n="n"/></l>                  <r>rezervare<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>dépôt<s n="n"/></l>          <r>rezervor<s n="n"/></r></p></e>
+<e r="RL" alt="std"><p><l>dépôt<s n="n"/></l>          <r>rezervor<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>avoir<s n="n"/></l>          <r>rezervor<s n="n"/></r></p></e>
+<e r="RL" alt="eco"><p><l>avoir<s n="n"/></l>          <r>rezervor<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>réserve<s n="n"/></l>                  <r>rezervă<s n="n"/></r></p></e>
@@ -33021,6 +33315,9 @@
 <e r="RL"><p><l>étonnant<s n="adj"/><s n="GD"/></l>    <r>surprinzător<s n="adj"/><s n="mf"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+	  <e r="RL"><p><l>aigre-doux<s n="adj"/><s n="GD"/></l>    <r>dulce-acrișor<s n="adj"/><s n="mf"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>surprise<s n="n"/></l>                 <r>surpriză<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
@@ -33834,7 +34131,7 @@
 <e>       <p><l>impression<s n="n"/></l>               <r>tipărire<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
-<e>       <p><l>tyrannie<s n="n"/></l>                 <r>tiranie<s n="n"/></r></p></e>
+<e>       <p><l>tyrannie<s n="n"/><s n="f"/></l>                 <r>tiranie<s n="n"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>titre<s n="n"/></l>                    <r>titlu<s n="n"/></r></p></e>
@@ -35307,28 +35604,28 @@
 <e r="LR"><p><l>expertise<s n="n"/></l>                <r>valorizare<s n="n"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL" alt="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL" alt="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+<e r="RL" alt="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+<e r="RL" alt="eco"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
     <!-- forced 'RL' restriction
       defaultRL -->
 <e r="LR"><p><l>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="GD"/><s n="ND"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>précieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+<e r="RL" alt="std"><p><l>précieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>précieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+<e r="RL" alt="std"><p><l>précieux<s n="adj"/><s n="m"/><s n="sp"/></l><r>valoros<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
     <!-- forced 'LR' restriction
       defaultLR -->
-<e r="RL" vl="std"><p><l>précieux<s n="adj"/><s n="f"/></l><r>valoros<s n="adj"/><s n="f"/></r></p></e>
+<e r="RL" alt="std"><p><l>précieux<s n="adj"/><s n="f"/></l><r>valoros<s n="adj"/><s n="f"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>ménage<s n="n"/></l>                   <r>valtrap<s n="n"/></r></p></e>
