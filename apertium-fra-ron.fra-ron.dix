@@ -25250,7 +25250,107 @@
 <e>       <p><l>ophtalmologie<s n="n"/></l>                <r>oftalmologie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
+<e>       <p><l>encéphalopathie<s n="n"/></l>                <r>encefalopatie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>radiothérapie<s n="n"/></l>                <r>radioterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>électrothérapie<s n="n"/></l>                <r>electroterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>ergothérapie<s n="n"/></l>                <r>ergoterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>histologie<s n="n"/></l>                <r>histologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>héliothérapie<s n="n"/></l>                <r>helioterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>musicothérapie<s n="n"/></l>                <r>muzicoterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>hemoterapie<s n="n"/></l>                <r>hemoterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>mécanothérapie<s n="n"/></l>                <r>mecanoterapie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>immunologie<s n="n"/></l>                <r>imunologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>hématologie<s n="n"/></l>                <r>hematologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
 <e>       <p><l>dermatologie<s n="n"/></l>                <r>dermatologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>esclavage<s n="n"/><s n="m"/></l>                <r>sclavie<s n="n"/><s n="f"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>franc-maçonnerie<s n="n"/></l>                <r>masonerie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>urologie<s n="n"/></l>                <r>urologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>comitologie<s n="n"/></l>                <r>comitologie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>sapience<s n="n"/></l>                <r>cumințenie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>monographie<s n="n"/></l>                <r>monografie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+
+<e>       <p><l>numérologie<s n="n"/></l>               <r>numerologie<s n="n"/></r></p></e>
+<e><p><l>radiologie<s n="n"/><s n="f"/><s n="sg"/></l><r>radiologie<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+<e><p><l>rhumatologie<s n="n"/></l><r>reumatologie<s n="n"/></r></p></e>
+<e><p><l>théologie<s n="n"/></l><r>teologie<s n="n"/></r></p></e>
+<e><p><l>lobotomie<s n="n"/></l><r>lobotomie<s n="n"/></r></p></e>
+<e><p><l>philologie<s n="n"/></l><r>filologie<s n="n"/></r></p></e>
+<e><p><l>microscopie<s n="n"/></l><r>microscopie<s n="n"/></r></p></e>
+<e><p><l>microbiologie<s n="n"/></l><r>microbiologie<s n="n"/></r></p></e>
+<e><p><l>microsociologie<s n="n"/></l><r>microsociologie<s n="n"/></r></p></e>
+<e><p><l>macrosociologie<s n="n"/></l><r>macrosociologie<s n="n"/></r></p></e>
+<e><p><l>minerologie<s n="n"/></l><r>minerologie<s n="n"/></r></p></e>
+<e><p><l>anthropologie<s n="n"/></l><r>antropologie<s n="n"/></r></p></e>
+<e><p><l>spéléologie<s n="n"/></l><r>speologie<s n="n"/></r></p></e>
+<e><p><l>parapsychologie<s n="n"/></l><r>parapsihologie<s n="n"/></r></p></e>
+<e><p><l>étymologie<s n="n"/></l><r>etimologie<s n="n"/></r></p></e>
+<e><p><l>géologie<s n="n"/></l><r>geologie<s n="n"/></r></p></e>
+<e><p><l>épistémologie<s n="n"/></l><r>epistemiologie<s n="n"/></r></p></e>
+<e><p><l>septicémie<s n="n"/></l><r>septicemie<s n="n"/></r></p></e>
+<e><p><l>leucémie<s n="n"/></l><r>leucemie<s n="n"/></r></p></e>
+<e><p><l>astrologie<s n="n"/></l><r>astrologie<s n="n"/></r></p></e>
+<e><p><l>néonatologie<s n="n"/></l><r>neonatologie<s n="n"/></r></p></e>
+<e><p><l>microchirurgie<s n="n"/></l><r>microchirurgie<s n="n"/></r></p></e>
+<e><p><l>chirurgie<s n="n"/></l><r>chirurgie<s n="n"/></r></p></e>
+<e><p><l>pathologie<s n="n"/></l><r>patologie<s n="n"/></r></p></e>
+<e><p><l>pathologique<s n="n"/></l><r>anatomopatologie<s n="n"/></r></p></e>
+<e><p><l>paléontologie<s n="n"/></l><r>paleontologie<s n="n"/></r></p></e>
+<e><p><l>parasitologie<s n="n"/></l><r>parazitologie<s n="n"/></r></p></e>
+<e><p><l>ergonomie<s n="n"/></l><r>ergonomie<s n="n"/></r></p></e>
+<e><p><l>métronome<s n="n"/></l><r>metronomie<s n="n"/></r></p></e>
+<e><p><l>cartographie<s n="n"/></l><r>cartografie<s n="n"/></r></p></e>
+<e><p><l>gynécologie<s n="n"/></l><r>ginecologie<s n="n"/></r></p></e>
+<e><p><l>pharmacologie<s n="n"/></l><r>farmacologie<s n="n"/></r></p></e>
+<e><p><l>anthologie<s n="n"/></l><r>antologie<s n="n"/></r></p></e>
+<e><p><l>axiologie<s n="n"/></l><r>axiologie<s n="n"/></r></p></e>
+<e><p><l>élégie<s n="n"/></l><r>elegie<s n="n"/></r></p></e>
+<e><p><l>phénoménologie<s n="n"/></l><r>fenomenologie<s n="n"/></r></p></e>
+<e><p><l>futurologie<s n="n"/></l><r>futurologie<s n="n"/></r></p></e>
+<e><p><l>léthargie<s n="n"/></l><r>letargie<s n="n"/></r></p></e>
+<e><p><l>scatologie<s n="n"/></l><r>scatologie<s n="n"/></r></p></e>
+<e><p><l>tautologie<s n="n"/></l><r>tautologie<s n="n"/></r></p></e>
+<e><p><l>traumatologie<s n="n"/></l><r>traumatologie<s n="n"/></r></p></e>
+
+<e>       <p><l>micromonograph<s n="n"/></l>                <r>micromonografie<s n="n"/></r></p></e>
+    <!-- forced 'null' restriction
+      default -->
+<e>       <p><l>calligraphie<s n="n"/></l>                <r>caligrafie<s n="n"/></r></p></e>
     <!-- forced 'null' restriction
       default -->
 <e>       <p><l>archéologie<s n="n"/></l>                <r>arheologie<s n="n"/></r></p></e>
