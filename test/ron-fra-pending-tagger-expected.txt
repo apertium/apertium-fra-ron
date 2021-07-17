@@ -1,0 +1,322 @@
+[-1NEJO--P79m#0] ^Nu<adv>$ ^avea<vblex><pri><p1><sg>$ ^câine<n><m><sg><nom><ind>$^,<cm>$ ^ci<cnjcoo>$ ^pisoi<n><f><sg><nom><ind>$^.<sent>$
+[/-1NEJO--P79m]
+[-BnWHZQXzM43#0] ^Băiat<n><m><sg><nom><def>$ ^care<rel><an><mfn><sp><nom>$ ^sta<vblex><pri><p3><sg>$ ^acolo<adv>$ ^fi<vblex><pri><p3><sg>$ ^frate<n><m><sg><nom><def>$ ^*meu$^.<sent>$
+[/-BnWHZQXzM43]
+[-SaiOZfzcWKR#0] ^Duce<vblex><imp><p2><sg>+te<prn><enc><p2><mf><sg><nom>$ ^*lângă$ ^copac<n><m><sg><nom><ind>$^!<sent>$
+[/-SaiOZfzcWKR]
+[-TqQ-RaAQmr-#0] ^Ne<prn><pro><p1><mf><pl><nom>$ ^întâlni<vblex><pri><p1><pl>$ ^pe<pr>$ ^la<pr>$ ^oră<n><f><sg><nom><def>$ ^cinci<num><mf><pl>$^.<sent>$
+[/-TqQ-RaAQmr-]
+[-nov1WRv3JnL#0] ^Bun<n><nt><sg><dg><def>$ ^*student$^.<sent>$
+[/-nov1WRv3JnL]
+[0PKytJJZdEYW#0] ^Eu<prn><tn><p1><mf><sg><nom>$ ^mânca<vblex><pri><p1><sg>$^.<sent>$
+[/0PKytJJZdEYW]
+[0VMp7krE1gcu#0] ^nici<cnjcoo>$ ^nu<adv>$ ^plânge<vblex><pri><p3><sg>$^,<cm>$ ^nici<cnjcoo>$ ^nu<adv>$ ^râde<vblex><pri><p3><sg>$
+[/0VMp7krE1gcu]
+[0XmPkdGk2Yej#0] ^*Fată$ ^mic<adj><f><sg><nom><ind>$
+[/0XmPkdGk2Yej]
+[1KJ9iXxx7Lsl#0] ^Al<det><def><f><sg>$ ^venit<n><nt><sg><nom><ind>$ ^după<pr>$ ^mină<n><f><pl><nom><ind>$^.<sent>$
+[/1KJ9iXxx7Lsl]
+[1V7rWxKZC4-2#0] ^*Surorile$ ^meu<adj><pos><f><sg><dg><ind>$^.<sent>$
+[/1V7rWxKZC4-2]
+[2MfkpJgBXaco#0] ^Un<det><ind><f><sg><nom>$ ^casă<n><f><sg><nom><ind>$^.<sent>$
+[/2MfkpJgBXaco]
+[2SU-WKUmwSKM#0] ^Împotriva<pr><gen>$ ^schimbare<n><f><sg><dg><def>$ ^climatic<adj><f><sg><dg><ind>$ ^global<adj><fn><pl><nom><ind>$
+[/2SU-WKUmwSKM]
+[361JOxRR8Rn8#0] ^carte<n><f><sg><nom><def>$ ^al<det><def><f><sg>$ ^cărui<rel><aa><f><sg><dg>$ ^copertă<n><f><sg><nom><ind>$
+[/361JOxRR8Rn8]
+[3pipKizvlVlZ#0] ^Bunic<n><m><pl><nom><def>$ ^tău<adj><pos><m><pl><nom><ind>$^.<sent>$
+[/3pipKizvlVlZ]
+[5-s_p53Psq0f#0] ^*Al$ ^cui<n><nt><sg><nom><ind>$ ^fi<vblex><pri><p3><sg>$ ^câine<n><m><sg><nom><def>$ ^acela<prn><tn><m><sg><nom>$^?<sent>$
+[/5-s_p53Psq0f]
+[5ael0Krlo21c#0] ^El<prn><tn><p3><m><sg><nom>$ ^fi<vblex><pri><p3><sg>$ ^*cel$ ^mai<adv>$ ^înalt<adj><mn><sg><nom><ind>$ ^din<pr>$ ^clasă<n><f><sg><nom><ind>$^.<sent>$
+[/5ael0Krlo21c]
+[5zWElR2K-Saw#0] ^Camion<n><nt><sg><nom><def>$ ^*tău$^.<sent>$
+[/5zWElR2K-Saw]
+[6LNI6zRZX9yK#0] ^Cum<adv><itg>$ ^*va$ ^rezolva<vblex><pii><p3><sg>$ ^exercițiu<n><nt><sg><nom><def>$^?<sent>$
+[/6LNI6zRZX9yK]
+[6PoSpNRKz_PD#0] ^Tu<prn><tn><p2><mf><sg><nom>$ ^mânca<vblex><pri><p2><sg>$^.<sent>$
+[/6PoSpNRKz_PD]
+[6lfHduYA74ED#0] ^de<pr>$ ^politică<n><f><sg><nom><def>$ ^extern<adj><f><sg><nom><def>$ ^al<det><def><f><sg>$ ^România<np><top><f><sg><dg><def>$
+[/6lfHduYA74ED]
+[77WSE1x5CyGN#0] ^Putea<vbmod><pri><p2><sg>$ ^veni<vblex><inf>$ ^cu<pr>$ ^oricine<prn><tn><mf><sg><nom>$^.<sent>$
+[/77WSE1x5CyGN]
+[7LWrlsWLMWc_#0] ^frate<n><m><pl><nom><def>$ ^său<adj><pos><m><pl><nom><ind>$^.<sent>$
+[/7LWrlsWLMWc_]
+[7kQ_Zd5ppfF-#0] ^*Stiloul$ ^pe care<rel><an><mfn><sp><nom>$ ^*mi$ ^*l$-^avea<vblex><pri><p2><sg>$ ^da<vblex><pp><mn><sg>$ ^nu<adv>$ ^scrie<vblex><pri><p3><sg>$^.<sent>$
+[/7kQ_Zd5ppfF-]
+[AUnXvHEHaYeB#0] ^frumos<adj><f><sg><nom><def>$ ^legendă<n><f><sg><nom><ind>$ ^al<det><def><f><sg>$ ^*cinematografului$
+[/AUnXvHEHaYeB]
+[Ax2J22jLElmV#0] ^El<prn><tn><p3><m><sg><nom>$ ^vorbi<vblex><pii><p3><sg>$^.<sent>$
+[/Ax2J22jLElmV]
+[BOc8obHsUPlG#0] ^avea<vblex><pri><p1><sg>$ ^face<vblex><pp><mn><sg>+îl<prn><enc><p3><f><sg><nom>$
+[/BOc8obHsUPlG]
+[C-y4UcGmJVo5#0] ^Vorbi<vblex><pri><p3><sg>$ ^despre<pr>$ ^*tine$^.<sent>$
+[/C-y4UcGmJVo5]
+[CMQShS8VuZEF#0] ^Eu<prn><tn><p1><mf><sg><nom>$ ^vorbi<vblex><pri><p1><sg>$^.<sent>$
+[/CMQShS8VuZEF]
+[D9SWN7-y064e#0] ^El<prn><tn><p3><m><sg><nom>$ ^fi<vblex><pri><p3><sg>$ ^foarte<preadv>$ ^înalt<adj><mn><sg><nom><ind>$^.<sent>$
+[/D9SWN7-y064e]
+[DxAXDRjt1jJp#0] ^Ști<vblex><pri><p1><sg>$ ^*englezeşte$^,<cm>$ ^însă<cnjcoo>$ ^nu<adv>$ ^vorbi<vblex><pri><p1><sg>$ ^*nemţeşte$^.<sent>$
+[/DxAXDRjt1jJp]
+[EDLpQCtr5H7O#0] ^Prăjitură<n><f><sg><nom><def>$ ^fi<vblex><pri><p3><sg>$ ^*facută$ ^din<pr>$ ^făină<n><f><sg><nom><ind>$^.<sent>$
+[/EDLpQCtr5H7O]
+[FPk0sb8YfLAI#0] ^*Îşi$ ^face<vblex><pri><p3><sg>$ ^rău<n><nt><sg><nom><ind>$ ^*sie$ ^însuși<vblex><ifi><p3><sg>$^.<sent>$
+[/FPk0sb8YfLAI]
+[FT56rJKM-SlP#0] ^avea<vblex><pri><p1><sg>$ ^face<vblex><pp><mn><sg>$
+[/FT56rJKM-SlP]
+[Fig-LkZsgy0R#0] ^Avea<vblex><pri><p1><sg>$ ^venit<n><nt><sg><nom><ind>$ ^să<cnjsub>$ ^te<prn><pro><p2><mf><sg><nom>$ ^ajuta<vblex><prs><p1><sg>$^.<sent>$
+[/Fig-LkZsgy0R]
+[G2ujL9Ndksxx#0] ^*nespus$ ^de<pr>$ ^frumos<adj><f><sg><nom><ind>$
+[/G2ujL9Ndksxx]
+[GbjER5kAtaPk#0] ^Eu<prn><tn><p1><mf><sg><nom>$ ^fi<vblex><pri><p3><pl>$ ^inginer<n><m><sg><nom><ind>$^,<cm>$ ^*iar$ ^soț<n><f><sg><nom><def>$ ^meu<adj><pos><f><sg><nom><ind>$ ^fi<vblex><pri><p3><sg>$ ^actor<n><f><sg><nom><ind>$^.<sent>$
+[/GbjER5kAtaPk]
+[GeAMFK4fd2Ja#0] ^Lucra<vblex><pri><p3><sg>$ ^tot<prn><tn><m><sg><nom>$ ^așa<adv>$ ^de<pr>$ ^bine<preadv>$ ^ca<rel><adv>$ ^tată<n><m><sg><nom><def>$ ^lui<adj><pos><mn><sg><nom><ind>$^.<sent>$
+[/GeAMFK4fd2Ja]
+[GgYaOXX2VbJa#0] ^*Unui$ ^*student$ ^bun<n><nt><sg><nom><ind>$^.<sent>$
+[/GgYaOXX2VbJa]
+[GsrucfsBNN3N#0] ^băiat<n><m><sg><nom><def>$ ^din<pr>$ ^casă<n><f><sg><nom><def>$ ^vecin<n><f><sg><nom><ind>$^.<sent>$
+[/GsrucfsBNN3N]
+[Hd-TQv8n-vkX#0] ^Băiat<n><m><sg><nom><def>$
+[/Hd-TQv8n-vkX]
+[HyGnbT14GNNN#0] ^Rămâne<vblex><pri><p2><sg>$ ^în<pr>$ ^cameră<n><f><sg><nom><ind>$^!<sent>$
+[/HyGnbT14GNNN]
+[I9uY5nVxeeRL#0] ^El<prn><tn><p3><m><sg><nom>$ ^lucra<vblex><pri><p3><sg>$ ^bine<preadv>$^.<sent>$
+[/I9uY5nVxeeRL]
+[IYRL-KnVCwFQ#0] ^Veni<vblex><pri><p2><sg>$ ^cu mine<prn><tn><p1><mf><sg><nom>$^,<cm>$ ^sau<cnjcoo>$ ^rămâne<vblex><pri><p2><sg>$ ^aici<adv>$^?<sent>$
+[/IYRL-KnVCwFQ]
+[ImUAFZAmCmk4#0] ^la<pr>$ ^*hotarele$ ^Europa<np><top><f><sg><dg><def>$
+[/ImUAFZAmCmk4]
+[IyjQLvX66K61#0] ^pentru<pr>$ ^carte<n><f><sg><nom><def>$ ^prieten<n><f><sg><dg><def>$ ^meu<adj><pos><f><sg><dg><ind>$
+[/IyjQLvX66K61]
+[JB7X6BlUgsEz#0] ^El<prn><tn><p3><m><sg><nom>$ ^mânca<vblex><pri><p3><sg>$^.<sent>$
+[/JB7X6BlUgsEz]
+[JcM_lCIfYmmc#0] ^*Studentul$ ^bun<n><nt><sg><nom><ind>$^.<sent>$
+[/JcM_lCIfYmmc]
+[Kl5_3KCvGYK0#0] ^*nespus$ ^de<pr>$ ^frumos<adj><fn><pl><nom><ind>$
+[/Kl5_3KCvGYK0]
+[L9NXcmBsoBMw#0] ^Avea<vblex><pri><p2><sg>$ ^primi<vblex><pp><mn><sg>$ ^*ordin$^,<cm>$ ^*aşadar$ ^*trebuie$ ^să<cnjsub>$ ^pleca<vblex><prs><p2><sg>$^.<sent>$
+[/L9NXcmBsoBMw]
+[L_JNyzQIPVKV#0] ^Când<adv><itg>$ ^*va$ ^ieși<vblex><pri><p2><sg>$^?<sent>$
+[/L_JNyzQIPVKV]
+[LaC4mG9fhNiw#0] ^Floare<n><f><pl><nom><def>$ ^fi<vblex><pri><p3><pl>$ ^pe<pr>$ ^masă<n><f><sg><nom><ind>$^.<sent>$
+[/LaC4mG9fhNiw]
+[Ln0uUgibIprz#0] ^Pantof<n><m><sg><nom><def>$ ^*meu$^.<sent>$
+[/Ln0uUgibIprz]
+[M3BeRhCHEbii#0] ^*Un$ ^*student$ ^bun<n><nt><sg><nom><ind>$^.<sent>$
+[/M3BeRhCHEbii]
+[NJ2YTiVZLNOl#0] ^Lui<adj><pos><f><sg><nom><ind>$ ^vrea<vblex><pri><p3><pl>$ ^vorbi<vblex><ifi><p3><sg>$^.<sent>$
+[/NJ2YTiVZLNOl]
+[NdcCjyzfQKlk#0] ^Cum<adv><itg>$ ^*vom$ ^rezolva<vblex><pii><p3><sg>$ ^exercițiu<n><nt><sg><nom><def>$^?<sent>$
+[/NdcCjyzfQKlk]
+[O3Pv-4XV2UMx#0] ^El<prn><tn><p3><m><sg><nom>$ ^a<pr>$ ^spune<vblex><pp><mn><sg>$ ^că<cnjsub>$ ^mă<prn><pro><p1><mf><sg><nom>$ ^aștepta<vblex><pri><p3><sg>$^.<sent>$
+[/O3Pv-4XV2UMx]
+[OA0YnJLHzTEX#0] ^Al<det><def><f><sg>$ ^temperatură<n><f><sg><dg><def>$
+[/OA0YnJLHzTEX]
+[ODzqu3JnHJis#0] ^ușă<n><f><sg><nom><def>$ ^dinspre<pr>$ ^stradă<n><f><sg><nom><ind>$^.<sent>$
+[/ODzqu3JnHJis]
+[OHJlJrs96s4Z#0] ^Carte<n><f><sg><nom><ind>$ ^bun<adj><f><sg><nom><ind>$
+[/OHJlJrs96s4Z]
+[Q3H46aaVAo50#0] ^avea<vblex><pri><p1><sg>$ ^să<cnjsub>$ ^face<vblex><prs><p1><sg>$
+[/Q3H46aaVAo50]
+[Q3iyErVEQ23q#0] ^despre<pr>$ ^legendă<n><f><sg><nom><def>$ ^frumos<adj><f><sg><nom><ind>$ ^al<det><def><f><sg>$ ^*cinematografului$
+[/Q3iyErVEQ23q]
+[QDIMp7S0K43s#0] ^Când<adv><itg>$ ^*vom$ ^ieși<vblex><pri><p2><sg>$^?<sent>$
+[/QDIMp7S0K43s]
+[QhDSzgURQIWR#0] ^carte<n><f><sg><nom><def>$ ^*fetei$
+[/QhDSzgURQIWR]
+[RK908sq7YklE#0] ^niciodată<adv>$ ^nu<adv>$ ^plânge<vblex><pri><p3><sg>$
+[/RK908sq7YklE]
+[RfLMOaN6oFgN#0] ^El<prn><tn><p3><m><sg><nom>$ ^*se$ ^pieptăna<vblex><pri><p3><sg>$^.<sent>$
+[/RfLMOaN6oFgN]
+[SkmVU-LbMuT2#0] ^carte<n><f><sg><nom><def>$ ^prieten<n><f><sg><dg><def>$ ^meu<adj><pos><f><sg><dg><ind>$
+[/SkmVU-LbMuT2]
+[TmYFjS7d4pQ3#0] ^Undă<n><f><pl><nom><ind>$ ^pleca<vblex><pri><p3><sg>$^?<sent>$
+[/TmYFjS7d4pQ3]
+[Tn8hdyrs563c#0] ^Elev<n><m><pl><nom><def>$ ^acela<prn><tn><m><pl><nom>$^.<sent>$
+[/Tn8hdyrs563c]
+[UP4B_ryyYf0g#0] ^Casă<n><f><sg><nom><def>$^.<sent>$
+[/UP4B_ryyYf0g]
+[UcDLBsRai7gI#0] ^Cui<n><nt><sg><nom><ind>$ ^îl<prn><pro><p3><m><pl><nom>$ ^avea<vblex><pri><p2><sg>$ ^da<vblex><pp><mn><sg>$ ^telefon<n><nt><sg><nom><ind>$^?<sent>$
+[/UcDLBsRai7gI]
+[UvoL9NxvstxT#0] ^*nespus$ ^de<pr>$ ^frumos<adj><m><pl><nom><ind>$
+[/UvoL9NxvstxT]
+[VPE96lbhyOaf#0] ^în<pr>$ ^casă<n><f><sg><nom><def>$ ^minunat<adj><f><sg><nom><ind>$
+[/VPE96lbhyOaf]
+[W95NT3Kds0qC#0] ^Tu<prn><tn><p2><mf><sg><nom>$ ^vorbi<vblex><pii><p2><sg>$^.<sent>$
+[/W95NT3Kds0qC]
+[Xu3vUxgDH9BO#0] ^Pom<n><m><sg><nom><ind>$^.<sent>$
+[/Xu3vUxgDH9BO]
+[YEpT5bPfBq-f#0] ^Câine<n><m><sg><nom><def>$ ^fugi<vblex><pri><p3><sg>$ ^mai puțin<adv>$ ^repede<adv>$ ^*decât$ ^cal<n><m><sg><nom><def>$^.<sent>$
+[/YEpT5bPfBq-f]
+[YOxb3SO60Lbl#0] ^Dacă<cnjadv>$ ^vrea<vblex><pri><p2><sg>$^,<cm>$ ^merge<vblex><pri><p1><sg>$ ^cu tine<prn><tn><p2><mf><sg><nom>$^.<sent>$
+[/YOxb3SO60Lbl]
+[ZpC83dLayPLV#0] ^face<vblex><pper><p1><sg>$
+[/ZpC83dLayPLV]
+[_n27fBqb4s39#0] ^casă<n><f><sg><nom><def>$ ^tot<predet><def><m><pl><dg>$
+[/_n27fBqb4s39]
+[_qmd9L45kzaF#0] ^O sută<num><mf><pl>$ ^treizeci<num><mf><pl>$ ^de<pr>$ ^copil<n><m><pl><nom><ind>$^.<sent>$
+[/_qmd9L45kzaF]
+[aAmUOzdDMpuH#0] ^Nou<adj><m><pl><nom><ind>$ ^avea<vblex><pri><p1><sg>$ ^vorbi<vblex><pp><mn><sg>$^.<sent>$
+[/aAmUOzdDMpuH]
+[aHaHYpfL8Akk#0] ^Mânca<vblex><pri><p3><sg>$ ^*mult$^.<sent>$
+[/aHaHYpfL8Akk]
+[bBLusr9CU57D#0] ^A<pr>$ ^vorbi<vblex><inf>$
+[/bBLusr9CU57D]
+[bMKfgztFXNon#0] ^tot<prn><tn><m><pl><nom>$ ^copil<n><m><pl><nom><def>$
+[/bMKfgztFXNon]
+[bMmPdHdWKX6R#0] ^Pom<n><m><sg><nom><def>$^.<sent>$
+[/bMmPdHdWKX6R]
+[bRFec-C8Vp9q#0] ^Te<prn><pro><p2><mf><sg><nom>$ ^crede<vblex><pri><p1><sg>$^,<cm>$ ^fiindcă<cnjadv>$ ^te<prn><pro><p2><mf><sg><nom>$ ^cunoaște<vblex><pri><p1><sg>$^.<sent>$
+[/bRFec-C8Vp9q]
+[bTNsYeUcRK10#0] ^Uneori<adv>$ ^fi<vblex><pri><p3><sg>$ ^trist<adj><mn><sg><nom><ind>$^.<sent>$
+[/bTNsYeUcRK10]
+[bY88JzEcVYJr#0] ^Aștepta<vblex><pri><p3><sg>$ ^*până$ ^(<lpar>$^ce<prn><itg><mf><sg><nom>$^)<rpar>$ ^mă<prn><pro><p1><mf><sg><nom>$ ^întoarce<vblex><pri><p1><sg>$^!<sent>$
+[/bY88JzEcVYJr]
+[c-eog2t6J7fB#0] ^Nu<adv>$ ^vin<n><nt><sg><nom><ind>$ ^nici<cnjcoo>$ ^azi<adv>$^,<cm>$ ^nici<cnjcoo>$ ^mâine<adv>$^.<sent>$
+[/c-eog2t6J7fB]
+[c236Zw7pVu9A#0] ^Mai<adv>$ ^lucra<vblex><pri><p3><sg>$^,<cm>$ ^deși<cnjadv>$ ^fi<vblex><pri><p3><sg>$ ^*pensionar$^.<sent>$
+[/c236Zw7pVu9A]
+[c4f7o3t5RlFG#0] ^cel<det><def><f><sg><nom>$ ^mai<adv>$ ^frumos<adj><f><sg><nom><ind>$
+[/c4f7o3t5RlFG]
+[d7TyaLtojovk#0] ^Împotriva<pr><gen>$ ^schimbare<n><f><sg><dg><def>$ ^climatic<adj><f><sg><dg><ind>$
+[/d7TyaLtojovk]
+[ddXkhsFLS7mX#0] ^Băiat<n><m><sg><nom><ind>$ ^bun<adj><mn><sg><nom><ind>$
+[/ddXkhsFLS7mX]
+[dfKyGnwsRdrz#0] ^Nou<adj><m><pl><nom><ind>$ ^mânca<vblex><pri><p1><pl>$^.<sent>$
+[/dfKyGnwsRdrz]
+[e6_ieKL7Alhb#0] ^Amândoi<prn><tn><m><pl><nom>$
+[/e6_ieKL7Alhb]
+[edMpkNOq-wcg#0] ^*cele$ ^mai<adv>$ ^frumos<adj><fn><pl><nom><ind>$
+[/edMpkNOq-wcg]
+[f5YMBcCcLr3A#0] ^*fată$ ^de la<pr>$ ^oraș<n><nt><sg><nom><ind>$^.<sent>$
+[/f5YMBcCcLr3A]
+[fIrbBzHjEUx_#0] ^Rămâne<vblex><pri><p2><sg>$ ^aici<adv>$^!<sent>$
+[/fIrbBzHjEUx_]
+[fgLTXg5-VEyi#0] ^*Acest$ ^câine<n><m><sg><nom><ind>$^.<sent>$
+[/fgLTXg5-VEyi]
+[fh20WfObEu1t#0] ^pune<vblex><pri><p3><sg>$ ^pe<pr>$ ^copertă<n><f><sg><nom><def>$ ^carte<n><f><sg><dg><def>$
+[/fh20WfObEu1t]
+[gK88bD8W7X-2#0] ^Cine<prn><itg><mf><sg><nom>$ ^a<pr>$ ^ieși<vblex><pp><mn><sg>$^?<sent>$
+[/gK88bD8W7X-2]
+[gR6Kuyqswh-6#0] ^Fi<vblex><pri><p3><sg>$ ^imposibil<adj><mn><sg><nom><ind>$ ^să<cnjsub>$ ^nu<adv>$ ^veni<vblex><prs><p3><sg>$^.<sent>$
+[/gR6Kuyqswh-6]
+[gaCvNRUh4Gzt#0] ^bijuterie<n><f><sg><nom><ind>$ ^de<pr>$ ^*argint$^.<sent>$
+[/gaCvNRUh4Gzt]
+[gayrk0kMF6_8#0] ^Nu<adv>$ ^avea<vblex><pri><p2><sg>$ ^face<vblex><pp><mn><sg>$ ^nimic<prn><tn><nt><sg><nom>$ ^rău<n><nt><sg><nom><ind>$^,<cm>$ ^*deci$ ^nu<adv>$ ^fi<vblex><pri><p3><pl>$ ^*supărat$ ^pe<pr>$ ^*tine$^.<sent>$
+[/gayrk0kMF6_8]
+[h5sEQDvHvrkn#0] ^Fi<vblex><pri><p3><pl>$ ^foarte<preadv>$ ^obosi<vblex><pp><mn><sg>$^.<sent>$
+[/h5sEQDvHvrkn]
+[hJcbtUJMYgFu#0] ^Problemă<n><f><pl><nom><def>$ ^tău<adj><pos><f><sg><dg><ind>$^.<sent>$
+[/hJcbtUJMYgFu]
+[hTtdkzRGzPgl#0] ^Carte<n><f><sg><nom><def>$ ^meu<adj><pos><f><sg><nom><ind>$^.<sent>$
+[/hTtdkzRGzPgl]
+[iI4_qSO04yX8#0] ^Doi<num><m><pl>$ ^copil<n><m><pl><nom><ind>$^.<sent>$
+[/iI4_qSO04yX8]
+[iPBHd9PuQtJE#0] ^vedea<vblex><ger>$ ^legendă<n><f><sg><nom><def>$ ^frumos<adj><f><sg><nom><ind>$ ^al<det><def><f><sg>$ ^*cinematografului$
+[/iPBHd9PuQtJE]
+[iUduVWrgWsWE#0] ^Om<n><m><sg><nom><def>$ ^*nostru$^.<sent>$
+[/iUduVWrgWsWE]
+[i_qZbfeykyl9#0] ^Părinte<n><m><pl><nom><def>$ ^meu<adj><pos><m><pl><nom><ind>$^.<sent>$
+[/i_qZbfeykyl9]
+[ieTgcMp9Mdrj#0] ^*Ghepardul$ ^fugi<vblex><pri><p3><sg>$ ^*cel$ ^mai<adv>$ ^repede<adv>$ ^dintre<pr>$ ^tot<predet><def><fn><pl><nom>$ ^animal<n><nt><pl><nom><def>$^.<sent>$
+[/ieTgcMp9Mdrj]
+[iv-ZmfvUDm-d#0] ^Uda<vblex><pri><p1><sg>$ ^cu<pr>$ ^*multă$ ^apă<n><f><sg><nom><ind>$^,<cm>$ ^pentru<pr>$ ^ca<rel><adv>$ ^floare<n><f><pl><nom><def>$ ^să<cnjsub>$ ^*se$ ^dezvolta<vblex><imp><p3><sg>$ ^bine<preadv>$^.<sent>$
+[/iv-ZmfvUDm-d]
+[j1R7_dOvUHjr#0] ^Fi<vblex><pri><p3><sg>$ ^așa<preadv>$ ^de<pr>$ ^obosi<vblex><pp><mn><sg>$^,<cm>$ ^încât<cnjsub>$ ^nu<adv>$ ^poate<adv>$ ^*adormi$^.<sent>$
+[/j1R7_dOvUHjr]
+[ji_q7Re1fwSL#0] ^Veni<vblex><pii><p3><sg>$ ^spre<pr>$ ^nou<adj><m><pl><nom><ind>$^.<sent>$
+[/ji_q7Re1fwSL]
+[jvfOrMg8zAyZ#0] ^pe<pr>$ ^copertă<n><f><sg><nom><def>$ ^carte<n><f><sg><dg><def>$
+[/jvfOrMg8zAyZ]
+[jwoKF59O42Jw#0] ^tot<predet><def><fn><pl><nom>$ ^*culorile$ ^*curcubeului$
+[/jwoKF59O42Jw]
+[kC3knDDv9YJX#0] ^Veni<vblex><imp><p2><sg>$ ^la<pr>$ ^mină<n><f><pl><nom><ind>$^!<sent>$
+[/kC3knDDv9YJX]
+[kGTWxDBOrSaA#0] ^*Melcul$ ^merge<vblex><pri><p3><sg>$ ^*cel$ ^mai puțin<adv>$ ^repede<adv>$ ^dintre<pr>$ ^tot<predet><def><fn><pl><nom>$ ^animal<n><nt><pl><nom><def>$^.<sent>$
+[/kGTWxDBOrSaA]
+[kL4cZtZ2-649#0] ^Merge<vblex><pri><p2><sg>$ ^prea<adv>$ ^încet<adv>$^.<sent>$
+[/kL4cZtZ2-649]
+[kNQi9s3NmZsK#0] ^legendă<n><f><sg><nom><def>$ ^frumos<adj><f><sg><nom><ind>$ ^al<det><def><f><sg>$ ^*cinematografului$
+[/kNQi9s3NmZsK]
+[khLjEeGKz_kJ#0] ^politică<n><f><sg><nom><ind>$ ^al<det><def><f><sg>$ ^România<np><top><f><sg><dg><def>$
+[/khLjEeGKz_kJ]
+[l4psBcl0c152#0] ^avea<vblex><pri><p1><sg>$ ^da<vblex><pp><mn><sg>$ ^carte<n><f><sg><nom><def>$ ^*fetei$
+[/l4psBcl0c152]
+[l8RydoKsoX17#0] ^Pleca<vblex><pri><p1><sg>$ ^fi<vblex><prs><p3><sg>$ ^azi<adv>$^,<cm>$ ^fi<vblex><prs><p3><sg>$ ^mâine<adv>$^.<sent>$
+[/l8RydoKsoX17]
+[lOYgoPxQsA-V#0] ^*Voi$ ^*vorbiserăți$^.<sent>$
+[/lOYgoPxQsA-V]
+[mgDtFnKG2AL_#0] ^Pisoi<n><f><sg><nom><def>$ ^fi<vblex><pri><p3><sg>$ ^sub<pr>$ ^masă<n><f><sg><nom><ind>$^.<sent>$
+[/mgDtFnKG2AL_]
+[mjNDKwBfgLq1#0] ^Casă<n><f><sg><nom><def>$
+[/mjNDKwBfgLq1]
+[mqPm4rR32teL#0] ^cel<det><def><m><pl><nom>$ ^mai<adv>$ ^frumos<adj><m><pl><nom><ind>$
+[/mqPm4rR32teL]
+[nEGWIf4Mr06n#0] ^A<pr>$ ^fi<vblex><pp><mn><sg>$ ^fidel<adj><mn><sg><nom><ind>$ ^până la<pr>$ ^moarte<n><f><sg><nom><ind>$^.<sent>$
+[/nEGWIf4Mr06n]
+[ntLKL0LSoSZ2#0] ^Carte<n><f><sg><nom><def>$ ^asta<prn><tn><nt><sg><nom>$^.<sent>$
+[/ntLKL0LSoSZ2]
+[o83PhWv-7w0-#0] ^Un<det><ind><f><sg><nom>$ ^casă<n><f><sg><nom><ind>$ ^*mare$^.<sent>$
+[/o83PhWv-7w0-]
+[oClRr1H0YdSr#0] ^*Grijile$ ^său<adj><pos><fn><pl><nom><ind>$^.<sent>$
+[/oClRr1H0YdSr]
+[pn9rcMFamBKd#0] ^Fiu<n><m><sg><nom><def>$ ^său<adj><pos><mn><sg><nom><ind>$^.<sent>$
+[/pn9rcMFamBKd]
+[qLYAw0tbU5hK#0] ^Face<vblex><imp><p2><sg>+îl<prn><enc><p3><f><sg><nom>$ ^pentru<pr>$ ^mină<n><f><pl><nom><ind>$^!<sent>$
+[/qLYAw0tbU5hK]
+[rEnKq9kAQBvN#0] ^Floare<n><f><sg><nom><def>$ ^tău<adj><pos><f><sg><nom><ind>$^.<sent>$
+[/rEnKq9kAQBvN]
+[rJYlXGuY3C13#0] ^Merge<vblex><pii><p3><sg>$ ^către<pr>$ ^oraș<n><nt><sg><nom><ind>$^.<sent>$
+[/rJYlXGuY3C13]
+[rg2NQUgWFIF2#0] ^*Voi$ ^mânca<vblex><pp><m><pl>$^.<sent>$
+[/rg2NQUgWFIF2]
+[s4nMn_0BTc2Z#0] ^*nespus$ ^de<pr>$ ^frumos<adj><mn><sg><nom><ind>$
+[/s4nMn_0BTc2Z]
+[sUJqprtybo6_#0] ^de<pr>$ ^face<vblex><pp><mn><sg>$
+[/sUJqprtybo6_]
+[sw9nqKopBnN0#0] ^Câine<n><m><sg><nom><def>$ ^fugi<vblex><pri><p3><sg>$ ^la fel<adv>$ ^de<pr>$ ^repede<adv>$ ^ca<rel><adv>$ ^pisoi<n><f><sg><nom><def>$^.<sent>$
+[/sw9nqKopBnN0]
+[t8vJlK15cnz3#0] ^în<pr>$ ^casă<n><f><sg><nom><def>$ ^mic<adj><f><sg><nom><ind>$ ^minunat<adj><f><sg><nom><ind>$
+[/t8vJlK15cnz3]
+[tHm7XD9_B61c#0] ^Casă<n><f><sg><nom><ind>$^.<sent>$
+[/tHm7XD9_B61c]
+[tpSuNXq_Nbj-#0] ^*cel$ ^mai<adv>$ ^frumos<adj><mn><sg><nom><ind>$
+[/tpSuNXq_Nbj-]
+[u0Rfzu9LW9Kw#0] ^*Studentului$ ^bun<n><nt><sg><nom><ind>$^.<sent>$
+[/u0Rfzu9LW9Kw]
+[u4q-Eo1FugOO#0] ^*Îşi$ ^povesti<vblex><pri><p1><sg>$ ^aventură<n><f><pl><nom><def>$ ^unul<prn><tn><m><sg><nom>$ ^altul<prn><tn><m><sg><dg>$^.<sent>$
+[/u4q-Eo1FugOO]
+[uBRwbxe65uIx#0] ^*Un$ ^bun<n><nt><sg><nom><ind>$ ^*student$^.<sent>$
+[/uBRwbxe65uIx]
+[uDKwFA20mmoc#0] ^Frate<n><m><pl><nom><def>$ ^său<adj><pos><m><pl><nom><ind>$^.<sent>$
+[/uDKwFA20mmoc]
+[uXVY8VrkM4l4#0] ^*voi$ ^face<vblex><pri><p3><sg>$
+[/uXVY8VrkM4l4]
+[v5yNe8aRKNYi#0] ^mormânt<n><nt><sg><nom><def>$ ^lui<adj><pos><mn><sg><nom><ind>$ ^Isus<np><ant><m><sg><nom><def>$
+[/v5yNe8aRKNYi]
+[vM_lBz7_e3Fo#0] ^2<num>$ ^aprilie<n><m><sg><nom><ind>$^.<sent>$
+[/vM_lBz7_e3Fo]
+[vS-_3Y_-Fulp#0] ^instrument<n><nt><pl><nom><ind>$ ^juridic<adj><f><sg><dg><ind>$ ^comunitar<adj><f><sg><dg><ind>$
+[/vS-_3Y_-Fulp]
+[vSuU0Gb0sLS8#0] ^Școală<n><f><sg><nom><def>$ ^său<adj><pos><f><sg><nom><ind>$^.<sent>$
+[/vSuU0Gb0sLS8]
+[vuVUIQCOIdag#0] ^Nu<adv>$ ^ninge<vblex><pri><p3><sg>$^,<cm>$ ^dar<cnjcoo>$ ^fi<vblex><pri><p3><sg>$ ^frig<n><nt><sg><nom><ind>$^.<sent>$
+[/vuVUIQCOIdag]
+[w8jQYNv4u0J8#0] ^*hotarele$ ^Europa<np><top><f><sg><dg><def>$
+[/w8jQYNv4u0J8]
+[wC0S7IAr_wHS#0] ^Frate<n><m><pl><nom><def>$
+[/wC0S7IAr_wHS]
+[x-mO1YNlJrqN#0] ^Câine<n><m><sg><nom><def>$ ^fugi<vblex><pri><p3><sg>$ ^mai<adv>$ ^repede<adv>$ ^*decât$ ^oaie<n><f><sg><nom><def>$^.<sent>$
+[/x-mO1YNlJrqN]
+[x0rRKuzhMJ1Y#0] ^*referitor$ ^la<pr>$ ^limitare<n><f><sg><nom><def>$ ^schimbare<n><f><pl><dg><def>$ ^climatic<adj><f><sg><dg><ind>$ ^global<adj><fn><pl><nom><ind>$
+[/x0rRKuzhMJ1Y]
+[xTOfpjbkqAqv#0] ^Vorbi<vblex><pri><p3><sg>$^!<sent>$
+[/xTOfpjbkqAqv]
+[xwuAAd1_1XNb#0] ^Pe<pr>$ ^cine<prn><itg><mf><sg><nom>$ ^aștepta<vblex><pri><p2><sg>$^?<sent>$
+[/xwuAAd1_1XNb]
+[yRxOhUEFzdIT#0] ^Lui<adj><pos><f><sg><nom><ind>$ ^mânca<vblex><pri><p3><sg>$^.<sent>$
+[/yRxOhUEFzdIT]
+[ze0lb4lVREJq#0] ^Da<vblex><imp><p2><sg>+mă<prn><enc><p1><mf><sg><dg>$ ^telefon<n><nt><sg><nom><ind>$ ^*peste$ ^un<det><ind><f><sg><nom>$ ^oră<n><f><sg><nom><ind>$^!<sent>$
+[/ze0lb4lVREJq]
+[zuxTiXgtikTe#0] ^El<prn><tn><p3><m><sg><nom>$ ^fi<vblex><pri><p3><sg>$ ^atât<adv>$ ^de<pr>$ ^frumos<adj><mn><sg><nom><ind>$^.<sent>$
+[/zuxTiXgtikTe]

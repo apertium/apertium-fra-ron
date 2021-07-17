@@ -1,0 +1,322 @@
+[-1NEJO--P79m#0] ^N-/nu<adv>$ ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^câine/câine<n><m><sg><nom><ind>/câine<n><m><sg><dg><ind>$^,/,<cm>$ ^ci/ci<cnjcoo>$ ^pisică/pisoi<n><f><sg><nom><ind>$^./.<sent>$
+[/-1NEJO--P79m]
+[-BnWHZQXzM43#0] ^Băiatul/băiat<n><m><sg><nom><def>$ ^care/care<rel><adv>/care<rel><an><mfn><sp><nom>$ ^stă/sta<vblex><pri><p3><sg>$ ^acolo/acolo<adv>$ ^este/fi<vblex><pri><p3><sg>$ ^fratele/frate<n><m><sg><nom><def>$ ^meu/*meu$^./.<sent>$
+[/-BnWHZQXzM43]
+[-SaiOZfzcWKR#0] ^Du-te/duce<vblex><imp><p2><sg>+te<prn><enc><p2><mf><sg><nom>$ ^lângă/*lângă$ ^copac/copac<n><m><sg><nom><ind>/copac<n><m><sg><dg><ind>$^!/!<sent>$
+[/-SaiOZfzcWKR]
+[-TqQ-RaAQmr-#0] ^Ne/ne<prn><pro><p1><mf><pl><nom>/ne<prn><pro><p1><mf><pl><dg>$ ^întâlnim/întâlni<vblex><pri><p1><pl>/întâlni<vblex><prs><p1><pl>/întâlni<vblex><imp><p1><pl>$ ^pe/pe<pr>$ ^la/la<pr>$ ^ora/oră<n><f><sg><nom><def>$ ^cinci/cinci<num><mf><pl>$^./.<sent>$
+[/-TqQ-RaAQmr-]
+[-nov1WRv3JnL#0] ^Bunului/bun<n><nt><sg><dg><def>/bun<adj><mn><sg><dg><def>$ ^student/*student$^./.<sent>$
+[/-nov1WRv3JnL]
+[0PKytJJZdEYW#0] ^Eu/eu<prn><tn><p1><mf><sg><nom>$ ^mănânc/mânca<vblex><pri><p1><sg>/mânca<vblex><prs><p1><sg>$^./.<sent>$
+[/0PKytJJZdEYW]
+[0VMp7krE1gcu#0] ^nici/nici<cnjcoo>$ ^nu/nu<adv>$ ^plânge/plânge<vblex><inf>/plânge<vblex><pri><p3><sg>$^,/,<cm>$ ^nici/nici<cnjcoo>$ ^nu/nu<adv>$ ^râde/râde<vblex><inf>/râde<vblex><pri><p3><sg>/râde<vblex><imp><p2><sg>$
+[/0VMp7krE1gcu]
+[0XmPkdGk2Yej#0] ^Fată/*Fată$ ^mică/mic<adj><f><sg><nom><ind>$
+[/0XmPkdGk2Yej]
+[1KJ9iXxx7Lsl#0] ^A/a<pr>/al<det><def><f><sg>$ ^venit/veni<vblex><pp><mn><sg>/venit<n><nt><sg><nom><ind>/venit<n><nt><sg><dg><ind>$ ^după/după<pr>$ ^mine/mină<n><f><sg><dg><ind>/mină<n><f><pl><nom><ind>/mină<n><f><pl><dg><ind>$^./.<sent>$
+[/1KJ9iXxx7Lsl]
+[1V7rWxKZC4-2#0] ^Surorile/*Surorile$ ^mele/meu<adj><pos><f><sg><dg><ind>/meu<adj><pos><f><sg><dg><def>$^./.<sent>$
+[/1V7rWxKZC4-2]
+[2MfkpJgBXaco#0] ^O/un<det><ind><f><sg><nom>/îl<prn><pro><p3><f><sg><nom>$ ^casă/casă<n><f><sg><nom><ind>$^./.<sent>$
+[/2MfkpJgBXaco]
+[2SU-WKUmwSKM#0] ^Împotriva/împotriva<pr><gen>$ ^schimbării/schimbare<n><f><sg><dg><def>$ ^climatice/climatic<adj><f><sg><dg><ind>$ ^globale/global<adj><f><sg><dg><ind>/global<adj><fn><pl><nom><ind>/global<adj><fn><pl><dg><ind>$
+[/2SU-WKUmwSKM]
+[361JOxRR8Rn8#0] ^cartea/carte<n><f><sg><nom><def>$ ^a/a<pr>/al<det><def><f><sg>$ ^cărei/cărui<rel><aa><f><sg><dg>$ ^copertă/copertă<n><f><sg><nom><ind>$
+[/361JOxRR8Rn8]
+[3pipKizvlVlZ#0] ^Bunicii/bunic<n><m><pl><nom><def>/bunic<n><f><sg><dg><def>$ ^tăi/tău<adj><pos><m><pl><nom><ind>/tău<adj><pos><m><pl><nom><def>/tău<adj><pos><m><pl><dg><ind>/tău<adj><pos><m><pl><dg><def>$^./.<sent>$
+[/3pipKizvlVlZ]
+[5-s_p53Psq0f#0] ^Al/*Al$ ^cui/cui<n><nt><sg><nom><ind>/cui<n><nt><sg><dg><ind>$ ^este/fi<vblex><pri><p3><sg>$ ^câinele/câine<n><m><sg><nom><def>$ ^acela/acela<prn><tn><m><sg><nom>$^?/?<sent>$
+[/5-s_p53Psq0f]
+[5ael0Krlo21c#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^este/fi<vblex><pri><p3><sg>$ ^cel/*cel$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^înalt/înalt<adj><mn><sg><nom><ind>/înalt<adj><mn><sg><dg><ind>$ ^din/din<pr>$ ^clasă/clasa<vblex><ifi><p3><sg>/clasă<n><f><sg><nom><ind>$^./.<sent>$
+[/5ael0Krlo21c]
+[5zWElR2K-Saw#0] ^Camionul/camion<n><nt><sg><nom><def>$ ^tău/*tău$^./.<sent>$
+[/5zWElR2K-Saw]
+[6LNI6zRZX9yK#0] ^Cum/cum<adv><itg>$ ^va/*va$ ^rezolva/rezolva<vblex><inf>/rezolva<vblex><pii><p3><sg>$ ^exercițiul/exercițiu<n><nt><sg><nom><def>$^?/?<sent>$
+[/6LNI6zRZX9yK]
+[6PoSpNRKz_PD#0] ^Tu/tu<prn><tn><p2><mf><sg><nom>$ ^mănânci/mânca<vblex><pri><p2><sg>/mânca<vblex><prs><p2><sg>$^./.<sent>$
+[/6PoSpNRKz_PD]
+[6lfHduYA74ED#0] ^de/de<pr>$ ^politica/politic<adj><f><sg><nom><def>/politică<n><f><sg><nom><def>$ ^externa/extern<adj><f><sg><nom><def>$ ^a/a<pr>/al<det><def><f><sg>$ ^României/România<np><top><f><sg><dg><def>$
+[/6lfHduYA74ED]
+[77WSE1x5CyGN#0] ^Poţi/putea<vbmod><pri><p2><sg>/putea<vbmod><prs><p2><sg>/putea<vbmod><imp><p2><sg>$ ^veni/veni<vblex><inf>/veni<vblex><ifi><p3><sg>$ ^cu/cu<pr>$ ^oricine/oricine<prn><tn><mf><sg><nom>$^./.<sent>$
+[/77WSE1x5CyGN]
+[7LWrlsWLMWc_#0] ^fraţii/frate<n><m><pl><nom><def>$ ^săi/său<adj><pos><m><pl><nom><ind>/său<adj><pos><m><pl><nom><def>/său<adj><pos><m><pl><dg><ind>/său<adj><pos><m><pl><dg><def>$^./.<sent>$
+[/7LWrlsWLMWc_]
+[7kQ_Zd5ppfF-#0] ^Stiloul/*Stiloul$ ^pe care/pe care<rel><an><mfn><sp><nom>$ ^mi/*mi$ ^l/*l$-^ai/al<det><def><m><pl>/avea<vblex><pri><p2><sg>/avea<vblex><prs><p2><sg>/avea<vblex><imp><p2><sg>$ ^dat/da<vblex><pp><mn><sg>$ ^nu/nu<adv>$ ^scrie/scrie<vblex><inf>/scrie<vblex><pri><p3><sg>/scrie<vblex><prs><p3><sg>/scrie<vblex><prs><p3><pl>/scrie<vblex><imp><p3><sg>/scrie<vblex><imp><p3><pl>/scrie<vblex><imp><p2><sg>$^./.<sent>$
+[/7kQ_Zd5ppfF-]
+[AUnXvHEHaYeB#0] ^frumoasa/frumos<adj><f><sg><nom><def>$ ^legendă/legendă<n><f><sg><nom><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^cinematografului/*cinematografului$
+[/AUnXvHEHaYeB]
+[Ax2J22jLElmV#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^vorbea/vorbi<vblex><pii><p3><sg>$^./.<sent>$
+[/Ax2J22jLElmV]
+[BOc8obHsUPlG#0] ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^făcut-o/face<vblex><pp><mn><sg>+îl<prn><enc><p3><f><sg><nom>$
+[/BOc8obHsUPlG]
+[C-y4UcGmJVo5#0] ^Vorbeşte/vorbi<vblex><pri><p3><sg>/vorbi<vblex><imp><p2><sg>$ ^despre/despre<pr>$ ^tine/*tine$^./.<sent>$
+[/C-y4UcGmJVo5]
+[CMQShS8VuZEF#0] ^Eu/eu<prn><tn><p1><mf><sg><nom>$ ^vorbesc/vorbi<vblex><pri><p3><pl>/vorbi<vblex><pri><p1><sg>/vorbi<vblex><prs><p1><sg>$^./.<sent>$
+[/CMQShS8VuZEF]
+[D9SWN7-y064e#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^este/fi<vblex><pri><p3><sg>$ ^foarte/foarte<preadv>$ ^înalt/înalt<adj><mn><sg><nom><ind>/înalt<adj><mn><sg><dg><ind>$^./.<sent>$
+[/D9SWN7-y064e]
+[DxAXDRjt1jJp#0] ^Ştiu/ști<vblex><pri><p3><pl>/ști<vblex><pri><p1><sg>/ști<vblex><prs><p1><sg>/ști<vblex><ifi><p3><sg>$ ^englezeşte/*englezeşte$^,/,<cm>$ ^însă/însă<cnjcoo>$ ^nu/nu<adv>$ ^vorbesc/vorbi<vblex><pri><p3><pl>/vorbi<vblex><pri><p1><sg>/vorbi<vblex><prs><p1><sg>$ ^nemţeşte/*nemţeşte$^./.<sent>$
+[/DxAXDRjt1jJp]
+[EDLpQCtr5H7O#0] ^Prăjitura/prăjitură<n><f><sg><nom><def>$ ^este/fi<vblex><pri><p3><sg>$ ^facută/*facută$ ^din/din<pr>$ ^făină/făină<n><f><sg><nom><ind>$^./.<sent>$
+[/EDLpQCtr5H7O]
+[FPk0sb8YfLAI#0] ^Îşi/*Îşi$ ^face/face<vblex><inf>/face<vblex><pri><p3><sg>$ ^rău/rău<preadv>/rău<n><nt><sg><nom><ind>/rău<n><nt><sg><dg><ind>$ ^sie/*sie$ ^însuşi/însuși<vblex><inf>/însuși<vblex><ifi><p3><sg>$^./.<sent>$
+[/FPk0sb8YfLAI]
+[FT56rJKM-SlP#0] ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^făcut/face<vblex><pp><mn><sg>$
+[/FT56rJKM-SlP]
+[Fig-LkZsgy0R#0] ^Am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^venit/veni<vblex><pp><mn><sg>/venit<n><nt><sg><nom><ind>/venit<n><nt><sg><dg><ind>$ ^să/să<cnjsub>$ ^te/te<prn><pro><p2><mf><sg><nom>$ ^ajut/ajuta<vblex><pri><p1><sg>/ajuta<vblex><prs><p1><sg>$^./.<sent>$
+[/Fig-LkZsgy0R]
+[G2ujL9Ndksxx#0] ^nespus/*nespus$ ^de/de<pr>$ ^frumoasă/frumos<adj><f><sg><nom><ind>$
+[/G2ujL9Ndksxx]
+[GbjER5kAtaPk#0] ^Eu/eu<prn><tn><p1><mf><sg><nom>$ ^sunt/fi<vblex><pri><p3><pl>$ ^inginer/inginer<n><m><sg><nom><ind>/inginer<n><m><sg><dg><ind>$^,/,<cm>$ ^iar/*iar$ ^soţia/soț<n><f><sg><nom><def>$ ^mea/meu<adj><pos><f><sg><nom><ind>/meu<adj><pos><f><sg><nom><def>$ ^e/fi<vblex><pri><p3><sg>$ ^actriţă/actor<n><f><sg><nom><ind>$^./.<sent>$
+[/GbjER5kAtaPk]
+[GeAMFK4fd2Ja#0] ^Lucrează/lucra<vblex><pri><p3><sg>/lucra<vblex><pri><p3><pl>/lucra<vblex><imp><p2><sg>$ ^tot/tot<prn><tn><m><sg><nom>/tot<prn><tn><m><sg><dg>/tot<predet><def><mn><sg><nom>/tot<predet><def><mn><sg><dg>$ ^aşa/așa<adv>/așa<preadv>$ ^de/de<pr>$ ^bine/bine<preadv>$ ^ca/ca<rel><adv>$ ^tatăl/tată<n><m><sg><nom><def>$ ^lui/lui<adj><pos><mn><sg><nom><ind>/lui<adj><pos><mn><sg><nom><def>/lui<adj><pos><mn><sg><dg><ind>/lui<adj><pos><mn><sg><dg><def>$^./.<sent>$
+[/GeAMFK4fd2Ja]
+[GgYaOXX2VbJa#0] ^Unui/*Unui$ ^student/*student$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$^./.<sent>$
+[/GgYaOXX2VbJa]
+[GsrucfsBNN3N#0] ^băiatul/băiat<n><m><sg><nom><def>$ ^din/din<pr>$ ^casa/casă<n><f><sg><nom><def>$ ^vecină/vecin<n><f><sg><nom><ind>$^./.<sent>$
+[/GsrucfsBNN3N]
+[Hd-TQv8n-vkX#0] ^Băiatul/băiat<n><m><sg><nom><def>$
+[/Hd-TQv8n-vkX]
+[HyGnbT14GNNN#0] ^Rămâi/rămâne<vblex><pri><p2><sg>/rămâne<vblex><prs><p2><sg>/rămâne<vblex><imp><p2><sg>$ ^în/în<pr>$ ^cameră/cameră<n><f><sg><nom><ind>$^!/!<sent>$
+[/HyGnbT14GNNN]
+[I9uY5nVxeeRL#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^lucrează/lucra<vblex><pri><p3><sg>/lucra<vblex><pri><p3><pl>/lucra<vblex><imp><p2><sg>$ ^bine/bine<preadv>$^./.<sent>$
+[/I9uY5nVxeeRL]
+[IYRL-KnVCwFQ#0] ^Vii/vie<n><f><sg><dg><ind>/vie<n><f><pl><nom><ind>/vie<n><f><pl><dg><ind>/viu<adj><f><sg><dg><ind>/viu<adj><m><pl><nom><ind>/viu<adj><m><pl><dg><ind>/viu<adj><fn><pl><nom><ind>/viu<adj><fn><pl><dg><ind>/veni<vblex><pri><p2><sg>/veni<vblex><prs><p2><sg>$ ^cu mine/cu mine<prn><tn><p1><mf><sg><nom>$^,/,<cm>$ ^sau/sau<cnjcoo>$ ^rămâi/rămâne<vblex><pri><p2><sg>/rămâne<vblex><prs><p2><sg>/rămâne<vblex><imp><p2><sg>$ ^aici/aici<adv>$^?/?<sent>$
+[/IYRL-KnVCwFQ]
+[ImUAFZAmCmk4#0] ^la/la<pr>$ ^hotarele/*hotarele$ ^Europei/Europa<np><top><f><sg><dg><def>$
+[/ImUAFZAmCmk4]
+[IyjQLvX66K61#0] ^pentru/pentru<pr>$ ^cartea/carte<n><f><sg><nom><def>$ ^prietenei/prieten<n><f><sg><dg><def>$ ^mele/meu<adj><pos><f><sg><dg><ind>/meu<adj><pos><f><sg><dg><def>$
+[/IyjQLvX66K61]
+[JB7X6BlUgsEz#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^mănâncă/mânca<vblex><pri><p3><sg>/mânca<vblex><pri><p3><pl>/mânca<vblex><imp><p3><pl>/mânca<vblex><imp><p2><sg>$^./.<sent>$
+[/JB7X6BlUgsEz]
+[JcM_lCIfYmmc#0] ^Studentul/*Studentul$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$^./.<sent>$
+[/JcM_lCIfYmmc]
+[Kl5_3KCvGYK0#0] ^nespus/*nespus$ ^de/de<pr>$ ^frumoase/frumos<adj><f><sg><dg><ind>/frumos<adj><fn><pl><nom><ind>/frumos<adj><fn><pl><dg><ind>$
+[/Kl5_3KCvGYK0]
+[L9NXcmBsoBMw#0] ^Ai/al<det><def><m><pl>/avea<vblex><pri><p2><sg>/avea<vblex><prs><p2><sg>/avea<vblex><imp><p2><sg>$ ^primit/primi<vblex><pp><mn><sg>$ ^ordin/*ordin$^,/,<cm>$ ^aşadar/*aşadar$ ^trebuie/*trebuie$ ^să/să<cnjsub>$ ^pleci/pleca<vblex><pri><p2><sg>/pleca<vblex><prs><p2><sg>$^./.<sent>$
+[/L9NXcmBsoBMw]
+[L_JNyzQIPVKV#0] ^Când/când<adv><itg>/când<rel><adv>$ ^va/*va$ ^ieși/ieși<vblex><inf>/ieși<vblex><pri><p2><sg>/ieși<vblex><prs><p2><sg>/ieși<vblex><imp><p2><sg>/ieși<vblex><ifi><p3><sg>$^?/?<sent>$
+[/L_JNyzQIPVKV]
+[LaC4mG9fhNiw#0] ^Florile/floare<n><f><pl><nom><def>$ ^sunt/fi<vblex><pri><p3><pl>$ ^pe/pe<pr>$ ^masă/masă<n><f><sg><nom><ind>$^./.<sent>$
+[/LaC4mG9fhNiw]
+[Ln0uUgibIprz#0] ^Pantoful/pantof<n><m><sg><nom><def>$ ^meu/*meu$^./.<sent>$
+[/Ln0uUgibIprz]
+[M3BeRhCHEbii#0] ^Un/*Un$ ^student/*student$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$^./.<sent>$
+[/M3BeRhCHEbii]
+[NJ2YTiVZLNOl#0] ^Ei/lui<adj><pos><f><sg><nom><ind>/lui<adj><pos><f><sg><nom><def>/lui<adj><pos><f><sg><dg><ind>/lui<adj><pos><f><sg><dg><def>$ ^vor/vrea<vblex><pri><p3><pl>$ ^vorbi/vorbi<vblex><inf>/vorbi<vblex><ifi><p3><sg>$^./.<sent>$
+[/NJ2YTiVZLNOl]
+[NdcCjyzfQKlk#0] ^Cum/cum<adv><itg>$ ^vom/*vom$ ^rezolva/rezolva<vblex><inf>/rezolva<vblex><pii><p3><sg>$ ^exercițiul/exercițiu<n><nt><sg><nom><def>$^?/?<sent>$
+[/NdcCjyzfQKlk]
+[O3Pv-4XV2UMx#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^a/a<pr>/al<det><def><f><sg>$ ^spus/spune<vblex><pp><mn><sg>$ ^că/că<cnjsub>$ ^mă/mă<prn><pro><p1><mf><sg><nom>$ ^aşteaptă/aștepta<vblex><pri><p3><sg>/aștepta<vblex><pri><p3><pl>/aștepta<vblex><imp><p2><sg>$^./.<sent>$
+[/O3Pv-4XV2UMx]
+[OA0YnJLHzTEX#0] ^a/a<pr>/al<det><def><f><sg>$ ^temperaturii/temperatură<n><f><sg><dg><def>$
+[/OA0YnJLHzTEX]
+[ODzqu3JnHJis#0] ^uşa/ușă<n><f><sg><nom><def>$ ^dinspre/dinspre<pr>$ ^stradă/stradă<n><f><sg><nom><ind>$^./.<sent>$
+[/ODzqu3JnHJis]
+[OHJlJrs96s4Z#0] ^Carte/carte<n><f><sg><nom><ind>$ ^bună/bun<adj><f><sg><nom><ind>$
+[/OHJlJrs96s4Z]
+[Q3H46aaVAo50#0] ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^să/să<cnjsub>$ ^fac/face<vblex><pri><p3><pl>/face<vblex><pri><p1><sg>/face<vblex><prs><p1><sg>$
+[/Q3H46aaVAo50]
+[Q3iyErVEQ23q#0] ^despre/despre<pr>$ ^legenda/legendă<n><f><sg><nom><def>$ ^frumoasă/frumos<adj><f><sg><nom><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^cinematografului/*cinematografului$
+[/Q3iyErVEQ23q]
+[QDIMp7S0K43s#0] ^Când/când<adv><itg>/când<rel><adv>$ ^vom/*vom$ ^ieși/ieși<vblex><inf>/ieși<vblex><pri><p2><sg>/ieși<vblex><prs><p2><sg>/ieși<vblex><imp><p2><sg>/ieși<vblex><ifi><p3><sg>$^?/?<sent>$
+[/QDIMp7S0K43s]
+[QhDSzgURQIWR#0] ^cartea/carte<n><f><sg><nom><def>$ ^fetei/*fetei$
+[/QhDSzgURQIWR]
+[RK908sq7YklE#0] ^niciodată/niciodată<adv>$ ^nu/nu<adv>$ ^plânge/plânge<vblex><inf>/plânge<vblex><pri><p3><sg>$
+[/RK908sq7YklE]
+[RfLMOaN6oFgN#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^se/*se$ ^piaptănă/pieptăna<vblex><pri><p3><sg>/pieptăna<vblex><pri><p3><pl>/pieptăna<vblex><imp><p2><sg>$^./.<sent>$
+[/RfLMOaN6oFgN]
+[SkmVU-LbMuT2#0] ^cartea/carte<n><f><sg><nom><def>$ ^prietenei/prieten<n><f><sg><dg><def>$ ^mele/meu<adj><pos><f><sg><dg><ind>/meu<adj><pos><f><sg><dg><def>$
+[/SkmVU-LbMuT2]
+[TmYFjS7d4pQ3#0] ^Unde/unde<adv><itg>/unde<rel><adv>/undă<n><f><sg><dg><ind>/undă<n><f><pl><nom><ind>/undă<n><f><pl><dg><ind>$ ^pleacă/pleca<vblex><pri><p3><sg>/pleca<vblex><pri><p3><pl>/pleca<vblex><imp><p2><sg>$^?/?<sent>$
+[/TmYFjS7d4pQ3]
+[Tn8hdyrs563c#0] ^Elevii/elev<n><m><pl><nom><def>$ ^aceia/acela<prn><tn><m><pl><nom>$^./.<sent>$
+[/Tn8hdyrs563c]
+[UP4B_ryyYf0g#0] ^Casa/casă<n><f><sg><nom><def>$^./.<sent>$
+[/UP4B_ryyYf0g]
+[UcDLBsRai7gI#0] ^Cui/cui<n><nt><sg><nom><ind>/cui<n><nt><sg><dg><ind>$ ^i-/îl<prn><pro><p3><m><pl><nom>$ ^ai/al<det><def><m><pl>/avea<vblex><pri><p2><sg>/avea<vblex><prs><p2><sg>/avea<vblex><imp><p2><sg>$ ^dat/da<vblex><pp><mn><sg>$ ^telefon/telefon<n><nt><sg><nom><ind>/telefon<n><nt><sg><dg><ind>$^?/?<sent>$
+[/UcDLBsRai7gI]
+[UvoL9NxvstxT#0] ^nespus/*nespus$ ^de/de<pr>$ ^frumoși/frumos<adj><m><pl><nom><ind>/frumos<adj><m><pl><dg><ind>$
+[/UvoL9NxvstxT]
+[VPE96lbhyOaf#0] ^în/în<pr>$ ^casa/casă<n><f><sg><nom><def>$ ^minunată/minunat<adj><f><sg><nom><ind>$
+[/VPE96lbhyOaf]
+[W95NT3Kds0qC#0] ^Tu/tu<prn><tn><p2><mf><sg><nom>$ ^vorbeai/vorbi<vblex><pii><p2><sg>$^./.<sent>$
+[/W95NT3Kds0qC]
+[Xu3vUxgDH9BO#0] ^Pom/pom<n><m><sg><nom><ind>/pom<n><m><sg><dg><ind>$^./.<sent>$
+[/Xu3vUxgDH9BO]
+[YEpT5bPfBq-f#0] ^Câinele/câine<n><m><sg><nom><def>$ ^fuge/fugi<vblex><pri><p3><sg>$ ^mai puţin/mai puțin<adv>$ ^repede/repede<adv>$ ^decât/*decât$ ^calul/cal<n><m><sg><nom><def>$^./.<sent>$
+[/YEpT5bPfBq-f]
+[YOxb3SO60Lbl#0] ^Dacă/dacă<cnjadv>$ ^vrei/vrea<vblex><pri><p2><sg>/vrea<vblex><prs><p2><sg>/vrea<vblex><imp><p2><sg>$^,/,<cm>$ ^merg/merge<vblex><pri><p3><pl>/merge<vblex><pri><p1><sg>/merge<vblex><prs><p1><sg>$ ^cu tine/cu tine<prn><tn><p2><mf><sg><nom>$^./.<sent>$
+[/YOxb3SO60Lbl]
+[ZpC83dLayPLV#0] ^făcusem/face<vblex><pper><p1><sg>/face<vblex><pper><p1><pl>$
+[/ZpC83dLayPLV]
+[_n27fBqb4s39#0] ^casa/casă<n><f><sg><nom><def>$ ^tuturor/tot<predet><def><m><pl><dg>/tot<predet><def><fn><pl><dg>$
+[/_n27fBqb4s39]
+[_qmd9L45kzaF#0] ^O sută/o sută<num><mf><pl>$ ^treizeci/treizeci<num><mf><pl>$ ^de/de<pr>$ ^copii/copil<n><m><pl><nom><ind>/copil<n><m><pl><dg><ind>/copie<n><f><sg><dg><ind>/copie<n><f><pl><nom><ind>/copie<n><f><pl><dg><ind>$^./.<sent>$
+[/_qmd9L45kzaF]
+[aAmUOzdDMpuH#0] ^Noi/nou<adj><f><sg><dg><ind>/nou<adj><m><pl><nom><ind>/nou<adj><m><pl><dg><ind>/nou<adj><fn><pl><nom><ind>/nou<adj><fn><pl><dg><ind>$ ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^vorbit/vorbi<vblex><pp><mn><sg>$^./.<sent>$
+[/aAmUOzdDMpuH]
+[aHaHYpfL8Akk#0] ^Mănâncă/mânca<vblex><pri><p3><sg>/mânca<vblex><pri><p3><pl>/mânca<vblex><imp><p3><pl>/mânca<vblex><imp><p2><sg>$ ^mult/*mult$^./.<sent>$
+[/aHaHYpfL8Akk]
+[bBLusr9CU57D#0] ^A/a<pr>/al<det><def><f><sg>$ ^vorbi/vorbi<vblex><inf>/vorbi<vblex><ifi><p3><sg>$
+[/bBLusr9CU57D]
+[bMKfgztFXNon#0] ^toți/tot<prn><tn><m><pl><nom>/tot<prn><tn><m><pl><dg>/tot<predet><def><m><pl><nom>$ ^copiii/copil<n><m><pl><nom><def>$
+[/bMKfgztFXNon]
+[bMmPdHdWKX6R#0] ^Pomul/pom<n><m><sg><nom><def>$^./.<sent>$
+[/bMmPdHdWKX6R]
+[bRFec-C8Vp9q#0] ^Te/te<prn><pro><p2><mf><sg><nom>$ ^cred/crede<vblex><pri><p3><pl>/crede<vblex><pri><p1><sg>/crede<vblex><prs><p1><sg>$^,/,<cm>$ ^fiindcă/fiindcă<cnjadv>$ ^te/te<prn><pro><p2><mf><sg><nom>$ ^cunosc/cunoaște<vblex><pri><p3><pl>/cunoaște<vblex><pri><p1><sg>/cunoaște<vblex><prs><p1><sg>$^./.<sent>$
+[/bRFec-C8Vp9q]
+[bTNsYeUcRK10#0] ^Uneori/uneori<adv>$ ^e/fi<vblex><pri><p3><sg>$ ^trist/trist<adj><mn><sg><nom><ind>/trist<adj><mn><sg><dg><ind>$^./.<sent>$
+[/bTNsYeUcRK10]
+[bY88JzEcVYJr#0] ^Aşteaptă/aștepta<vblex><pri><p3><sg>/aștepta<vblex><pri><p3><pl>/aștepta<vblex><imp><p2><sg>$ ^până/*până$ ^(/(<lpar>$^ce/ce<prn><itg><mf><sg><nom>$^)/)<rpar>$ ^mă/mă<prn><pro><p1><mf><sg><nom>$ ^întorc/întoarce<vblex><pri><p3><pl>/întoarce<vblex><pri><p1><sg>/întoarce<vblex><prs><p1><sg>$^!/!<sent>$
+[/bY88JzEcVYJr]
+[c-eog2t6J7fB#0] ^Nu/nu<adv>$ ^vin/vin<n><nt><sg><nom><ind>/vin<n><nt><sg><dg><ind>/veni<vblex><pri><p3><pl>/veni<vblex><pri><p1><sg>/veni<vblex><prs><p1><sg>$ ^nici/nici<cnjcoo>$ ^azi/azi<adv>$^,/,<cm>$ ^nici/nici<cnjcoo>$ ^mâine/mâine<adv>$^./.<sent>$
+[/c-eog2t6J7fB]
+[c236Zw7pVu9A#0] ^Mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^lucrează/lucra<vblex><pri><p3><sg>/lucra<vblex><pri><p3><pl>/lucra<vblex><imp><p2><sg>$^,/,<cm>$ ^deşi/deși<cnjadv>/des<adj><m><pl><nom><ind>/des<adj><m><pl><dg><ind>$ ^este/fi<vblex><pri><p3><sg>$ ^pensionar/*pensionar$^./.<sent>$
+[/c236Zw7pVu9A]
+[c4f7o3t5RlFG#0] ^cea/cel<det><def><f><sg><nom>$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^frumoasă/frumos<adj><f><sg><nom><ind>$
+[/c4f7o3t5RlFG]
+[d7TyaLtojovk#0] ^Împotriva/împotriva<pr><gen>$ ^schimbării/schimbare<n><f><sg><dg><def>$ ^climatice/climatic<adj><f><sg><dg><ind>$
+[/d7TyaLtojovk]
+[ddXkhsFLS7mX#0] ^Băiat/băiat<n><m><sg><nom><ind>/băiat<n><m><sg><dg><ind>$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$
+[/ddXkhsFLS7mX]
+[dfKyGnwsRdrz#0] ^Noi/nou<adj><f><sg><dg><ind>/nou<adj><m><pl><nom><ind>/nou<adj><m><pl><dg><ind>/nou<adj><fn><pl><nom><ind>/nou<adj><fn><pl><dg><ind>$ ^mâncăm/mânca<vblex><pri><p1><pl>/mânca<vblex><prs><p1><pl>/mânca<vblex><imp><p1><pl>$^./.<sent>$
+[/dfKyGnwsRdrz]
+[e6_ieKL7Alhb#0] ^Amândoi/amândoi<prn><tn><m><pl><nom>$
+[/e6_ieKL7Alhb]
+[edMpkNOq-wcg#0] ^cele/*cele$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^frumoase/frumos<adj><f><sg><dg><ind>/frumos<adj><fn><pl><nom><ind>/frumos<adj><fn><pl><dg><ind>$
+[/edMpkNOq-wcg]
+[f5YMBcCcLr3A#0] ^fată/*fată$ ^de la/de la<pr>$ ^oraş/oraș<n><nt><sg><nom><ind>/oraș<n><nt><sg><dg><ind>$^./.<sent>$
+[/f5YMBcCcLr3A]
+[fIrbBzHjEUx_#0] ^Rămâi/rămâne<vblex><pri><p2><sg>/rămâne<vblex><prs><p2><sg>/rămâne<vblex><imp><p2><sg>$ ^aici/aici<adv>$^!/!<sent>$
+[/fIrbBzHjEUx_]
+[fgLTXg5-VEyi#0] ^Acest/*Acest$ ^câine/câine<n><m><sg><nom><ind>/câine<n><m><sg><dg><ind>$^./.<sent>$
+[/fgLTXg5-VEyi]
+[fh20WfObEu1t#0] ^pune/pune<vblex><inf>/pune<vblex><pri><p3><sg>/pune<vblex><imp><p2><sg>$ ^pe/pe<pr>$ ^coperta/copertă<n><f><sg><nom><def>$ ^cărții/carte<n><f><sg><dg><def>$
+[/fh20WfObEu1t]
+[gK88bD8W7X-2#0] ^Cine/cine<prn><itg><mf><sg><nom>/cină<n><f><sg><dg><ind>/cină<n><f><pl><nom><ind>/cină<n><f><pl><dg><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^ieșit/ieși<vblex><pp><mn><sg>$^?/?<sent>$
+[/gK88bD8W7X-2]
+[gR6Kuyqswh-6#0] ^E/fi<vblex><pri><p3><sg>$ ^imposibil/imposibil<adj><mn><sg><nom><ind>/imposibil<adj><mn><sg><dg><ind>$ ^să/să<cnjsub>$ ^nu/nu<adv>$ ^vină/veni<vblex><prs><p3><sg>/veni<vblex><prs><p3><pl>/veni<vblex><imp><p3><sg>/veni<vblex><imp><p3><pl>/vină<n><f><sg><nom><ind>$^./.<sent>$
+[/gR6Kuyqswh-6]
+[gaCvNRUh4Gzt#0] ^bijuterie/bijuterie<n><f><sg><nom><ind>$ ^de/de<pr>$ ^argint/*argint$^./.<sent>$
+[/gaCvNRUh4Gzt]
+[gayrk0kMF6_8#0] ^N-/nu<adv>$ ^ai/al<det><def><m><pl>/avea<vblex><pri><p2><sg>/avea<vblex><prs><p2><sg>/avea<vblex><imp><p2><sg>$ ^făcut/face<vblex><pp><mn><sg>$ ^nimic/nimic<prn><tn><nt><sg><nom>$ ^rău/rău<preadv>/rău<n><nt><sg><nom><ind>/rău<n><nt><sg><dg><ind>$^,/,<cm>$ ^deci/*deci$ ^nu/nu<adv>$ ^sunt/fi<vblex><pri><p3><pl>$ ^supărat/*supărat$ ^pe/pe<pr>$ ^tine/*tine$^./.<sent>$
+[/gayrk0kMF6_8]
+[h5sEQDvHvrkn#0] ^Sunt/fi<vblex><pri><p3><pl>$ ^foarte/foarte<preadv>$ ^obosit/obosi<vblex><pp><mn><sg>$^./.<sent>$
+[/h5sEQDvHvrkn]
+[hJcbtUJMYgFu#0] ^Problemele/problemă<n><f><pl><nom><def>$ ^tale/tău<adj><pos><f><sg><dg><ind>/tău<adj><pos><f><sg><dg><def>$^./.<sent>$
+[/hJcbtUJMYgFu]
+[hTtdkzRGzPgl#0] ^Cartea/carte<n><f><sg><nom><def>$ ^mea/meu<adj><pos><f><sg><nom><ind>/meu<adj><pos><f><sg><nom><def>$^./.<sent>$
+[/hTtdkzRGzPgl]
+[iI4_qSO04yX8#0] ^Doi/doi<num><m><pl>$ ^copii/copil<n><m><pl><nom><ind>/copil<n><m><pl><dg><ind>/copie<n><f><sg><dg><ind>/copie<n><f><pl><nom><ind>/copie<n><f><pl><dg><ind>$^./.<sent>$
+[/iI4_qSO04yX8]
+[iPBHd9PuQtJE#0] ^văzând/vedea<vblex><ger>$ ^legenda/legendă<n><f><sg><nom><def>$ ^frumoasă/frumos<adj><f><sg><nom><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^cinematografului/*cinematografului$
+[/iPBHd9PuQtJE]
+[iUduVWrgWsWE#0] ^Omul/om<n><m><sg><nom><def>$ ^nostru/*nostru$^./.<sent>$
+[/iUduVWrgWsWE]
+[i_qZbfeykyl9#0] ^Părinții/părinte<n><m><pl><nom><def>$ ^mei/meu<adj><pos><m><pl><nom><ind>/meu<adj><pos><m><pl><nom><def>/meu<adj><pos><m><pl><dg><ind>/meu<adj><pos><m><pl><dg><def>$^./.<sent>$
+[/i_qZbfeykyl9]
+[ieTgcMp9Mdrj#0] ^Ghepardul/*Ghepardul$ ^fuge/fugi<vblex><pri><p3><sg>$ ^cel/*cel$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^repede/repede<adv>$ ^dintre/dintre<pr>$ ^toate/tot<predet><def><fn><pl><nom>$ ^animalele/animal<n><nt><pl><nom><def>$^./.<sent>$
+[/ieTgcMp9Mdrj]
+[iv-ZmfvUDm-d#0] ^Ud/uda<vblex><pri><p1><sg>/uda<vblex><prs><p1><sg>$ ^cu/cu<pr>$ ^multă/*multă$ ^apă/apă<n><f><sg><nom><ind>$^,/,<cm>$ ^pentru/pentru<pr>$ ^ca/ca<rel><adv>$ ^florile/floare<n><f><pl><nom><def>$ ^să/să<cnjsub>$ ^se/*se$ ^dezvolte/dezvolta<vblex><prs><p3><sg>/dezvolta<vblex><prs><p3><pl>/dezvolta<vblex><imp><p3><sg>/dezvolta<vblex><imp><p3><pl>$ ^bine/bine<preadv>$^./.<sent>$
+[/iv-ZmfvUDm-d]
+[j1R7_dOvUHjr#0] ^E/fi<vblex><pri><p3><sg>$ ^aşa/așa<adv>/așa<preadv>$ ^de/de<pr>$ ^obosit/obosi<vblex><pp><mn><sg>$^,/,<cm>$ ^încât/încât<cnjsub>$ ^nu/nu<adv>$ ^poate/poate<adv>/putea<vbmod><pri><p3><sg>$ ^adormi/*adormi$^./.<sent>$
+[/j1R7_dOvUHjr]
+[ji_q7Re1fwSL#0] ^Venea/veni<vblex><pii><p3><sg>$ ^spre/spre<pr>$ ^noi/nou<adj><f><sg><dg><ind>/nou<adj><m><pl><nom><ind>/nou<adj><m><pl><dg><ind>/nou<adj><fn><pl><nom><ind>/nou<adj><fn><pl><dg><ind>$^./.<sent>$
+[/ji_q7Re1fwSL]
+[jvfOrMg8zAyZ#0] ^pe/pe<pr>$ ^coperta/copertă<n><f><sg><nom><def>$ ^cărții/carte<n><f><sg><dg><def>$
+[/jvfOrMg8zAyZ]
+[jwoKF59O42Jw#0] ^toate/tot<predet><def><fn><pl><nom>$ ^culorile/*culorile$ ^curcubeului/*curcubeului$
+[/jwoKF59O42Jw]
+[kC3knDDv9YJX#0] ^Vino/veni<vblex><imp><p2><sg>$ ^la/la<pr>$ ^mine/mină<n><f><sg><dg><ind>/mină<n><f><pl><nom><ind>/mină<n><f><pl><dg><ind>$^!/!<sent>$
+[/kC3knDDv9YJX]
+[kGTWxDBOrSaA#0] ^Melcul/*Melcul$ ^merge/merge<vblex><inf>/merge<vblex><pri><p3><sg>$ ^cel/*cel$ ^mai puţin/mai puțin<adv>$ ^repede/repede<adv>$ ^dintre/dintre<pr>$ ^toate/tot<predet><def><fn><pl><nom>$ ^animalele/animal<n><nt><pl><nom><def>$^./.<sent>$
+[/kGTWxDBOrSaA]
+[kL4cZtZ2-649#0] ^Mergi/merge<vblex><pri><p2><sg>/merge<vblex><prs><p2><sg>/merge<vblex><imp><p2><sg>$ ^prea/prea<adv>$ ^încet/încet<adv>$^./.<sent>$
+[/kL4cZtZ2-649]
+[kNQi9s3NmZsK#0] ^legenda/legendă<n><f><sg><nom><def>$ ^frumoasă/frumos<adj><f><sg><nom><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^cinematografului/*cinematografului$
+[/kNQi9s3NmZsK]
+[khLjEeGKz_kJ#0] ^politică/politic<adj><f><sg><nom><ind>/politică<n><f><sg><nom><ind>$ ^a/a<pr>/al<det><def><f><sg>$ ^României/România<np><top><f><sg><dg><def>$
+[/khLjEeGKz_kJ]
+[l4psBcl0c152#0] ^am/avea<vblex><pri><p1><sg>/avea<vblex><prs><p1><sg>$ ^dat/da<vblex><pp><mn><sg>$ ^cartea/carte<n><f><sg><nom><def>$ ^fetei/*fetei$
+[/l4psBcl0c152]
+[l8RydoKsoX17#0] ^Plec/pleca<vblex><pri><p1><sg>/pleca<vblex><prs><p1><sg>$ ^fie/fi<vblex><prs><p3><sg>/fi<vblex><prs><p3><pl>$ ^azi/azi<adv>$^,/,<cm>$ ^fie/fi<vblex><prs><p3><sg>/fi<vblex><prs><p3><pl>$ ^mâine/mâine<adv>$^./.<sent>$
+[/l8RydoKsoX17]
+[lOYgoPxQsA-V#0] ^Voi/*Voi$ ^vorbiserăți/*vorbiserăți$^./.<sent>$
+[/lOYgoPxQsA-V]
+[mgDtFnKG2AL_#0] ^Pisica/pisoi<n><f><sg><nom><def>$ ^e/fi<vblex><pri><p3><sg>$ ^sub/sub<pr>$ ^masă/masă<n><f><sg><nom><ind>$^./.<sent>$
+[/mgDtFnKG2AL_]
+[mjNDKwBfgLq1#0] ^Casa/casă<n><f><sg><nom><def>$
+[/mjNDKwBfgLq1]
+[mqPm4rR32teL#0] ^cei/cel<det><def><m><pl><nom>$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^frumoși/frumos<adj><m><pl><nom><ind>/frumos<adj><m><pl><dg><ind>$
+[/mqPm4rR32teL]
+[nEGWIf4Mr06n#0] ^A/a<pr>/al<det><def><f><sg>$ ^fost/fi<vblex><pp><mn><sg>$ ^fidel/fidel<adj><mn><sg><nom><ind>/fidel<adj><mn><sg><dg><ind>$ ^până la/până la<pr>$ ^moarte/mort<n><f><sg><dg><ind>/mort<n><f><pl><nom><ind>/mort<n><f><pl><dg><ind>/mort<adj><f><sg><dg><ind>/mort<adj><fn><pl><nom><ind>/mort<adj><fn><pl><dg><ind>/moarte<n><f><sg><nom><ind>$^./.<sent>$
+[/nEGWIf4Mr06n]
+[ntLKL0LSoSZ2#0] ^Cartea/carte<n><f><sg><nom><def>$ ^asta/asta<prn><tn><nt><sg><nom>$^./.<sent>$
+[/ntLKL0LSoSZ2]
+[o83PhWv-7w0-#0] ^O/un<det><ind><f><sg><nom>/îl<prn><pro><p3><f><sg><nom>$ ^casă/casă<n><f><sg><nom><ind>$ ^mare/*mare$^./.<sent>$
+[/o83PhWv-7w0-]
+[oClRr1H0YdSr#0] ^Grijile/*Grijile$ ^sale/său<adj><pos><f><sg><dg><ind>/său<adj><pos><f><sg><dg><def>/său<adj><pos><fn><pl><nom><ind>/său<adj><pos><fn><pl><nom><def>/său<adj><pos><fn><pl><dg><ind>/său<adj><pos><fn><pl><dg><def>$^./.<sent>$
+[/oClRr1H0YdSr]
+[pn9rcMFamBKd#0] ^Fiul/fiu<n><m><sg><nom><def>$ ^său/său<adj><pos><mn><sg><nom><ind>/său<adj><pos><mn><sg><nom><def>/său<adj><pos><mn><sg><dg><ind>/său<adj><pos><mn><sg><dg><def>$^./.<sent>$
+[/pn9rcMFamBKd]
+[qLYAw0tbU5hK#0] ^Fă-o/face<vblex><imp><p2><sg>+îl<prn><enc><p3><f><sg><nom>$ ^pentru/pentru<pr>$ ^mine/mină<n><f><sg><dg><ind>/mină<n><f><pl><nom><ind>/mină<n><f><pl><dg><ind>$^!/!<sent>$
+[/qLYAw0tbU5hK]
+[rEnKq9kAQBvN#0] ^Floarea/floare<n><f><sg><nom><def>$ ^ta/tău<adj><pos><f><sg><nom><ind>/tău<adj><pos><f><sg><nom><def>$^./.<sent>$
+[/rEnKq9kAQBvN]
+[rJYlXGuY3C13#0] ^Mergea/merge<vblex><pii><p3><sg>$ ^către/către<pr>$ ^oraş/oraș<n><nt><sg><nom><ind>/oraș<n><nt><sg><dg><ind>$^./.<sent>$
+[/rJYlXGuY3C13]
+[rg2NQUgWFIF2#0] ^Voi/*Voi$ ^mâncați/mânca<vblex><pri><p2><pl>/mânca<vblex><pii><p2><pl>/mânca<vblex><pp><m><pl>/mânca<vblex><imp><p2><pl>/mânca<vblex><prs><p2><pl>$^./.<sent>$
+[/rg2NQUgWFIF2]
+[s4nMn_0BTc2Z#0] ^nespus/*nespus$ ^de/de<pr>$ ^frumos/frumos<adj><mn><sg><nom><ind>/frumos<adj><mn><sg><dg><ind>$
+[/s4nMn_0BTc2Z]
+[sUJqprtybo6_#0] ^de/de<pr>$ ^făcut/face<vblex><pp><mn><sg>$
+[/sUJqprtybo6_]
+[sw9nqKopBnN0#0] ^Câinele/câine<n><m><sg><nom><def>$ ^fuge/fugi<vblex><pri><p3><sg>$ ^la fel/la fel<adv>$ ^de/de<pr>$ ^repede/repede<adv>$ ^ca/ca<rel><adv>$ ^pisica/pisoi<n><f><sg><nom><def>$^./.<sent>$
+[/sw9nqKopBnN0]
+[t8vJlK15cnz3#0] ^în/în<pr>$ ^casa/casă<n><f><sg><nom><def>$ ^mică/mic<adj><f><sg><nom><ind>$ ^minunată/minunat<adj><f><sg><nom><ind>$
+[/t8vJlK15cnz3]
+[tHm7XD9_B61c#0] ^Casă/casă<n><f><sg><nom><ind>$^./.<sent>$
+[/tHm7XD9_B61c]
+[tpSuNXq_Nbj-#0] ^cel/*cel$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^frumos/frumos<adj><mn><sg><nom><ind>/frumos<adj><mn><sg><dg><ind>$
+[/tpSuNXq_Nbj-]
+[u0Rfzu9LW9Kw#0] ^Studentului/*Studentului$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$^./.<sent>$
+[/u0Rfzu9LW9Kw]
+[u4q-Eo1FugOO#0] ^Îşi/*Îşi$ ^povestesc/povesti<vblex><pri><p3><pl>/povesti<vblex><pri><p1><sg>/povesti<vblex><prs><p1><sg>$ ^aventurile/aventură<n><f><pl><nom><def>$ ^unul/unul<prn><tn><m><sg><nom>$ ^altuia/altul<prn><tn><m><sg><dg>$^./.<sent>$
+[/u4q-Eo1FugOO]
+[uBRwbxe65uIx#0] ^Un/*Un$ ^bun/bun<n><nt><sg><nom><ind>/bun<n><nt><sg><dg><ind>/bun<adj><mn><sg><nom><ind>/bun<adj><mn><sg><dg><ind>$ ^student/*student$^./.<sent>$
+[/uBRwbxe65uIx]
+[uDKwFA20mmoc#0] ^Frații/frate<n><m><pl><nom><def>$ ^săi/său<adj><pos><m><pl><nom><ind>/său<adj><pos><m><pl><nom><def>/său<adj><pos><m><pl><dg><ind>/său<adj><pos><m><pl><dg><def>$^./.<sent>$
+[/uDKwFA20mmoc]
+[uXVY8VrkM4l4#0] ^voi/*voi$ ^face/face<vblex><inf>/face<vblex><pri><p3><sg>$
+[/uXVY8VrkM4l4]
+[v5yNe8aRKNYi#0] ^mormântul/mormânt<n><nt><sg><nom><def>$ ^lui/lui<adj><pos><mn><sg><nom><ind>/lui<adj><pos><mn><sg><nom><def>/lui<adj><pos><mn><sg><dg><ind>/lui<adj><pos><mn><sg><dg><def>$ ^Isus/Isus<np><ant><m><sg><nom><def>$
+[/v5yNe8aRKNYi]
+[vM_lBz7_e3Fo#0] ^2/2<num>$ ^aprilie/aprilie<n><m><sg><nom><ind>/aprilie<n><m><sg><nom><def>/aprilie<n><m><sg><dg><ind>/aprilie<n><m><sg><dg><def>$^./.<sent>$
+[/vM_lBz7_e3Fo]
+[vS-_3Y_-Fulp#0] ^instrumente/instrument<n><nt><pl><nom><ind>/instrument<n><nt><pl><dg><ind>$ ^juridice/juridic<adj><f><sg><dg><ind>$ ^comunitare/comunitar<adj><f><sg><dg><ind>$
+[/vS-_3Y_-Fulp]
+[vSuU0Gb0sLS8#0] ^Școala/școală<n><f><sg><nom><def>$ ^sa/său<adj><pos><f><sg><nom><ind>/său<adj><pos><f><sg><nom><def>$^./.<sent>$
+[/vSuU0Gb0sLS8]
+[vuVUIQCOIdag#0] ^Nu/nu<adv>$ ^ninge/ninge<vblex><inf>/ninge<vblex><pri><p3><sg>$^,/,<cm>$ ^dar/dar<cnjcoo>$ ^e/fi<vblex><pri><p3><sg>$ ^frig/frig<n><nt><sg><nom><ind>/frig<n><nt><sg><dg><ind>/frige<vblex><pri><p3><pl>/frige<vblex><pri><p1><sg>/frige<vblex><prs><p1><sg>$^./.<sent>$
+[/vuVUIQCOIdag]
+[w8jQYNv4u0J8#0] ^hotarele/*hotarele$ ^Europei/Europa<np><top><f><sg><dg><def>$
+[/w8jQYNv4u0J8]
+[wC0S7IAr_wHS#0] ^Frații/frate<n><m><pl><nom><def>$
+[/wC0S7IAr_wHS]
+[x-mO1YNlJrqN#0] ^Câinele/câine<n><m><sg><nom><def>$ ^fuge/fugi<vblex><pri><p3><sg>$ ^mai/mai<adv>/mai<n><m><sg><nom><ind>/mai<n><m><sg><nom><def>/mai<n><m><sg><dg><ind>/mai<n><m><sg><dg><def>$ ^repede/repede<adv>$ ^decât/*decât$ ^oaia/oaie<n><f><sg><nom><def>$^./.<sent>$
+[/x-mO1YNlJrqN]
+[x0rRKuzhMJ1Y#0] ^referitor/*referitor$ ^la/la<pr>$ ^limitarea/limitare<n><f><sg><nom><def>$ ^schimbărilor/schimbare<n><f><pl><dg><def>$ ^climatice/climatic<adj><f><sg><dg><ind>$ ^globale/global<adj><f><sg><dg><ind>/global<adj><fn><pl><nom><ind>/global<adj><fn><pl><dg><ind>$
+[/x0rRKuzhMJ1Y]
+[xTOfpjbkqAqv#0] ^Vorbește/vorbi<vblex><pri><p3><sg>/vorbi<vblex><imp><p2><sg>$^!/!<sent>$
+[/xTOfpjbkqAqv]
+[xwuAAd1_1XNb#0] ^Pe/pe<pr>$ ^cine/cine<prn><itg><mf><sg><nom>/cină<n><f><sg><dg><ind>/cină<n><f><pl><nom><ind>/cină<n><f><pl><dg><ind>$ ^aştepţi/aștepta<vblex><pri><p2><sg>/aștepta<vblex><prs><p2><sg>$^?/?<sent>$
+[/xwuAAd1_1XNb]
+[yRxOhUEFzdIT#0] ^Ei/lui<adj><pos><f><sg><nom><ind>/lui<adj><pos><f><sg><nom><def>/lui<adj><pos><f><sg><dg><ind>/lui<adj><pos><f><sg><dg><def>$ ^mănâncă/mânca<vblex><pri><p3><sg>/mânca<vblex><pri><p3><pl>/mânca<vblex><imp><p3><pl>/mânca<vblex><imp><p2><sg>$^./.<sent>$
+[/yRxOhUEFzdIT]
+[ze0lb4lVREJq#0] ^Dă-mi/da<vblex><imp><p2><sg>+mă<prn><enc><p1><mf><sg><dg>$ ^telefon/telefon<n><nt><sg><nom><ind>/telefon<n><nt><sg><dg><ind>$ ^peste/*peste$ ^o/un<det><ind><f><sg><nom>/îl<prn><pro><p3><f><sg><nom>$ ^oră/oră<n><f><sg><nom><ind>$^!/!<sent>$
+[/ze0lb4lVREJq]
+[zuxTiXgtikTe#0] ^El/el<prn><tn><p3><m><sg><nom>$ ^este/fi<vblex><pri><p3><sg>$ ^atât/atât<adv>$ ^de/de<pr>$ ^frumos/frumos<adj><mn><sg><nom><ind>/frumos<adj><mn><sg><dg><ind>$^./.<sent>$
+[/zuxTiXgtikTe]

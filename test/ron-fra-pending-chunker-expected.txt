@@ -1,0 +1,322 @@
+[-1NEJO--P79m#0] ^default<default>{^Ne<adv>$}$ ^default<default>{^avoir<vblex><pri><p1><sg>$ ^chien<n><m><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^mais<cnjcoo>$}$ ^default<default>{^chat<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/-1NEJO--P79m]
+[-BnWHZQXzM43#0] ^default<default>{^Le<det><def><m><sg>$ ^garçon<n><m><sg>$}$ ^default<default>{^que<rel><an><mf><sp>$}$ ^default<default>{^se<prn><pro><ref><p3><mf><sp>$}$ ^rester<vblex><pri><p3><sg>$ ^default<default>{^là-bas<adv>$}$ ^default<default>{^être<vblex><pri><p3><sg>$ ^le<det><def><m><sg>$ ^frère<n><m><sg>$}$ ^unknown<unknown>{^*meu$}$^default<default>{^.<sent>$}$
+[/-BnWHZQXzM43]
+[-SaiOZfzcWKR#0] ^default<default>{^Porter<vblex><imp><p2><sg>+te<prn><enc><p2><mf><sg>$}$ ^unknown<unknown>{^*lângă$}$ ^default<default>{^arbre<n><m><sg>$}$^default<default>{^!<sent>$}$
+[/-SaiOZfzcWKR]
+[-TqQ-RaAQmr-#0] ^default<default>{^Nous<prn><pro><p1><mf><pl>$}$ ^default<default>{^trouver<vblex><pri><p1><pl>$}$ ^default<default>{^sur<pr>$}$ ^default<default>{^à<pr>$ ^le<det><def><f><sg>$ ^heure<n><f><sg>$}$ ^default<default>{^cinq<num><mf><pl>$}$^default<default>{^.<sent>$}$
+[/-TqQ-RaAQmr-]
+[-nov1WRv3JnL#0] ^default<default>{^A<pr>$ ^le<det><def><nt><sg>$ ^bien<n><nt><sg>$}$ ^unknown<unknown>{^*student$}$^default<default>{^.<sent>$}$
+[/-nov1WRv3JnL]
+[0PKytJJZdEYW#0] ^default<default>{^Je<prn><tn><p1><mf><sg>$}$ ^default<default>{^manger<vblex><pri><p1><sg>$}$^default<default>{^.<sent>$}$
+[/0PKytJJZdEYW]
+[0VMp7krE1gcu#0] ^default<default>{^ni<cnjcoo>$ ^pleurer<vblex><pri><p3><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^ni<cnjcoo>$ ^rire<vblex><pri><p3><sg>$}$
+[/0VMp7krE1gcu]
+[0XmPkdGk2Yej#0] ^unknown<unknown>{^*Fată$}$ ^default<default>{^petit<adj><f><sg>$}$
+[/0XmPkdGk2Yej]
+[1KJ9iXxx7Lsl#0] ^default<default>{^de<pr>$ ^le<det><def><nt><sg>$ ^revenu<n><nt><sg>$}$ ^default<default>{^après<pr>$ ^le<det><def><f><pl>$ ^mine<n><f><pl>$}$^default<default>{^.<sent>$}$
+[/1KJ9iXxx7Lsl]
+[1V7rWxKZC4-2#0] ^unknown<unknown>{^*Surorile$}$ ^default<default>{^à moi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/1V7rWxKZC4-2]
+[2MfkpJgBXaco#0] ^default<default>{^Un<det><ind><f><sg>$ ^maison<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/2MfkpJgBXaco]
+[2SU-WKUmwSKM#0] ^default<default>{^À l'encontre de<pr><gen>$}$ ^default<default>{^changement<n><f><sg>$ ^climatique<adj><mf><sg>$ ^globale<adj><f><pl>$}$
+[/2SU-WKUmwSKM]
+[361JOxRR8Rn8#0] ^default<default>{^le<det><def><f><sg>$ ^livre<n><f><sg>$ ^cuyo<rel><aa><f><sg>$ ^couverture<n><f><sg>$}$
+[/361JOxRR8Rn8]
+[3pipKizvlVlZ#0] ^default<default>{^Grand-père<n><m><pl>$ ^à toi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/3pipKizvlVlZ]
+[5-s_p53Psq0f#0] ^unknown<unknown>{^*Al$}$ ^default<default>{^clou<n><nt><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$ ^le<det><def><m><sg>$ ^chien<n><m><sg>$}$ ^default<default>{^celui-là<prn><tn><m><sg>$}$^default<default>{^?<sent>$}$
+[/5-s_p53Psq0f]
+[5ael0Krlo21c#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*cel$}$ ^default<default>{^plus<adv>$}$ ^default<default>{^grand<adj><m><sg>$}$ ^default<default>{^de<pr>$ ^le<det><def><f><sg>$ ^classe<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/5ael0Krlo21c]
+[5zWElR2K-Saw#0] ^default<default>{^Le<det><def><nt><sg>$ ^camion<n><nt><sg>$}$ ^unknown<unknown>{^*tău$}$^default<default>{^.<sent>$}$
+[/5zWElR2K-Saw]
+[6LNI6zRZX9yK#0] ^default<default>{^Comment<adv><itg>$}$ ^unknown<unknown>{^*va$}$ ^default<default>{^résoudre<vblex><pii><p3><sg>$ ^le<det><def><nt><sg>$ ^exercice<n><nt><sg>$}$^default<default>{^?<sent>$}$
+[/6LNI6zRZX9yK]
+[6PoSpNRKz_PD#0] ^default<default>{^Tu<prn><tn><p2><mf><sg>$}$ ^default<default>{^manger<vblex><pri><p2><sg>$}$^default<default>{^.<sent>$}$
+[/6PoSpNRKz_PD]
+[6lfHduYA74ED#0] ^default<default>{^de<pr>$ ^le<det><def><f><sg>$ ^politique<n><f><sg>$ ^externe<adj><mf><sg>$ ^de<pr>$ ^Roumanie<np><f><sg>$}$
+[/6lfHduYA74ED]
+[77WSE1x5CyGN#0] ^default<default>{^Pouvoir<vbmod><pri><p2><sg>$}$ ^default<default>{^venir<vblex><inf>$}$ ^default<default>{^avec<pr>$}$ ^default<default>{^n'importe qui<prn><tn><mf><sp>$}$^default<default>{^.<sent>$}$
+[/77WSE1x5CyGN]
+[7LWrlsWLMWc_#0] ^default<default>{^frère<n><m><pl>$ ^à il<adj><pos><m><pl>$}$^default<default>{^.<sent>$}$
+[/7LWrlsWLMWc_]
+[7kQ_Zd5ppfF-#0] ^unknown<unknown>{^*Stiloul$}$ ^default<default>{^que<rel><an><mf><sp>$}$ ^unknown<unknown>{^*mi$}$ ^unknown<unknown>{^*l$}$-^default<default>{^donner<vblex><cni><p2><sg>$}$ ^default<default>{^ne<adv>$}$ ^default<default>{^écrire<vblex><pri><p3><sg>$}$^default<default>{^.<sent>$}$
+[/7kQ_Zd5ppfF-]
+[AUnXvHEHaYeB#0] ^default<default>{^le<det><def><f><sg>$ ^beau<adj><f><sg>$ ^légende<n><f><sg>$}$  ^unknown<unknown>{^*cinematografului$}$
+[/AUnXvHEHaYeB]
+[Ax2J22jLElmV#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^parler<vblex><pii><p3><sg>$}$^default<default>{^.<sent>$}$
+[/Ax2J22jLElmV]
+[BOc8obHsUPlG#0] ^default<default>{^faire<vblex><cni><p1><sg>$}$ ^default<default>{^le<f><sg>$}$
+[/BOc8obHsUPlG]
+[C-y4UcGmJVo5#0] ^default<default>{^Parler<vblex><pri><p3><sg>$}$ ^default<default>{^sur<pr>$}$ ^unknown<unknown>{^*tine$}$^default<default>{^.<sent>$}$
+[/C-y4UcGmJVo5]
+[CMQShS8VuZEF#0] ^default<default>{^Je<prn><tn><p1><mf><sg>$}$ ^default<default>{^parler<vblex><pri><p1><sg>$}$^default<default>{^.<sent>$}$
+[/CMQShS8VuZEF]
+[D9SWN7-y064e#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^default<default>{^très<preadv>$}$ ^default<default>{^grand<adj><m><sg>$}$^default<default>{^.<sent>$}$
+[/D9SWN7-y064e]
+[DxAXDRjt1jJp#0] ^default<default>{^Savoir<vblex><pri><p1><sg>$}$ ^unknown<unknown>{^*englezeşte$}$^default<default>{^,<cm>$}$ ^default<default>{^mais<cnjcoo>$}$ ^default<default>{^ne<adv>$}$ ^default<default>{^parler<vblex><pri><p1><sg>$}$ ^unknown<unknown>{^*nemţeşte$}$^default<default>{^.<sent>$}$
+[/DxAXDRjt1jJp]
+[EDLpQCtr5H7O#0] ^default<default>{^Le<det><def><f><sg>$ ^gâteau<n><f><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*facută$}$ ^default<default>{^de<pr>$ ^le<det><def><f><sg>$ ^farine<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/EDLpQCtr5H7O]
+[FPk0sb8YfLAI#0] ^unknown<unknown>{^*Îşi$}$ ^default<default>{^faire<vblex><pri><p3><sg>$ ^mal<n><nt><sg>$}$ ^unknown<unknown>{^*sie$}$ ^default<default>{^approprier<vblex><p3><sg>$}$^default<default>{^.<sent>$}$
+[/FPk0sb8YfLAI]
+[FT56rJKM-SlP#0] ^default<default>{^faire<vblex><cni><p1><sg>$}$
+[/FT56rJKM-SlP]
+[Fig-LkZsgy0R#0] ^default<default>{^Avoir<vblex><pri><p1><sg>$ ^revenu<n><nt><sg>$}$ ^default<default>{^que<cnjsub>$}$ ^default<default>{^te<prn><pro><p2><mf><sg>$}$ ^default<default>{^aider<vblex><prs><p1><sg>$}$^default<default>{^.<sent>$}$
+[/Fig-LkZsgy0R]
+[G2ujL9Ndksxx#0] ^unknown<unknown>{^*nespus$}$ ^default<default>{^de<pr>$}$ ^default<default>{^beau<adj><f><sg>$}$
+[/G2ujL9Ndksxx]
+[GbjER5kAtaPk#0] ^default<default>{^Je<prn><tn><p1><mf><sg>$}$ ^default<default>{^être<vblex><pri><p3><pl>$ ^ingénieur<n><mf><sg>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*iar$}$ ^default<default>{^époux<n><f><sg>$ ^à moi<adj><pos><mf><sp>$}$ ^default<default>{^être<vblex><pri><p3><sg>$ ^acteur<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/GbjER5kAtaPk]
+[GeAMFK4fd2Ja#0] ^default<default>{^Travailler<vblex><pri><p3><sg>$}$ ^default<default>{^tout<prn><tn><m><sg>$}$ ^default<default>{^ainsi<adv>$}$ ^default<default>{^de<pr>$}$ ^default<default>{^bien<preadv>$}$ ^default<default>{^comme<rel><adv>$}$ ^default<default>{^papa<n><m><sg>$ ^à il<adj><pos><m><sg>$}$^default<default>{^.<sent>$}$
+[/GeAMFK4fd2Ja]
+[GgYaOXX2VbJa#0] ^unknown<unknown>{^*Unui$}$ ^unknown<unknown>{^*student$}$ ^default<default>{^bien<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/GgYaOXX2VbJa]
+[GsrucfsBNN3N#0] ^default<default>{^le<det><def><m><sg>$ ^garçon<n><m><sg>$}$ ^default<default>{^.<sent>$}$
+[/GsrucfsBNN3N]
+[Hd-TQv8n-vkX#0] ^default<default>{^Le<det><def><m><sg>$ ^garçon<n><m><sg>$}$
+[/Hd-TQv8n-vkX]
+[HyGnbT14GNNN#0] ^default<default>{^Rester<vblex><pri><p2><sg>$ ^en<pr>$ ^chambre<n><f><sg>$}$^default<default>{^!<sent>$}$
+[/HyGnbT14GNNN]
+[I9uY5nVxeeRL#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^travailler<vblex><pri><p3><sg>$}$ ^default<default>{^bien<preadv>$}$^default<default>{^.<sent>$}$
+[/I9uY5nVxeeRL]
+[IYRL-KnVCwFQ#0] ^default<default>{^Venir<vblex><pri><p2><sg>$}$ ^default<default>{^avec moi<prn><tn><p1><mf><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^ou<cnjcoo>$}$ ^default<default>{^rester<vblex><pri><p2><sg>$}$ ^default<default>{^ici<adv>$}$^default<default>{^?<sent>$}$
+[/IYRL-KnVCwFQ]
+[ImUAFZAmCmk4#0] ^default<default>{^à<pr>$}$ ^unknown<unknown>{^*hotarele$}$ ^default<default>{^Europe<np><top><f><sg><dg><def>$}$
+[/ImUAFZAmCmk4]
+[IyjQLvX66K61#0] ^default<default>{^pour<pr>$ ^le<det><def><f><sg>$ ^livre<n><f><sg>$ ^de<pr>$ ^à moi<det><pos><mf><sg>$ ^ami<n><f><sg>$}$
+[/IyjQLvX66K61]
+[JB7X6BlUgsEz#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^manger<vblex><pri><p3><sg>$}$^default<default>{^.<sent>$}$
+[/JB7X6BlUgsEz]
+[JcM_lCIfYmmc#0] ^unknown<unknown>{^*Studentul$}$ ^default<default>{^bien<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/JcM_lCIfYmmc]
+[Kl5_3KCvGYK0#0] ^unknown<unknown>{^*nespus$}$ ^default<default>{^de<pr>$}$ ^default<default>{^beau<adj><f><pl>$}$
+[/Kl5_3KCvGYK0]
+[L9NXcmBsoBMw#0] ^default<default>{^Recevoir<vblex><cni><p2><sg>$}$ ^unknown<unknown>{^*ordin$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*aşadar$}$ ^unknown<unknown>{^*trebuie$}$ ^default<default>{^que<cnjsub>$}$ ^default<default>{^partir<vblex><prs><p2><sg>$}$^default<default>{^.<sent>$}$
+[/L9NXcmBsoBMw]
+[L_JNyzQIPVKV#0] ^default<default>{^Quand<adv><itg>$}$ ^unknown<unknown>{^*va$}$ ^default<default>{^sortir<vblex><pri><p2><sg>$}$^default<default>{^?<sent>$}$
+[/L_JNyzQIPVKV]
+[LaC4mG9fhNiw#0] ^default<default>{^Le<det><def><f><pl>$ ^fleur<n><f><pl>$}$ ^default<default>{^être<vblex><pri><p3><pl>$ ^a<pr>$ ^le<det><def><f><sg>$ ^table<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/LaC4mG9fhNiw]
+[Ln0uUgibIprz#0] ^default<default>{^Le<det><def><f><sg>$ ^chaussure<n><f><sg>$}$ ^unknown<unknown>{^*meu$}$^default<default>{^.<sent>$}$
+[/Ln0uUgibIprz]
+[M3BeRhCHEbii#0] ^unknown<unknown>{^*Un$}$ ^unknown<unknown>{^*student$}$ ^default<default>{^bien<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/M3BeRhCHEbii]
+[NJ2YTiVZLNOl#0] ^default<default>{^À il<adj><pos><f><sg>$}$ ^default<default>{^vouloir<vblex><pri><p3><sg>$}$ ^default<default>{^parler<vblex><p3><sg>$}$^default<default>{^.<sent>$}$
+[/NJ2YTiVZLNOl]
+[NdcCjyzfQKlk#0] ^default<default>{^Comment<adv><itg>$}$ ^unknown<unknown>{^*vom$}$ ^default<default>{^résoudre<vblex><pii><p3><sg>$ ^le<det><def><nt><sg>$ ^exercice<n><nt><sg>$}$^default<default>{^?<sent>$}$
+[/NdcCjyzfQKlk]
+[O3Pv-4XV2UMx#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^à<pr>$}$ ^default<default>{^dire<vblex><pp><m><sg>$}$ ^default<default>{^que<cnjsub>$}$ ^default<default>{^me<prn><pro><p1><mf><sg>$}$ ^default<default>{^attendre<vblex><pri><p3><sg>$}$^default<default>{^.<sent>$}$
+[/O3Pv-4XV2UMx]
+[OA0YnJLHzTEX#0] ^default<default>{^de<pr>$ ^le<det><def><f><sg>$ ^température<n><f><sg>$}$
+[/OA0YnJLHzTEX]
+[ODzqu3JnHJis#0] ^default<default>{^le<det><def><f><sg>$ ^porte<n><f><sg>$}$ ^default<default>{^depuis<pr>$ ^le<det><def><f><sg>$ ^rue<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/ODzqu3JnHJis]
+[OHJlJrs96s4Z#0] ^default<default>{^Livre<n><f><sg>$ ^bon<adj><f><sg>$}$
+[/OHJlJrs96s4Z]
+[Q3H46aaVAo50#0] ^default<default>{^faire<vblex><fti><p1><sg>$}$
+[/Q3H46aaVAo50]
+[Q3iyErVEQ23q#0] ^default<default>{^sur<pr>$ ^le<det><def><f><sg>$ ^légende<n><f><sg>$ ^beau<adj><f><sg>$}$  ^unknown<unknown>{^*cinematografului$}$
+[/Q3iyErVEQ23q]
+[QDIMp7S0K43s#0] ^default<default>{^Quand<adv><itg>$}$ ^unknown<unknown>{^*vom$}$ ^default<default>{^sortir<vblex><pri><p2><sg>$}$^default<default>{^?<sent>$}$
+[/QDIMp7S0K43s]
+[QhDSzgURQIWR#0] ^default<default>{^le<det><def><f><sg>$ ^livre<n><f><sg>$}$ ^unknown<unknown>{^*fetei$}$
+[/QhDSzgURQIWR]
+[RK908sq7YklE#0] ^default<default>{^jamais<adv>$ ^pleurer<vblex><pri><p3><sg>$}$
+[/RK908sq7YklE]
+[RfLMOaN6oFgN#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^unknown<unknown>{^*se$}$ ^default<default>{^coiffer<vblex><pri><p3><sg>$}$^default<default>{^.<sent>$}$
+[/RfLMOaN6oFgN]
+[SkmVU-LbMuT2#0] ^default<default>{^le<det><def><f><sg>$ ^livre<n><f><sg>$ ^de<pr>$ ^à moi<det><pos><mf><sg>$ ^ami<n><f><sg>$}$
+[/SkmVU-LbMuT2]
+[TmYFjS7d4pQ3#0] ^default<default>{^Onde<n><f><pl>$}$ ^default<default>{^partir<vblex><pri><p3><pl>$}$^default<default>{^?<sent>$}$
+[/TmYFjS7d4pQ3]
+[Tn8hdyrs563c#0] ^default<default>{^Le<det><def><m><pl>$ ^élève<n><mf><pl>$}$ ^default<default>{^celui-là<prn><tn><m><pl>$}$^default<default>{^.<sent>$}$
+[/Tn8hdyrs563c]
+[UP4B_ryyYf0g#0] ^default<default>{^Le<det><def><f><sg>$ ^maison<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/UP4B_ryyYf0g]
+[UcDLBsRai7gI#0] ^default<default>{^Clou<n><nt><sg>$}$ ^default<default>{^le<prn><pro><p3><mf><pl>$}$ ^default<default>{^donner<vblex><cni><p2><sg>$}$ ^default<default>{^téléphone<n><nt><sg>$}$^default<default>{^?<sent>$}$
+[/UcDLBsRai7gI]
+[UvoL9NxvstxT#0] ^unknown<unknown>{^*nespus$}$ ^default<default>{^de<pr>$}$ ^default<default>{^beau<adj><m><pl>$}$
+[/UvoL9NxvstxT]
+[VPE96lbhyOaf#0] ^default<default>{^en<pr>$ ^le<det><def><f><sg>$ ^maison<n><f><sg>$ ^merveilleux<adj><f><sg>$}$
+[/VPE96lbhyOaf]
+[W95NT3Kds0qC#0] ^default<default>{^Tu<prn><tn><p2><mf><sg>$}$ ^default<default>{^parler<vblex><pii><p2><sg>$}$^default<default>{^.<sent>$}$
+[/W95NT3Kds0qC]
+[Xu3vUxgDH9BO#0] ^default<default>{^Arbre<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/Xu3vUxgDH9BO]
+[YEpT5bPfBq-f#0] ^default<default>{^Le<det><def><m><sg>$ ^chien<n><m><sg>$}$ ^default<default>{^fuir<vblex><pri><p3><sg>$}$ ^default<default>{^moins<adv>$}$ ^default<default>{^vite<adv>$}$ ^unknown<unknown>{^*decât$}$ ^default<default>{^le<det><def><m><sg>$ ^cheval<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/YEpT5bPfBq-f]
+[YOxb3SO60Lbl#0] ^default<default>{^Si<cnjadv>$}$ ^default<default>{^vouloir<vblex><pri><p2><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^aller<vblex><pri><p1><sg>$}$ ^default<default>{^avec toi<prn><tn><p2><mf><sg>$}$^default<default>{^.<sent>$}$
+[/YOxb3SO60Lbl]
+[ZpC83dLayPLV#0] ^default<default>{^haber<vbhaver><pii><p1><sg>$ ^faire<vblex><pp><m><sg>$}$
+[/ZpC83dLayPLV]
+[_n27fBqb4s39#0] ^default<default>{^le<det><def><f><sg>$ ^maison<n><f><sg>$}$ ^default<default>{^de<pr>$ ^tout<predet><m><pl>$}$
+[/_n27fBqb4s39]
+[_qmd9L45kzaF#0] ^default<default>{^Cent<num><mf><pl>$}$ ^default<default>{^trente<num><mf><pl>$ ^enfant<n><mf><pl>$}$^default<default>{^.<sent>$}$
+[/_qmd9L45kzaF]
+[aAmUOzdDMpuH#0] ^default<default>{^Nouveau<adj><m><pl>$}$ ^default<default>{^parler<vblex><cni><p1><sg>$}$^default<default>{^.<sent>$}$
+[/aAmUOzdDMpuH]
+[aHaHYpfL8Akk#0] ^default<default>{^Manger<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*mult$}$^default<default>{^.<sent>$}$
+[/aHaHYpfL8Akk]
+[bBLusr9CU57D#0] ^default<default>{^À<pr>$}$ ^default<default>{^parler<vblex><inf>$}$
+[/bBLusr9CU57D]
+[bMKfgztFXNon#0] ^default<default>{^tout<prn><tn><m><pl>$}$ ^default<default>{^le<det><def><m><pl>$ ^enfant<n><mf><pl>$}$
+[/bMKfgztFXNon]
+[bMmPdHdWKX6R#0] ^default<default>{^Le<det><def><m><sg>$ ^arbre<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/bMmPdHdWKX6R]
+[bRFec-C8Vp9q#0] ^default<default>{^Te<prn><pro><p2><mf><sg>$}$ ^default<default>{^croire<vblex><pri><p1><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^puisque<cnjadv>$}$ ^default<default>{^te<prn><pro><p2><mf><sg>$}$ ^default<default>{^connaître<vblex><pri><p1><sg>$}$^default<default>{^.<sent>$}$
+[/bRFec-C8Vp9q]
+[bTNsYeUcRK10#0] ^default<default>{^Parfois<adv>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^default<default>{^triste<adj><m><sg>$}$^default<default>{^.<sent>$}$
+[/bTNsYeUcRK10]
+[bY88JzEcVYJr#0] ^default<default>{^Attendre<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*până$}$ ^default<default>{^(<lpar>$}$^default<default>{^qu'est-ce que<prn><itg><mf><sg>$}$^default<default>{^)<rpar>$}$ ^default<default>{^me<prn><pro><p1><mf><sg>$}$ ^default<default>{^rentrer<vblex><pri><p1><sg>$}$^default<default>{^!<sent>$}$
+[/bY88JzEcVYJr]
+[c-eog2t6J7fB#0] ^default<default>{^Ne<adv>$}$ ^default<default>{^vin<n><nt><sg>$}$ ^default<default>{^ni<cnjcoo>$}$ ^default<default>{^aujourd'hui<adv>$}$^default<default>{^,<cm>$}$ ^default<default>{^ni<cnjcoo>$}$ ^default<default>{^demain<adv>$}$^default<default>{^.<sent>$}$
+[/c-eog2t6J7fB]
+[c236Zw7pVu9A#0] ^default<default>{^Plus<adv>$}$ ^default<default>{^travailler<vblex><pri><p3><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^bien que<cnjadv>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*pensionar$}$^default<default>{^.<sent>$}$
+[/c236Zw7pVu9A]
+[c4f7o3t5RlFG#0] ^default<default>{^le<det><def><f><sg>$ ^plus<adv>$ ^beau<adj><f><sg>$}$
+[/c4f7o3t5RlFG]
+[d7TyaLtojovk#0] ^default<default>{^À l'encontre de<pr><gen>$}$ ^default<default>{^changement<n><f><sg>$ ^climatique<adj><mf><sg>$}$
+[/d7TyaLtojovk]
+[ddXkhsFLS7mX#0] ^default<default>{^Garçon<n><m><sg>$ ^bon<adj><m><sg>$}$
+[/ddXkhsFLS7mX]
+[dfKyGnwsRdrz#0] ^default<default>{^Nouveau<adj><m><pl>$}$ ^default<default>{^manger<vblex><pri><p1><pl>$}$^default<default>{^.<sent>$}$
+[/dfKyGnwsRdrz]
+[e6_ieKL7Alhb#0] ^default<default>{^Tous les deux<prn><tn><m><pl>$}$
+[/e6_ieKL7Alhb]
+[edMpkNOq-wcg#0] ^unknown<unknown>{^*cele$}$ ^default<default>{^plus<adv>$}$ ^default<default>{^beau<adj><f><pl>$}$
+[/edMpkNOq-wcg]
+[f5YMBcCcLr3A#0] ^unknown<unknown>{^*fată$}$ ^default<default>{^de<pr>$ ^le<det><def><nt><sg>$ ^ville<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/f5YMBcCcLr3A]
+[fIrbBzHjEUx_#0] ^default<default>{^Rester<vblex><pri><p2><sg>$}$ ^default<default>{^ici<adv>$}$^default<default>{^!<sent>$}$
+[/fIrbBzHjEUx_]
+[fgLTXg5-VEyi#0] ^unknown<unknown>{^*Acest$}$ ^default<default>{^chien<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/fgLTXg5-VEyi]
+[fh20WfObEu1t#0] ^default<default>{^mettre<vblex><pri><p3><sg>$ ^sur<pr>$ ^le<det><def><f><sg>$ ^couverture<n><f><sg>$ ^de<pr>$ ^le<det><def><f><sg>$ ^livre<n><f><sg>$}$
+[/fh20WfObEu1t]
+[gK88bD8W7X-2#0] ^default<default>{^Qui est-ce qui<prn><itg><mf><sp>$}$ ^default<default>{^à<pr>$}$ ^default<default>{^sortir<vblex><pp><m><sg>$}$^default<default>{^?<sent>$}$
+[/gK88bD8W7X-2]
+[gR6Kuyqswh-6#0] ^default<default>{^Être<vblex><pri><p3><sg>$}$ ^default<default>{^impossible<adj><m><sg>$}$ ^default<default>{^que<cnjsub>$}$ ^default<default>{^ne<adv>$}$ ^default<default>{^venir<vblex><prs><p3><sg>$}$^default<default>{^.<sent>$}$
+[/gR6Kuyqswh-6]
+[gaCvNRUh4Gzt#0] ^default<default>{^allégresse<n><f><sg>$}$ ^default<default>{^de<pr>$}$ ^unknown<unknown>{^*argint$}$^default<default>{^.<sent>$}$
+[/gaCvNRUh4Gzt]
+[gayrk0kMF6_8#0] ^default<default>{^Ne<adv>$}$ ^default<default>{^faire<vblex><cni><p2><sg>$}$ ^default<default>{^rien<prn><tn><nt><sg>$}$ ^default<default>{^mal<n><nt><sg>$}$^default<default>{^,<cm>$}$ ^unknown<unknown>{^*deci$}$ ^default<default>{^ne<adv>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*supărat$}$ ^default<default>{^sur<pr>$}$ ^unknown<unknown>{^*tine$}$^default<default>{^.<sent>$}$
+[/gayrk0kMF6_8]
+[h5sEQDvHvrkn#0] ^default<default>{^Être<vblex><pri><p3><sg>$}$ ^default<default>{^très<preadv>$}$ ^default<default>{^fatiguer<vblex><pp><m><sg>$}$^default<default>{^.<sent>$}$
+[/h5sEQDvHvrkn]
+[hJcbtUJMYgFu#0] ^default<default>{^Problème<n><f><pl>$ ^à toi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/hJcbtUJMYgFu]
+[hTtdkzRGzPgl#0] ^default<default>{^Livre<n><f><sg>$ ^à moi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/hTtdkzRGzPgl]
+[iI4_qSO04yX8#0] ^default<default>{^Deux<num><m><pl>$ ^enfant<n><mf><pl>$}$^default<default>{^.<sent>$}$
+[/iI4_qSO04yX8]
+[iPBHd9PuQtJE#0] ^default<default>{^voir<vblex><ger>$ ^le<det><def><f><sg>$ ^légende<n><f><sg>$ ^beau<adj><f><sg>$}$  ^unknown<unknown>{^*cinematografului$}$
+[/iPBHd9PuQtJE]
+[iUduVWrgWsWE#0] ^default<default>{^Le<det><def><m><sg>$ ^homme<n><m><sg>$}$ ^unknown<unknown>{^*nostru$}$^default<default>{^.<sent>$}$
+[/iUduVWrgWsWE]
+[i_qZbfeykyl9#0] ^default<default>{^Père<n><m><pl>$ ^à moi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/i_qZbfeykyl9]
+[ieTgcMp9Mdrj#0] ^unknown<unknown>{^*Ghepardul$}$ ^default<default>{^fuir<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*cel$}$ ^default<default>{^plus<adv>$}$ ^default<default>{^vite<adv>$}$ ^default<default>{^de<pr>$}$ ^default<default>{^tout<predet><f><pl>$ ^animal<n><nt><pl>$}$^default<default>{^.<sent>$}$
+[/ieTgcMp9Mdrj]
+[iv-ZmfvUDm-d#0] ^default<default>{^Mouiller<vblex><pri><p1><sg>$}$ ^default<default>{^avec<pr>$}$ ^unknown<unknown>{^*multă$}$ ^default<default>{^eau<n><f><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^pour<pr>$}$ ^default<default>{^comme<rel><adv>$}$ ^default<default>{^le<det><def><f><pl>$ ^fleur<n><f><pl>$}$ ^default<default>{^que<cnjsub>$}$ ^unknown<unknown>{^*se$}$ ^default<default>{^développer<vblex><imp><p3><pl>$}$ ^default<default>{^bien<preadv>$}$^default<default>{^.<sent>$}$
+[/iv-ZmfvUDm-d]
+[j1R7_dOvUHjr#0] ^default<default>{^Être<vblex><pri><p3><sg>$}$ ^default<default>{^tellement<preadv>$}$ ^default<default>{^que<cnjsub>$ ^fatiguer<vblex><inf>$}$^default<default>{^,<cm>$}$ ^default<default>{^que<cnjsub>$}$ ^default<default>{^ne<adv>$}$ ^default<default>{^peut être<adv>$}$ ^unknown<unknown>{^*adormi$}$^default<default>{^.<sent>$}$
+[/j1R7_dOvUHjr]
+[ji_q7Re1fwSL#0] ^default<default>{^Venir<vblex><pii><p3><sg>$}$ ^default<default>{^vers<pr>$}$ ^default<default>{^nouveau<adj><m><pl>$}$^default<default>{^.<sent>$}$
+[/ji_q7Re1fwSL]
+[jvfOrMg8zAyZ#0] ^default<default>{^sur<pr>$ ^le<det><def><f><sg>$ ^couverture<n><f><sg>$ ^de<pr>$ ^le<det><def><f><sg>$ ^livre<n><f><sg>$}$
+[/jvfOrMg8zAyZ]
+[jwoKF59O42Jw#0] ^default<default>{^tout<predet><f><pl>$}$ ^unknown<unknown>{^*culorile$}$ ^unknown<unknown>{^*curcubeului$}$
+[/jwoKF59O42Jw]
+[kC3knDDv9YJX#0] ^default<default>{^Venir<vblex><imp><p2><sg>$ ^à<pr>$ ^mine<n><f><pl>$}$^default<default>{^!<sent>$}$
+[/kC3knDDv9YJX]
+[kGTWxDBOrSaA#0] ^unknown<unknown>{^*Melcul$}$ ^default<default>{^aller<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*cel$}$ ^default<default>{^moins<adv>$}$ ^default<default>{^vite<adv>$}$ ^default<default>{^de<pr>$}$ ^default<default>{^tout<predet><f><pl>$ ^animal<n><nt><pl>$}$^default<default>{^.<sent>$}$
+[/kGTWxDBOrSaA]
+[kL4cZtZ2-649#0] ^default<default>{^Aller<vblex><pri><p2><sg>$}$ ^default<default>{^trop<adv>$}$ ^default<default>{^doucement<adv>$}$^default<default>{^.<sent>$}$
+[/kL4cZtZ2-649]
+[kNQi9s3NmZsK#0] ^default<default>{^légende<n><f><sg>$ ^beau<adj><f><sg>$}$  ^unknown<unknown>{^*cinematografului$}$
+[/kNQi9s3NmZsK]
+[khLjEeGKz_kJ#0] ^default<default>{^politique<n><f><sg>$ ^de<pr>$ ^le<det><def><f><sg>$ ^Roumanie<np><f><sg>$}$
+[/khLjEeGKz_kJ]
+[l4psBcl0c152#0] ^default<default>{^donner<vblex><cni><p1><sg>$}$ ^default<default>{^le<det><def><f><sg>$ ^livre<n><f><sg>$}$ ^unknown<unknown>{^*fetei$}$
+[/l4psBcl0c152]
+[l8RydoKsoX17#0] ^default<default>{^Partir<vblex><pri><p1><sg>$}$ ^default<default>{^être<vblex><prs><p3><sg>$}$ ^default<default>{^aujourd'hui<adv>$}$^default<default>{^,<cm>$}$ ^default<default>{^être<vblex><prs><p3><sg>$}$ ^default<default>{^demain<adv>$}$^default<default>{^.<sent>$}$
+[/l8RydoKsoX17]
+[lOYgoPxQsA-V#0] ^unknown<unknown>{^*Voi$}$ ^unknown<unknown>{^*vorbiserăți$}$^default<default>{^.<sent>$}$
+[/lOYgoPxQsA-V]
+[mgDtFnKG2AL_#0] ^default<default>{^Le<det><def><f><sg>$ ^chat<n><f><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$ ^sous<pr>$ ^table<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/mgDtFnKG2AL_]
+[mjNDKwBfgLq1#0] ^default<default>{^Le<det><def><f><sg>$ ^maison<n><f><sg>$}$
+[/mjNDKwBfgLq1]
+[mqPm4rR32teL#0] ^default<default>{^le<det><def><m><pl>$ ^plus<adv>$ ^beau<adj><m><pl>$}$
+[/mqPm4rR32teL]
+[nEGWIf4Mr06n#0] ^default<default>{^À<pr>$}$ ^default<default>{^être<vblex><pp><m><sg>$}$ ^default<default>{^fidèle<adj><m><sg>$}$ ^default<default>{^jusqu'à<pr>$ ^le<det><def><f><sg>$ ^mort<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/nEGWIf4Mr06n]
+[ntLKL0LSoSZ2#0] ^default<default>{^Le<det><def><f><sg>$ ^livre<n><f><sg>$}$ ^default<default>{^cela<prn><tn><nt><sg>$}$^default<default>{^.<sent>$}$
+[/ntLKL0LSoSZ2]
+[o83PhWv-7w0-#0] ^default<default>{^Un<det><ind><f><sg>$ ^maison<n><f><sg>$}$ ^unknown<unknown>{^*mare$}$^default<default>{^.<sent>$}$
+[/o83PhWv-7w0-]
+[oClRr1H0YdSr#0] ^unknown<unknown>{^*Grijile$}$ ^default<default>{^à il<adj><pos><f><pl>$}$^default<default>{^.<sent>$}$
+[/oClRr1H0YdSr]
+[pn9rcMFamBKd#0] ^default<default>{^Fils<n><m><sp>$ ^à il<adj><pos><m><sg>$}$^default<default>{^.<sent>$}$
+[/pn9rcMFamBKd]
+[qLYAw0tbU5hK#0] ^default<default>{^Faire<vblex><imp><p2><sg>+le<prn><enc><p3><f><sg>$}$ ^default<default>{^pour<pr>$ ^le<det><def><f><pl>$ ^mine<n><f><pl>$}$^default<default>{^!<sent>$}$
+[/qLYAw0tbU5hK]
+[rEnKq9kAQBvN#0] ^default<default>{^Fleur<n><f><sg>$ ^à toi<adj><pos><mf><sp>$}$^default<default>{^.<sent>$}$
+[/rEnKq9kAQBvN]
+[rJYlXGuY3C13#0] ^default<default>{^Aller<vblex><pii><p3><sg>$ ^vers<pr>$ ^ville<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/rJYlXGuY3C13]
+[rg2NQUgWFIF2#0] ^unknown<unknown>{^*Voi$}$ ^default<default>{^manger<vblex><pp><m><sg>$}$^default<default>{^.<sent>$}$
+[/rg2NQUgWFIF2]
+[s4nMn_0BTc2Z#0] ^unknown<unknown>{^*nespus$}$ ^default<default>{^de<pr>$}$ ^default<default>{^beau<adj><m><sg>$}$
+[/s4nMn_0BTc2Z]
+[sUJqprtybo6_#0] ^default<default>{^que<cnjsub>$ ^faire<vblex><inf>$}$
+[/sUJqprtybo6_]
+[sw9nqKopBnN0#0] ^default<default>{^Le<det><def><m><sg>$ ^chien<n><m><sg>$}$ ^default<default>{^fuir<vblex><pri><p3><sg>$}$ ^default<default>{^pareil<adv>$}$ ^default<default>{^de<pr>$}$ ^default<default>{^vite<adv>$}$ ^default<default>{^comme<rel><adv>$}$ ^default<default>{^le<det><def><f><sg>$ ^chat<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/sw9nqKopBnN0]
+[t8vJlK15cnz3#0] ^default<default>{^en<pr>$ ^le<det><def><f><sg>$ ^maison<n><f><sg>$ ^petit<adj><f><sg>$ ^merveilleux<adj><f><sg>$}$
+[/t8vJlK15cnz3]
+[tHm7XD9_B61c#0] ^default<default>{^Maison<n><f><sg>$}$^default<default>{^.<sent>$}$
+[/tHm7XD9_B61c]
+[tpSuNXq_Nbj-#0] ^unknown<unknown>{^*cel$}$ ^default<default>{^plus<adv>$}$ ^default<default>{^beau<adj><m><sg>$}$
+[/tpSuNXq_Nbj-]
+[u0Rfzu9LW9Kw#0] ^unknown<unknown>{^*Studentului$}$ ^default<default>{^bien<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/u0Rfzu9LW9Kw]
+[u4q-Eo1FugOO#0] ^unknown<unknown>{^*Îşi$}$ ^default<default>{^raconter<vblex><pri><p1><sg>$ ^le<det><def><f><pl>$ ^aventure<n><f><pl>$}$ ^default<default>{^un<prn><tn><m><sg>$}$ ^default<default>{^autrui<prn><tn><mf><sg>$}$^default<default>{^.<sent>$}$
+[/u4q-Eo1FugOO]
+[uBRwbxe65uIx#0] ^unknown<unknown>{^*Un$}$ ^default<default>{^bien<n><nt><sg>$}$ ^unknown<unknown>{^*student$}$^default<default>{^.<sent>$}$
+[/uBRwbxe65uIx]
+[uDKwFA20mmoc#0] ^default<default>{^Frère<n><m><pl>$ ^à il<adj><pos><m><pl>$}$^default<default>{^.<sent>$}$
+[/uDKwFA20mmoc]
+[uXVY8VrkM4l4#0] ^unknown<unknown>{^*voi$}$ ^default<default>{^faire<vblex><pri><p3><sg>$}$
+[/uXVY8VrkM4l4]
+[v5yNe8aRKNYi#0] ^default<default>{^le<det><def><nt><sg>$ ^tombe<n><nt><sg>$ ^de<pr>$ ^Jésus<np><ant><m><sg>$}$
+[/v5yNe8aRKNYi]
+[vM_lBz7_e3Fo#0] ^default<default>{^2<num>$ ^avril<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/vM_lBz7_e3Fo]
+[vS-_3Y_-Fulp#0] ^default<default>{^instrument<n><nt><pl>$ ^juridique<adj><mf><sg>$ ^communautaire<adj><mf><sg>$}$
+[/vS-_3Y_-Fulp]
+[vSuU0Gb0sLS8#0] ^default<default>{^École<n><f><sg>$ ^à il<adj><pos><f><sg>$}$^default<default>{^.<sent>$}$
+[/vSuU0Gb0sLS8]
+[vuVUIQCOIdag#0] ^default<default>{^Ne<adv>$}$ ^default<default>{^neiger<vblex><pri><p3><sg>$}$^default<default>{^,<cm>$}$ ^default<default>{^mais<cnjcoo>$}$ ^default<default>{^être<vblex><pri><p3><sg>$ ^froid<n><nt><sg>$}$^default<default>{^.<sent>$}$
+[/vuVUIQCOIdag]
+[w8jQYNv4u0J8#0] ^unknown<unknown>{^*hotarele$}$ ^default<default>{^Europe<np><top><f><sg><dg><def>$}$
+[/w8jQYNv4u0J8]
+[wC0S7IAr_wHS#0] ^default<default>{^Le<det><def><m><pl>$ ^frère<n><m><pl>$}$
+[/wC0S7IAr_wHS]
+[x-mO1YNlJrqN#0] ^default<default>{^Le<det><def><m><sg>$ ^chien<n><m><sg>$}$ ^default<default>{^fuir<vblex><pri><p3><sg>$}$ ^default<default>{^plus<adv>$}$ ^default<default>{^vite<adv>$}$ ^unknown<unknown>{^*decât$}$ ^default<default>{^le<det><def><m><sg>$ ^mouton<n><m><sg>$}$^default<default>{^.<sent>$}$
+[/x-mO1YNlJrqN]
+[x0rRKuzhMJ1Y#0] ^unknown<unknown>{^*referitor$}$ ^default<default>{^à<pr>$ ^le<det><def><f><sg>$ ^limitation<n><f><sg>$ ^de<pr>$ ^le<det><def><f><pl>$ ^changement<n><f><pl>$ ^climatique<adj><mf><sg>$ ^globale<adj><f><pl>$}$
+[/x0rRKuzhMJ1Y]
+[xTOfpjbkqAqv#0] ^default<default>{^Parler<vblex><pri><p3><sg>$}$^default<default>{^!<sent>$}$
+[/xTOfpjbkqAqv]
+[xwuAAd1_1XNb#0] ^default<default>{^Sur<pr>$ ^qui est-ce qui<prn><itg><mf><sp>$}$ ^default<default>{^attendre<vblex><pri><p2><sg>$}$^default<default>{^?<sent>$}$
+[/xwuAAd1_1XNb]
+[yRxOhUEFzdIT#0] ^default<default>{^À il<adj><pos><f><sg>$}$ ^default<default>{^manger<vblex><pri><p3><sg>$}$^default<default>{^.<sent>$}$
+[/yRxOhUEFzdIT]
+[ze0lb4lVREJq#0] ^default<default>{^Donner<vblex><imp><p2><sg>+me<prn><enc><p1><mf><sg>$}$ ^default<default>{^téléphone<n><nt><sg>$}$ ^unknown<unknown>{^*peste$}$ ^default<default>{^un<det><ind><f><sg>$ ^heure<n><f><sg>$}$^default<default>{^!<sent>$}$
+[/ze0lb4lVREJq]
+[zuxTiXgtikTe#0] ^default<default>{^Il<prn><tn><p3><m><sg>$}$ ^default<default>{^être<vblex><pri><p3><sg>$}$ ^default<default>{^autant<adv>$}$ ^default<default>{^de<pr>$}$ ^default<default>{^beau<adj><m><sg>$}$^default<default>{^.<sent>$}$
+[/zuxTiXgtikTe]
